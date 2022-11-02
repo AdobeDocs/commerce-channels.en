@@ -8,21 +8,13 @@ exl-id: 7c4ccd9e-ae32-4511-8d1e-baa690604612
 
 # Onboard [!DNL Channel Manager]
 
-After you complete onboarding, configure and manage sales channel operations from the [!UICONTROL Channel Manager] option on the [!UICONTROL Commerce Admin Marketing] menu.
+After you complete the Channel Manager onboarding process, you can access, configure, and manage Walmart Marketplace channel sales operations from Adobe Commerce. Channel Manager is available from the [!UICONTROL Channel Manager] option on the [!UICONTROL Commerce Admin Marketing] menu.
 
 ![[!DNL Channel Manager] option in Admin view](assets/channel-manager-admin-view.png)
 
-## Onboarding overview
+## Prerequisites
 
-1. [Install the [!DNL Channel Manager] extension](install.md).
-
-1. [Connect to Commerce Services](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
-
-1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect-marketplace.md).
-
-1. [Complete store setup](complete-sales-channel-store-setup.md).
-
-## Requirements
+Review the requirements for using Channel Manager to and gather the required account information and credentials to download, install, and configure the extension. 
 
 - Verify that you meet the [Walmart Marketplace requirements](walmart-requirements.md) to integrate with Channel Manager.
 
@@ -69,3 +61,13 @@ After you complete onboarding, configure and manage sales channel operations fro
 - Adobe Commerce on Cloud (ECE) : 2.4.x
 - Adobe Commerce on premises (EE) : 2.4.x
 - Magento Open Source 2.4.x
+
+## Onboarding overview
+
+1. [Install the [!DNL Channel Manager] extension](install.md).
+
+1. [Connect to Commerce Services](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
+
+1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect-marketplace.md).
+
+1. [Complete store setup](complete-sales-channel-store-setup.md).
