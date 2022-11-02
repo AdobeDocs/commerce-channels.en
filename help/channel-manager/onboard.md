@@ -16,9 +16,9 @@ After you complete onboarding, configure and manage sales channel operations fro
 
 1. [Install the [!DNL Channel Manager] extension](install.md).
 
-1. [Configure the [!DNL Commerce Services Connector]](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
+1. [Connect to Commerce Services](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
 
-1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect.md).
+1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect-marketplace.md).
 
 1. [Complete store setup](complete-sales-channel-store-setup.md).
 
