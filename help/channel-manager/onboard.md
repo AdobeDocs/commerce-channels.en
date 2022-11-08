@@ -12,11 +12,11 @@ After you complete the Channel Manager onboarding process, you can access, confi
 
 ![[!DNL Channel Manager] option in Admin view](assets/channel-manager-admin-view.png)
 
-## Prerequisites
+## Requirements
 
 Review the requirements for using Channel Manager to and gather the required account information and credentials to download, install, and configure the extension. 
 
-- Verify that you meet the [Walmart Marketplace requirements](walmart-requirements.md) to integrate with Channel Manager.
+-  Verify that you meet [Walmart Marketplace requirements](walmart-requirements.md) to integrate with Channel Manager including setting up your Seller account and generating the API key to enable the integration.
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"}. You need an account ID and credentials with Owner or Admin access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
@@ -34,7 +34,7 @@ Review the requirements for using Channel Manager to and gather the required acc
 
     - Super User access to the Cloud project
     - Admin access to a specific environment
-    - an [!DNL Adobe Commerce] or [!DNL Magento Open Source] account with permissions to access the Composer repository
+    - an [!DNL Adobe Commerce] account with permissions to access the Composer repository
     
     See [Manage user access](https://devdocs.magento.com/cloud/project/user-admin.html).
 
@@ -44,9 +44,9 @@ Review the requirements for using Channel Manager to and gather the required acc
 
 - [!DNL Inventory Management] extension for Adobe Commerce and Magento Open Source
 
-   If you plan to use Channel Manager for inventory and Order Management, you must have the Inventory Management extension installed and enabled on your Adobe Commerce and Magento Open Source instance. Typically, this extension is installed and enabled by default on Adobe Commerce and Magento Open Source 2.3.x and later.
+   If you plan to use Channel Manager for inventory and order management, you must have the Inventory Management extension installed and enabled on your Adobe Commerce and Magento Open Source instance. Typically, this extension is installed and enabled by default on Adobe Commerce and Magento Open Source 2.3.x and later.
    
-   If you have upgraded Commerce from 2.2.x, or if you have disabled Inventory Management, you must update your installation to include the required modules. For more information, see [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
+   If you have upgraded Commerce from 2.2.x, or if you have disabled Inventory Management, update your installation to include the required modules. See [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
 
 ### System Requirements
 
