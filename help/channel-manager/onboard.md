@@ -62,7 +62,7 @@ Review the requirements for using Channel Manager to and gather the required acc
 - Adobe Commerce on premises (EE) : 2.4.x
 - Magento Open Source 2.4.x
 
-## Onboarding overview
+## Onboarding steps
 
 1. [Install the [!DNL Channel Manager] extension](install.md).
 
