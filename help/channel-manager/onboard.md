@@ -64,6 +64,8 @@ Review the requirements for using Channel Manager to and gather the required acc
 
 ## Onboarding steps
 
+1. [Set up your Walmart Seller account](https://seller.walmart.com/signup?q=&origin=solution_provider&src=0014M00001zivMp).
+
 1. [Install the [!DNL Channel Manager] extension](install.md).
 
 1. [Connect to Commerce Services](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
