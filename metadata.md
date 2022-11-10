@@ -1,9 +1,11 @@
 ---
 solution: Commerce
 product: magento
+cloud: Experience Cloud
 type: Documentation
 audience: end-user
 mini-toc-levels: 2
+feature-set: Commerce
 git-repo: https://github.com/AdobeDocs/commerce-channels.en
 role: User
 index: yes
