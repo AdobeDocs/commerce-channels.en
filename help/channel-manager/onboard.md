@@ -16,7 +16,7 @@ After you complete the Channel Manager onboarding process, you can access, confi
 
 Review the requirements for using Channel Manager to and gather the required account information and credentials to download, install, and configure the extension. 
 
--  **[Walmart Marketplace requirements](walmart-requirements.md)**–Verify that you meet the requirements to integrate with Channel Manager including setting up your Seller account and generating the API key to enable the integration.
+-  **[Walmart Marketplace requirements](walmart-requirements.md)**–Verify that you meet the requirements to integrate with Channel Manager including [setting up your Seller account](https://sellerhelp.walmart.com/seller/s/guide?article=000008219) and generating the API key to enable the integration.
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"}. You need an account ID and credentials with Owner or Admin access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
