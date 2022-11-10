@@ -61,7 +61,6 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
      ```bash
      bin/magento module:status Magento_SalesChannels
      ```
-
      Sample response:
    
      ```terminal
@@ -113,7 +112,7 @@ During installation, the extension name (`magento\channel-manager`) is automatic
 1. Using the Composer name, add the extension to the `require` section of the `composer.json` file.  
 
    ```bash  
-   composer require require magento/module-sales-channels-extension --no-update
+   composer require magento/module-sales-channels-extension --no-update
    ```
   
 1. Update the dependencies and install the extension.
