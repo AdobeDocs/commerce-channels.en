@@ -1,6 +1,7 @@
 ---
 title: Return and Refund Orders
-description: "Instructions for issuing full or partial refunds for return requests received from [!DNL Walmart Marketplace] from [!DNL Channel Manager] for Adobe Commerce and Magento Open Source."
+description: Instructions for issuing full or partial refunds for return requests received from [!DNL Walmart Marketplace] from [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
+exl-id: 45617011-4add-444c-819b-6bb4164d03e4
 ---
 # Return and refund orders
 
@@ -183,5 +184,3 @@ You can view information about return requests and refund processing from the [!
 Errors can occur when the return information is received from [!DNL Walmart Marketplace], or when [!DNL Channel Manager] synchronizes status updates from [!DNL Commerce] to [!DNL Walmart Marketplace].
 
 If the synchronization operation for a return update fails, the [!DNL Channel Manager] Returns dashboard shows an *[!UICONTROL Error]* status for the return entry. To ensure that return and refund information is accurately reflected in Walmart Marketplace account, manually update the order in your [!DNL Walmart Marketplace] store.
-
-
