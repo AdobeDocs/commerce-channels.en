@@ -7,7 +7,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 [!DNL Channel Manager] requires the following resources and information to configure a [!DNL Commerce] sales channel for [!DNL Walmart Marketplace.]
 
-* Approval to sell on [!DNL Walmart] and credentials to log in to the registered Marketplace Seller account
+* A [!DNL Walmart] Seller Account
 
 * An API key to connect Adobe Commerce or Magento Open Source to [!DNL Walmart Marketplace]
 
@@ -15,8 +15,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 ## Set up a [!DNL Walmart Seller] account
 
-1. [Submit your Walmart Seller application](https://marketplace-apply.walmart.com/apply?id=0014M00001zivMpQAI).
-1. After obtaining approval from [!DNL Walmart], [set up your Walmart Seller account](https://seller.walmart.com/signup?q=&origin=solution_provider&src=0014M00001zivMp).
+Go to the [!DNL Walmart Seller Center] to set up your [Walmart Seller account](https://seller.walmart.com/signup?q=&origin=solution_provider&src=0014M00001zivMp).
 
 ## Generate a [!DNL Walmart Marketplace] Production API key
 
