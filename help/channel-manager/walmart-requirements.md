@@ -15,7 +15,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 ## Set up a [!DNL Walmart Seller] account
 
-Go to the [!DNL Walmart Seller Center] to set up your Walmart Seller account](https://seller.walmart.com/signup?q=&origin=solution_provider&src=0014M00001zivMp).
+Go to the [!DNL Walmart Seller Center] to set up your [Walmart Seller account](https://seller.walmart.com/signup?q=&origin=solution_provider&src=0014M00001zivMp).
 
 ## Generate a [!DNL Walmart Marketplace] Production API key
 
