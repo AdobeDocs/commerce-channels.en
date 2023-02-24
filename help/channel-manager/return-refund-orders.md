@@ -3,7 +3,7 @@ title: Return and Refund Orders
 description: Instructions for issuing full or partial refunds for return requests received from [!DNL Walmart Marketplace] from [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
 exl-id: 45617011-4add-444c-819b-6bb4164d03e4
 ---
-# Return and refund orders
+# Return and Refund Orders
 
 When a buyer requests a return for order items purchased through [!DNL Walmart Marketplace], Walmart creates a return request. [!DNL Channel Manager] monitors the marketplace channel for these requests and automatically synchronizes the return request information to Channel Manager.
 
@@ -100,7 +100,7 @@ converted to local time.</td>
 
 Return status updates occur when [!DNL Channel Manager] receives an return request from the [!DNL Walmart Marketplace] or when the [!DNL Commerce] credit memo is created to process the refund for the returned items.
 
-Returns can have the following statuses:           
+Returns can have the following statuses:
 
 * **[!UICONTROL Received]**–This is the initial status of the return request received from the [!DNL Walmart Marketplace] store. The merchant can process the refund for the return by selecting **[!UICONTROL Create credit memo]** in the [!UICONTROL Status details].
 
@@ -131,26 +131,26 @@ The following scenarios describe how to issue refunds for different types of ret
    * Open the store view by selecting the eye icon for a sales channel store.
 
    * You can review the returns by selecting the **[!UICONTROL Returns]** tab.
-   
+
      You can also access return information from the [!UICONTROL Orders] page. Look for [!UICONTROL Shipped] orders that have a return request. Then, select the `Return requested` link in the [!UICONTROL Status Details] column to view and process the request.
 
 1. From the Returns table, find a return with the *[!UICONTROL Received]* status.
 
 1. From the items column, review the list of order items and quantity to refund.
- 
+
 1. Process the refund by issuing a credit memo.
 
    * From the [!UICONTROL Status Details] column, select **[!UICONTROL Create credit memo]** to open the Order detail page in [!DNL Commerce].
 
      If the order has not been invoiced, the Order detail page displays an error message prompting you to create one. Select **[!UICONTROL Create invoice]**. Then, [create and save the invoice](https://docs.magento.com/user-guide/sales/invoices.html).
-     
+
    * On the Order detail page, select **[!UICONTROL Credit Memo]**.
 
    * In [!UICONTROL Items to Refund] section of the [!UICONTROL Credit Memo], update the **[!UICONTROL Qty to refund]** and **[!UICONTROL Return to Stock]** information for the items included in the return request.
-  
+
      Make sure that return only the items listed in the return request.
 
-   * To add a comment, enter the text in the **[!UICONTROL Credit Memo Comments]** 
+   * To add a comment, enter the text in the **[!UICONTROL Credit Memo Comments]**
 
    * Select **[!UICONTROL Refund Offline]**.
 

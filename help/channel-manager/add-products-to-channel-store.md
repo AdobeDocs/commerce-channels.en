@@ -1,10 +1,10 @@
 ---
-title: Add products to Channel Manager
+title: Add Products to Channel Manager
 description: 'Create product assortment for [!DNL Walmart Marketplace] sales by adding products from the catalog to the sales channel configured in Channel Manager.' 
 exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 ---
 
-# Add products to [!DNL Channel Manager]
+# Add Products to [!DNL Channel Manager]
 
 To add products to the [!DNL Walmart Marketplace] sales channel, select them from the [!DNL Commerce] product catalog and import them to [!DNL Channel Manager].
 The import process can take up to 30 minutes or more depending on how many products you select.
@@ -34,7 +34,7 @@ The import process can take up to 30 minutes or more depending on how many produ
 ## Add products
 
 1. From a connected sales channel store, select **Add products** to open the product catalog.
-   
+
    ![Add products to sales channel store](assets/add-initial-products-to-connected-channel.png)
 
    The catalog opens in a new tab.
@@ -61,7 +61,7 @@ The import process can take up to 30 minutes or more depending on how many produ
 
      ```bash
      $ bin/magento queue:consumers:start product_action_attribute.update
-     ``` 
+     ```
 
 1. After the import operation completes, verify the products that you added by returning to [!DNL Channel Manager] and selecting **[!UICONTROL Listings]**.
 
@@ -71,4 +71,4 @@ The import process can take up to 30 minutes or more depending on how many produ
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
 
-   
+

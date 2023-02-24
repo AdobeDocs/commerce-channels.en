@@ -1,9 +1,9 @@
 ---
-title: 'View and manage orders from [!DNL Channel Manager]'
+title: 'View and Manage Orders from [!DNL Channel Manager]'
 description: 'View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.'
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
-# View and track orders from [!DNL Channel Manager]
+# View and Track Orders from [!DNL Channel Manager]
 
 [!DNL Walmart Marketplace] order data for [!DNL Commerce] products synchronizes automatically to [!DNL Channel Manager] after [!DNL Walmart] processes the order.
 
@@ -169,6 +169,3 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
   ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png)
 
  View item invoice and refund details by selecting the [!UICONTROL Invoice] and [!UICONTROL Credit Memo] options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
-
-
-   

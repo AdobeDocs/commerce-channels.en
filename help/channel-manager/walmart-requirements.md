@@ -3,7 +3,7 @@ title: '[!DNL Walmart] Requirements'
 description: 'Verify that you have the required [!DNL Walmart Marketplace]information and resources to integrate with Channel Manager.'
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
-# [!DNL Walmart] requirements
+# [!DNL Walmart] Requirements
 
 [!DNL Channel Manager] requires the following resources and information to configure a [!DNL Commerce] sales channel for [!DNL Walmart Marketplace.]
 
@@ -24,7 +24,7 @@ Go to the [!DNL Walmart Seller Center] to set up your [Walmart Seller account](h
 1. Create the key and configure permissions:
 
    * Select Adobe as the solution provider.
-   
+
    * Set the permissions as shown in the following table. For details, see [API Credentials](https://sellerhelp.walmart.com/seller/s/guide?article=000006422) in the _Walmart Marketplace Seller Help_.
 
     **Adobe API key configuration for Walmart**

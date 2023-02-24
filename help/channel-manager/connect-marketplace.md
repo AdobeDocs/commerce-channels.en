@@ -45,23 +45,23 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    -  Add the credentials for the [[!DNL Walmart Marketplace Adobe Production API key]](walmart-requirements.md#generate-a-walmart-marketplace-production-api-key) from your [!DNL Walmart Marketplace Seller] account.
 
-   - If you don’t have the credentials, get them from the [!DNL Walmart Marketplace Developer Portal] by selecting **[!UICONTROL Get API credentials]**.
+   - If you don't have the credentials, get them from the [!DNL Walmart Marketplace Developer Portal] by selecting **[!UICONTROL Get API credentials]**.
 
-     On the Developer Portal, select your region (US and Canada) and then log in.  
+     On the Developer Portal, select your region (US and Canada) and then log in.
 
      ![[!DNL Walmart Marketplace] account login](assets/walmart-marketplace-login-page.png)
-       
-   - On the API key form, copy and save the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** values for the [!UICONTROL Adobe Inc Production API key] to a secure location. 
 
-     ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png) 
-       
+   - On the API key form, copy and save the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** values for the [!UICONTROL Adobe Inc Production API key] to a secure location.
+
+     ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png)
+
      >[!NOTE]
      >
      >If the [!DNL Adobe Inc] key is not listed in the Developer Portal, select **[!UICONTROL Add New Key for a Solution Provider]** to configure permissions and generate the key. For configuration details, see [Generate a [!DNL Walmart Marketplace API Key]](walmart-requirements.md#generate-a-walmart-marketplace-api-key).
 
-   - Return to [!DNL Channel Manager] to add the credentials to the **[!UICONTROL Walmart Connection]** information.  
-       
-     When you add credentials, Adobe hides the client secret and stores the value in a secure vault.  
+   - Return to [!DNL Channel Manager] to add the credentials to the **[!UICONTROL Walmart Connection]** information.
+
+     When you add credentials, Adobe hides the client secret and stores the value in a secure vault.
 
 1. Select **[!UICONTROL Save Store]** to apply the configuration and connect to the [!DNL Walmart marketplace].
 

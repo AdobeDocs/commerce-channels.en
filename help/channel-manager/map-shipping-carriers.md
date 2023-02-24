@@ -1,10 +1,10 @@
 ---
-title: Map shipping carriers
+title: Map Shipping Carriers
 description: 'Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].'
 exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 ---
 
-# Map shipping carriers
+# Map Shipping Carriers
 
 Before you [process order shipments](process-orders.md#ship-an-order) for [!DNL Walmart Marketplace] orders, map Walmart preferred shipping carriers to the corresponding carrier in [!DNL Commerce] so that the shipping data can be synchronized between [!DNL Walmart] and [!DNL Commerce].
 
