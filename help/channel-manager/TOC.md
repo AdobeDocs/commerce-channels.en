@@ -23,7 +23,7 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
   - [Manage Walmart connection](manage-wmt-connection.md)
 - List products {#list-products}
   - [Manage listings](manage-listings.md)
-  - [Add products to Channel Store](add-products-to-channel-store.md)
+  - [Add products to channel store](add-products-to-channel-store.md)
   - [Connect listings to Walmart](connect-listings-to-marketplace.md)
 - Inventory and pricing {#inventory-pricing}
   - [Update inventory and pricing](inventory-and-price-updates.md)
