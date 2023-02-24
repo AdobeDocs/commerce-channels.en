@@ -1,9 +1,9 @@
 ---
-title: Manage listings
+title: Manage Listings
 description: 'Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.'
 exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
-# Manage listings
+# Manage Listings
 
 Manage product listings for the [!DNL Walmart Marketplace] sales channel from the Channel Manager UI.
 
@@ -76,7 +76,7 @@ The following tables describe the controls and columns available for [!UICONTROL
 | [!UICONTROL Status]            | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the marketplace. If an operation fails, the listing shows an error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status. |
 | [!UICONTROL Error Description] | Provides additional error information for products with an `[!DNL Error]` status.                                                                                                                                                                                                                                                                                 |
 
-### About Listing Status              
+### About listing status
 
 In the Listing workspace, the Status label shows where a product is in the [!DNL Channel Manager] workflow so you can determine next steps and resolve errors. Listings can have the following status labels:
 
@@ -85,10 +85,10 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
 *  **[!UICONTROL Processing]**—Identifies products submitted for matching on the [!DNL Walmart Marketplace]. Products remain in *Processing* status until the [!DNL Walmart] returns an HTTP status message that indicates whether the match was successful, or if there was an error. It can take up to 30 minutes for the match operation to complete on the [!DNL Walmart Marketplace].
 
 * **[!UICONTROL Match]**–Identifies products that were matched successfully on [!DNL Walmart].
-    
+
     A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing [!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing listing.
 
-    Check the [[!UICONTROL Walmart Marketplace Seller Account Items]](https://seller.walmart.com/items-and-inventory/manage-items) dashboard to review the updated product listing and verify product details, price, and inventory quantity.  
+    Check the [[!UICONTROL Walmart Marketplace Seller Account Items]](https://seller.walmart.com/items-and-inventory/manage-items) dashboard to review the updated product listing and verify product details, price, and inventory quantity.
 
 * **[!UICONTROL Match - Match in Stage]**—Identifies products matched on [!DNL Walmart] that cannot be connected until the [!DNL Walmart Marketplace] store is live. Products with this status connect automatically when the [!DNL Walmart Marketplace] store goes live.
 

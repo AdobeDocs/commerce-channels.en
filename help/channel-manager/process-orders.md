@@ -1,11 +1,11 @@
 ---
-title: Process orders
+title: Process Orders
 description: 'Instructions for shipping and cancelling [!DNL Walmart Marketplace] orders from Adobe Commerce and Magento Open Source.'
 exl-id: 2fdcb348-5c02-464f-a114-16ec657bed6b
 ---
-# Process orders
+# Process Orders
 
-After [!DNL Walmart Marketplace] orders have been acknowledged and successfully sent to [!DNL Channel Manager], you use [Commerce Order Management](https://docs.magento.com/user-guide/sales/orders-workspace.html) to process the order. 
+After [!DNL Walmart Marketplace] orders have been acknowledged and successfully sent to [!DNL Channel Manager], you use [Commerce Order Management](https://docs.magento.com/user-guide/sales/orders-workspace.html) to process the order.
 
 Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure that the order status and shipping information from [!DNL Commerce] matches the data tracked in the [!DNL Walmart Marketplace].
 
@@ -41,7 +41,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
      ![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-shipment-add-tracking-number.png)
 
-   
+
    * Complete the rest of shipping form as needed. See [[!DNL Shipping an Order]](https://docs.magento.com/user-guide/sales/order-ship.html) for detailed instructions.
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].

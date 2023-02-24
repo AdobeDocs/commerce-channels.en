@@ -1,15 +1,15 @@
 ---
-title: Map catalog attributes
+title: Map Catalog Attributes
 description: 'Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].'
 exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 ---
-# Map catalog attributes
+# Map Catalog Attributes
 
 Before you connect listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart.
 
 This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart]. The [!DNL Commerce] product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
 
-**Required [!DNL Walmart] product IDs**                                                                                              
+**Required [!DNL Walmart] product IDs**
 
 | **Accepted Type** | **Name**                             | **Purpose**                                                                                                                                      | **Acceptable Digits** |
 |-------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -30,10 +30,8 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
    - Select the corresponding attribute from the [!DNL Commerce] store catalog.
 
-     The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.  
+     The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.
 
      ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
-    
+
    - Select **[!UICONTROL Save]**.
-   
-   

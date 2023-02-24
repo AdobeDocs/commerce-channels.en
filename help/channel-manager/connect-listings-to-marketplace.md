@@ -1,11 +1,11 @@
 ---
-title: Connect listings to Walmart
+title: Connect Listings to Walmart
 description: 'Connect listings for [!DNL Commerce] products to [!DNL Walmart Marketplace]to begin selling.'
 exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 ---
-# Connect listings to Walmart
+# Connect Listings to Walmart
 
-Like other marketplaces, [!DNL Walmart] allows third-party sellers to list items that are sold by others. 
+Like other marketplaces, [!DNL Walmart] allows third-party sellers to list items that are sold by others.
 
 - [!DNL Walmart Marketplace] uses product identifiers like UPC and GTIN to match products to existing [!DNL Walmart Marketplace] listings.
 
@@ -34,7 +34,7 @@ Before matching products, verify that your product catalog attribute values meet
 1. Select **[!UICONTROL Match Products]**.
 
    A message indicates the number of products sent for matching.
-   
+
    The status for selected products changes to [!UICONTROL *Processing*] until the match operation completes. It can take up to 30 minutes for Walmart Marketplace to complete the match operation.
 
 ### Check match status
@@ -50,10 +50,10 @@ After the match completes, select the **[!UICONTROL Refresh products]** to view 
   - No match was found.
 
   - Match found, but the listing cannot be connected because [!DNL Walmart Marketplace] returned an error code. See the **[!UICONTROL Error Description]** for information about the issue.
-  
+
 ### Check listing on Walmart
 
-After matching products, review the updated product listing and verify product details, price, and inventory quantity from the [[!UICONTROL Walmart Marketplace Seller Account Items] dashboard](https://seller.walmart.com/items-and-inventory/manage-items) to review the updated product. 
+After matching products, review the updated product listing and verify product details, price, and inventory quantity from the [[!UICONTROL Walmart Marketplace Seller Account Items] dashboard](https://seller.walmart.com/items-and-inventory/manage-items) to review the updated product.
 
 ### Troubleshoot product match errors
 
@@ -136,13 +136,13 @@ For new product listings, check your product catalog to ensure that products you
    - In the [!UICONTROL Entity Attributes] table, configure the selection criteria for the product data export.
 
     ![Export product data page in the [!UICONTROL [!DNL Commerce] Admin]](assets/walmart-seller-account-full-setup-download.png)
-       
+
      Use filters to select and configure the attribute values that apply to the product categories that you sell in. Make sure to include Walmart's required and recommended attributes. (See [Export Data](https://docs.magento.com/user-guide/system/data-export.html) in the Adobe [!DNL Commerce] User Guide for detailed instructions.)
-  
+
      To omit an attribute from the export, select the [!UICONTROL **Exclude**] checkbox at the beginning of the row.
 
-1. Scroll to the end of the attribute table and select [!UICONTROL **Continue**] to start the data export.  
-     
+1. Scroll to the end of the attribute table and select [!UICONTROL **Continue**] to start the data export.
+
    The CSV export file is processed through a message queue using cron jobs and saved in the `var/export/folder`. (See [Manage message queues](https://devdocs.magento.com/guides/v2.4/config-guide/mq/manage-message-queues.html) in the *Commerce Developer Guide*.)
 
 1. Open the Excel template for the Walmart Marketplace product category, and use Excel macro capabilities to merge the exported product data into the Excel template.

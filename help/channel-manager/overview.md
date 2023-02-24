@@ -12,7 +12,7 @@ exl-id: 91265973-d2ad-4925-aa10-260d7e186f20
 
 ![[!DNL Channel Manager] extension Admin view](assets/channel-manager-home.png)
 
-[!DNL Channel Manager] supports Adobe Commerce or Magento Open Source merchants who want to sell on [!DNL Walmart Marketplace] by extending the [!DNL Commerce] Admin. With [!DNL Channel Manager] installed, store administrators and operations staff can manage [!DNL Walmart Marketplace] sales, inventory, and product pricing seamlessly from the Commerce environment. 
+[!DNL Channel Manager] supports Adobe Commerce or Magento Open Source merchants who want to sell on [!DNL Walmart Marketplace] by extending the [!DNL Commerce] Admin. With [!DNL Channel Manager] installed, store administrators and operations staff can manage [!DNL Walmart Marketplace] sales, inventory, and product pricing seamlessly from the Commerce environment.
 
 The extended Admin streamlines operations because merchants can use the same workflows and processes to manage sales from both [!DNL Commerce] storefronts and the Walmart Marketplace.
 
