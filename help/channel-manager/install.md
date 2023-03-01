@@ -61,6 +61,7 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
      ```bash
      bin/magento module:status Magento_SalesChannels
      ```
+     
      Sample response:
    
      ```terminal
@@ -130,7 +131,7 @@ During installation, the extension name (`magento\channel-manager`) is automatic
    ```
 
    ```bash
-   $ git commit -m “Install channel manager extension” 
+   $ git commit -m "Install channel manager extension" 
    ```
 
    ```bash
