@@ -3,7 +3,7 @@ title: Sales Channel Settings
 description: To manage logging, cron source, and synchronization for Amazon sales channel functions, update the Commerce configuration.
 exl-id: 69f83774-41de-4fde-a357-f100d1bcd9f0
 ---
-# Sales Channel settings
+# Sales Channel Settings
 
 When the [!DNL Amazon Sales Channel] extension is installed, default values are set in the Admin for Amazon sales channel. These settings can be modified in your configuration settings for your Amazon store. These settings include:
 
@@ -41,7 +41,7 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
    >
    >[!UICONTROL Read-Only Mode] is designed for copies of the Production instance, such as staging or QA, and should not be used on the production instance.
    >
-   >When a database is migrated to a new copy of the instance (detected when a store’s URL changes in the configuration), [!UICONTROL Read-Only Mode] is automatically enabled.
+   >When a database is migrated to a new copy of the instance (detected when a store's URL changes in the configuration), [!UICONTROL Read-Only Mode] is automatically enabled.
 
 1. Click **[!UICONTROL Save Config]**.
 

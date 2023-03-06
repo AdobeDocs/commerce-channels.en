@@ -4,7 +4,7 @@ description: Use the Order settings to determine how Amazon orders are imported 
 redirect_from: /sales-channels/asc/ob-order-settings.html
 exl-id: dc8d0ce1-86a8-4949-b49a-73c5cf62db16
 ---
-# Order settings
+# Order Settings
 
 Order settings define if and how Amazon orders are imported into and processed in [!DNL Commerce] and can be accessed on the [store dashboard](./amazon-store-dashboard.md).
 
@@ -80,7 +80,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
 [!DNL Commerce] orders are created for Amazon orders based on the following status and inventory conditions.
 
-### Order Creation with Inventory Management
+### Order creation with Inventory Management
 
 >[!NOTE]
 >

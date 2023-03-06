@@ -4,7 +4,7 @@ description: Use the Product Listing Condition settings to map your Commerce pro
 redirect_from: /sales-channels/asc/ob-product-listing-condition.html
 exl-id: f37ce3cf-7bfc-4dee-931e-a603008a71b8
 ---
-# Product listing condition
+# Product Listing Condition
 
 Product listing condition settings are part of your store listing settings. You can access the listing settings on the [store dashboard](./amazon-store-dashboard.md).
 

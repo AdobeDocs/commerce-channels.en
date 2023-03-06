@@ -3,7 +3,7 @@ title: View Listing Details
 description: To understand competitive metrics on your Amazon listings and on individual SKU/product changes, review the Product Listing Details page .
 exl-id: faece1b1-b4fb-4506-bf77-576ae445ed28
 ---
-# View listing details
+# View Listing Details
 
 The _[!UICONTROL Product Listing Details]_ page shows additional information on your active product listings, including the Listing Activity Log which shows the changes on an individual SKU / Product. This information can help you understand competitive metrics on your products and on individual SKU/product changes. Additional information on this page includes:
 
@@ -24,7 +24,7 @@ The displayed product information includes:
 
 ![Listing details](assets/amazon-product-listing-details.png)
 
-## Listing Activity Log {#listing-activity-log}
+## Listing activity log {#listing-activity-log}
 
 Shows all recent activity for the Amazon listing. Information shown includes:
 
@@ -34,10 +34,10 @@ Shows all recent activity for the Amazon listing. Information shown includes:
 - Comments: Provides additional details related to the type of listing action that occurred.
 - Executed At: Identifies the date and time the action occurred.
 
-![Product listing details - Listing Activity log](assets/amazon-listing-activity-log.png)
+![Product listing details - Listing activity log](assets/amazon-listing-activity-log.png)
 __
 
-## Buy Box Competitor Pricing {#buy-box-competitor-pricing}
+## Buy Box competitor pricing {#buy-box-competitor-pricing}
 
 This tab displays information about the Amazon merchant who holds the [[!DNL Buy Box]](./buy-box-competitor-pricing.md) position for the listing. This information can be used to understand the price positioning of your competitors on Amazon. Information shown includes:
 
@@ -51,7 +51,7 @@ This tab displays information about the Amazon merchant who holds the [[!DNL Buy
 
 ![Product listing details: Buy Box competitor pricing](assets/amazon-listing-details-buy-box-2.png)
 
-## Lowest Competitor Pricing {#lowest-competitor-pricing}
+## Lowest competitor pricing {#lowest-competitor-pricing}
 
 This tab displays information about Amazon competitors for the same listing. This information can be used to understand price positioning and [lowest competitor pricing](./lowest-competitor-pricing.md). Information shown includes:
 

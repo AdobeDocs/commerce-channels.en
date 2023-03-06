@@ -3,7 +3,7 @@ title: Edit an Assigned ASIN
 description: Change the ASIN value for a Commerce product if it was improperly matched to one of your Amazon listings.
 exl-id: 2aaeb700-96ac-4a15-9379-f74728d2dcbe
 ---
-# Edit an assigned ASIN
+# Edit an Assigned ASIN
 
 You can edit the Amazon ASIN value assigned to a product in your [!DNL Commerce] catalog. This feature is helpful if a catalog product was improperly matched to one of your Amazon listings. Changing the assigned ASIN for the listing does not change the ASIN assigned to a product by Amazon. It only changes the Amazon listing to which your catalog product is matched.
 
@@ -14,7 +14,7 @@ When an assigned ASIN is changed:
 - Creates a listing for the updated ASIN
 - Updates listing information in Amazon sales channel
 
-## Edit an assigned ASIN
+To edit an assigned ASIN:
 
 1. View the listing on the _[!UICONTROL Product Listings]_ page (_[!UICONTROL Inactive]_, _[!UICONTROL Active]_, or _[!UICONTROL Ineligible]_ tab).
 

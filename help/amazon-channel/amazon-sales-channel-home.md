@@ -1,9 +1,9 @@
 ---
-title: Home page
+title: Home Page
 description: Use the Amazon sales channel home page in your [!DNL Commerce] Admin to access your [!DNL Amazon Marketplace] listings and activity.
 exl-id: 00ce8253-aa91-4824-847d-24b74ed6a8bf
 ---
-# Home page
+# Home Page
 
 The Amazon sales channel home page is your landing page when accessing your Amazon sales channel.
 
@@ -15,7 +15,7 @@ Views available in the left-side menu include:
 - [[!UICONTROL Learning and Preparation]](./learning-preparation.md) - View your Amazon and [!DNL Commerce] recommended setup tasks and available learning materials.
 - [[!UICONTROL Attributes]](./managing-attributes.md) - View and manage linked [!DNL Commerce] and Amazon attributes for your product catalog. To sync automatically with Amazon, edit or create and link attributes directly through [!DNL Commerce].
 
-## Access Amazon Sales Channel
+## Access Amazon sales channel
 
 On the _[!UICONTROL Admin]_ sidebar, go to **[!UICONTROL Marketing]** > _[!UICONTROL Channels]_ > **[!UICONTROL Amazon Sales Channel]**.
 

@@ -3,7 +3,7 @@ title: Add Pricing Rules
 description: Use pricing rules to manage listing prices on the Amazon Marketplace for your Commerce product catalog.
 exl-id: 37ecf25a-7b47-4f6d-a4bb-2f306f7b5997
 ---
-# Add pricing rules
+# Add Pricing Rules
 
 Pricing rules can be configured or modified at any time after your store is integrated. Pricing rules are part of [Listing Settings](./listing-settings.md) and can be accessed in the [store dashboard](./amazon-store-dashboard.md).
 

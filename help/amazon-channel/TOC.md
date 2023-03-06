@@ -34,24 +34,24 @@ breadcrumb-title: Amazon sales channel
     - [Create and edit attributes](creating-attributes.md)
     - [View attribute mapping](amazon-matching-attributes-values.md)
   - [Sales channel Admin settings](sales-channel-settings.md)
-  - [Amazon Store dashboard](amazon-store-dashboard.md)
+  - [Amazon store dashboard](amazon-store-dashboard.md)
   - [Store settings](ob-store-review.md)
-- Listing Settings {#listing-settings}
-  - [View Listing settings](listing-settings.md)
+- Listing settings {#listing-settings}
+  - [View listing settings](listing-settings.md)
   - [Product listing actions](product-listing-actions.md)
-  - [Third Party Listings](third-party-listing-settings.md)
-  - [Listing Price](listing-price.md)
-  - [(B2B) Business Pricing](business-pricing.md)
-  - [Stock/Quantity](stock-quantity.md)
-  - [Fulfilled By](fulfilled-by.md)
-  - [Catalog Search](catalog-search.md)
-  - [Product Listing Condition](product-listing-condition.md)
-  - [Renewed Products](renewed-products.md)
+  - [Third party listings](third-party-listing-settings.md)
+  - [Listing price](listing-price.md)
+  - [(B2B) business pricing](business-pricing.md)
+  - [Stock/quantity](stock-quantity.md)
+  - [Fulfilled by](fulfilled-by.md)
+  - [Catalog search](catalog-search.md)
+  - [Product listing condition](product-listing-condition.md)
+  - [Renewed products](renewed-products.md)
 - [Order settings](order-settings.md)
-- [Store Integration settings](store-integration-settings.md)
-- Listing and Pricing Rules {#rules}
+- [Store integration settings](store-integration-settings.md)
+- Listing and pricing rules {#rules}
   - [Listing rules](listing-rules.md)
-  - Pricing Rules {#pricing-rules}
+  - Pricing rules {#pricing-rules}
     - [Manage pricing](pricing-products.md)
     - [Add new pricing rule](add-pricing-rule.md)
     - [Price rule general settings](pricing-rule-general-settings.md)
@@ -72,12 +72,12 @@ breadcrumb-title: Amazon sales channel
     - [Price rule examples](price-rule-examples.md)
 - Reports and logs {#reports-logs}
   - [Logs and store reports](amazon-logs-reports.md)
-  - Store Reports {#store-reports}
+  - Store reports {#store-reports}
     - [Competitive price analysis](competitive-price-analysis.md)
     - [Listing improvements](listing-improvements.md)
   - Logs {#logs}
-    - [Listing Changes log](listing-changes-log.md)
-    - [Communication Errors log](communication-errors-log.md)
+    - [Listing changes log](listing-changes-log.md)
+    - [Communication errors log](communication-errors-log.md)
 - Manage listings {#admin-listings}
   - [Manage Amazon listings](managing-product-listings.md)
   - By status/tab {#status-tab}
@@ -98,7 +98,7 @@ breadcrumb-title: Amazon sales channel
     - [Edit an assigned ASIN](edit-assigned-asin.md)
     - [End an Amazon listing](end-listings-manually.md)
     - [Publish an Amazon listing](publish-listings-manually.md)
-    - [Update Required Info](amazon-manually-update-incomplete-listing.md)
+    - [Update required info](amazon-manually-update-incomplete-listing.md)
     - [View details](product-listing-details.md)
 - Manage orders {#admin-orders}
   - [Manage orders](managing-orders.md)

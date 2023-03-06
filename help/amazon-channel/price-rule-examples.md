@@ -3,11 +3,11 @@ title: Price Rule Examples
 description: To help you design your pricing rules for Amazon listings, review these examples based on common scenarios.
 exl-id: 4d9717ba-4ad6-468d-b4ca-99f8620b60b4
 ---
-# Price rule examples
+# Price Rule Examples
 
 ## Standard price rule examples
 
-### Discard Subsequent Rules
+### Discard subsequent rules
 
 The ability to discard subsequent rules is a great feature inside pricing rules that prevents multiple pricing rules from stacking and providing unintended additional discounts. To discard subsequent rules, a pricing rule must use the priorities that are set in the _[!UICONTROL Priority]_ section of [Pricing Rule General Settings](./pricing-rule-general-settings.md).
 
@@ -138,7 +138,7 @@ Because the [Buy Box](./buy-box-competitor-pricing.md) price is greater than the
 
 The final price after the rule is applied: $15
 
-### Lowest Price with All Competitor's Prices and Use all competitor's product conditions
+### Lowest Price with all competitor's prices and use all competitor's product conditions
 
 | Field | Setting |
 |----------|-----|

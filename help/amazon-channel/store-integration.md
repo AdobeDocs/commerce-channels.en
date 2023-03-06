@@ -3,7 +3,7 @@ title: Store Integration
 description: Before you start the onboarding process, you must create (add) an Amazon Sales Channel store and connect it to your Amazon Seller Account.
 exl-id: ea79e91d-7d92-4992-a921-7ac7632a0519
 ---
-# Store integration
+# Store Integration
 
 To get started with Amazon sales channel, you must create (add) an Amazon sales channel store and connect it to your Amazon Seller Account. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
 

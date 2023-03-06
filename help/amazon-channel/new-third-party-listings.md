@@ -1,9 +1,9 @@
 ---
-title: New Third-party listings
+title: New Third-party Listings
 description: Manage new Amazon listings by matching them to a product in your Commerce catalog.
 exl-id: ace9d334-d1d1-4f4b-88c8-60a9e7d1d17c
 ---
-# New third-party listings
+# New Third-party Listings
 
 The _[!UICONTROL New Third Party]_ tab shows your existing Amazon listings that have not been matched to a product in your [!DNL Commerce] catalog. To use listing management for quantity, pricing, handling time, and more, each of your Amazon listings must be matched (assigned) to a product in your [!DNL Commerce] catalog. You have a few options to assign a listing to a product in your [!DNL Commerce] catalog.
 

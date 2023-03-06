@@ -4,7 +4,7 @@ description: Use the listing settings to define how your [!DNL Commerce] catalog
 redirect_from: /sales-channels/asc/ob-listing-settings.html
 exl-id: 939babd0-8e6d-40b8-a42a-fc5c7dc3f98b
 ---
-# View listing settings
+# View listing Settings
 
 Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 

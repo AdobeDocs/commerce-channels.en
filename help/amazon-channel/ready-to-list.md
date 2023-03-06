@@ -41,7 +41,7 @@ You have a few options to manually [publish a new listing to Amazon](./publish-l
 |[!UICONTROL Status]|The status of the listing, defined by Amazon.|
 |[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column and choose an option:<ul><li>[[!UICONTROL Publish on Amazon]](./publish-listings-manually.md)</li><li>[[!UICONTROL View Details]](./product-listing-details.md)</li></ul>|
 
-### Common causes of Ready to List listings
+### Common causes of ready to list listings
 
 - **[!UICONTROL Ready to List]** - Product is matched to an Amazon ASIN and is scheduled for listing. If [**[!UICONTROL Automatic List Action]**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`, this status represents the products which are ready to be manually listed.
 

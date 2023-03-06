@@ -3,7 +3,7 @@ title: Manage Product Listings by Action
 description: As you manage your Amazon listings, you can apply an action to individual or multiple listings.
 exl-id: 1cbf16fb-15eb-484b-bea7-28017a0d0c60
 ---
-# Manage product listings by action
+# Manage Product Listings by Action
 
 The _[!UICONTROL Product Listings]_ page contains several tabs from which you can view the statuses of all of your listings and match your products to Amazon listings.
 

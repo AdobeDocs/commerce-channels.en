@@ -3,7 +3,7 @@ title: Common Order Processing Tasks
 description: Use the corresponding [!DNL Commerce] orders created for Amazon orders to manage order activity and processing in the [!UICONTROL Commerce] Admin.
 exl-id: a44f36f0-db18-4de5-9c5b-cc68f4793008
 ---
-# Common order processing tasks
+# Common Order Processing Tasks
 
 [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set to `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the *[!UICONTROL Recent Orders]* section of the store dashboard.
 

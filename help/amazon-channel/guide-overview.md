@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Amazon Sales Channel] Guide overview'
+title: '[!DNL Amazon Sales Channel] Guide Overview'
 description: Comprehensive information about [!DNL Amazon sales channel] for Adobe Commerce and Magento Open Source administrators, including installation and onboarding
 seo-title: Adobe Commerce Amazon Sales Channel Guide
 seo-description: Describes how to use [!DNL Amazon sales channel] with Adobe Commerce or Magento Open Source.
 exl-id: ad3e2353-313b-4c40-800a-b1ef5f0d8235
 ---
-# [!DNL Amazon Sales Channel] Guide overview
+# [!DNL Amazon Sales Channel] Guide Overview
 
 This guide is intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about installation and onboarding of [!DNL Amazon sales channel], as well as configuration and management of the services. It assumes a basic understanding of the core Commerce configuration and functionality.
 
