@@ -3,7 +3,7 @@ title: 'Intelligent Repricing Rule: Competitor Conditional Variances'
 description: Determine your Amazon listing price based on competitor pricing and condition of the product by creating an intelligent repricing rule.
 exl-id: c52230e3-4e47-45bc-80e0-170530f58987
 ---
-# Intelligent repricing rule: competitor conditional variances
+# Intelligent Repricing Rule: Competitor Conditional Variances
 
 Sections of an intelligent repricing rule include:
 
@@ -41,7 +41,7 @@ For **[!UICONTROL Conditional Variance]**, choose an option:
 |--- |--- |
 |[!UICONTROL Competitor Conditional Variances]|Options: <ul><li>**[!UICONTROL Use all competitor's product conditions]** - If a match does not exist for the condition you are listing your product with, this option matches against any available condition. It first attempts to match your condition, and then works its way from the `New` condition to `Used; Acceptable`.</li><li>**[!UICONTROL Use only matching competitor's product condition]** - This option matches against your product's condition. If no match exists, the product prices at the _[!UICONTROL Magento Price Source]_.</li><li>>**[!UICONTROL Apply variance (if competitor's product condition differs)]** - This option first tries to match against your product condition. If no matching condition exists, it applies a variance (as a percentage) relative to your product condition and the lowest competitor's condition.</li></ul><br><br>The conditional variance options that appear based on your listing settings for Condition that are mapped to condition values using a [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"}. For all mapped conditions, you can denote a variance percentage of 1-100. The exception is collectibles, in which case a percentage greater than 100 may be applied.<br><br>This feature allows you to use intelligent repricing rules when you offer products that are in a different condition than your competitors. To understand the calculation behind conditional variance, you must first understand that all variance is determined from a base match price.|
 
-## Calculate the Conditional Variance Base
+## Calculate the conditional variance base
 
 - Base Match Condition Variance (BMC) = The variance for the condition of your base match price competitor. Using the earlier example, BMC is the variance for the `New` condition.
 - Merchant Condition Variance (MCV) = The variance for the condition of your product. Using the earlier example, MCV = the variance for the `Used; Good` condition.

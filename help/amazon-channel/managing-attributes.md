@@ -3,7 +3,7 @@ title: Manage Attributes
 description: You can manage the mapping of Commerce product attributes to the Amazon attributes to ensure accurate product information between the systems.
 exl-id: 6f9ded2d-292e-4b7e-8c10-48f478a4383e
 ---
-# Manage attributes
+# Manage Attributes
 
 Amazon and [!DNL Commerce] both use a system of product properties, known as attributes, used to define a product. Attributes define the description, content, images, prices, and various data for your products.
 

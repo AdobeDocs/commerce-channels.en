@@ -1,9 +1,9 @@
 ---
-title: Manage Product Listings by Status / Tab
+title: Manage Product Listings by Status/Tab
 description: As you manage your Amazon listings, you can apply actions to your listings according to status.
 exl-id: 33effdd8-baa9-4fc5-8c7e-313175eb7e9c
 ---
-# Manage product listings by status / tab
+# Manage Product Listings by Status/Tab
 
 The _[!UICONTROL Product Listings]_ page contains several tabs from which you can view the statuses of all of your listings and match your products to Amazon listings.
 

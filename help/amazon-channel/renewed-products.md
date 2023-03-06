@@ -3,7 +3,7 @@ title: Renewed Products
 description: If your Seller Central account is registered for the Renewed Program,  you can manage your renewed listings in Amazon Sales Channel.
 exl-id: 1f828893-ca56-4457-bf8f-8e2d056515e8
 ---
-# Renewed products
+# Renewed Products
 
 Before you can list your high-quality, like-new products (refurbished, pre-owned, and open-box) on Amazon, you must first register and be approved for the [[!DNL Amazon Renewed Program]](https://sell.amazon.com/programs/renewed.html){target="_blank"}.
 

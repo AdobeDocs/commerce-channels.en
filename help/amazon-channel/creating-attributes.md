@@ -3,7 +3,7 @@ title: Create and Edit Attributes
 description: Amazon Sales Channel provides the Attributes view to help you review the current Amazon attributes and linked Commerce attributes.
 exl-id: 3cd5fb7e-68a3-45fd-8f50-72d3cc0244b5
 ---
-# Create and edit attributes
+# Create and Edit Attributes
 
 Create or update [!DNL Commerce] attributes as you sell through Amazon and update your stores. Review the current Amazon attributes and linked [!DNL Commerce] attributes through the [_[!UICONTROL Attributes]_ view](./attributes-view.md) of the Amazon sales channel home page. The _[!UICONTROL Action]_ column shows the available actions for the attribute. You can either create and map a new [!DNL Commerce] attribute for an unlinked Amazon attribute, or you can edit an existing [!DNL Commerce] attribute and its mapping to an Amazon attribute.
 

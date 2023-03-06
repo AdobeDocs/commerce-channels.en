@@ -16,7 +16,7 @@ Quantity is a regional attribute and based on the **[!UICONTROL Amazon Marketpla
 >
 >For Adobe Commerce and Magento Open Source 2.3.x users, Amazon sales channel supports the use of the Inventory Management extension without any additional setup. See [Managing Inventory](https://docs.magento.com/user-guide/v2.3/catalog/inventory-management.html){target="_blank"}.
 
-## Configure stock / quantity settings {#configure-stock--quantity-settings}
+## Configure stock/quantity settings {#configure-stock--quantity-settings}
 
 1. Click **[!UICONTROL Listing Settings]** on the store dashboard.
 

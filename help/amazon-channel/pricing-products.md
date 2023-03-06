@@ -4,7 +4,7 @@ description: You can set pricing for your Amazon listings to differ from your CO
 redirect_from: /sales-channels/asc/ob-pricing-rules.html
 exl-id: 5c990206-ac72-4ef5-9ed0-ff8d816096eb
 ---
-# Manage Amazon pricing
+# Manage Amazon Pricing
 
 Amazon sales channel allows you to set pricing rules, which allow you to set your Amazon listing price different than the defined **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md). You can also stack multiple rules and even use the intelligent pricing to adjust your Amazon listing price based on competitors' [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or the [lowest competitor price](./lowest-competitor-pricing.md).
 

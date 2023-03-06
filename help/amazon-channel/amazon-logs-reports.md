@@ -3,7 +3,7 @@ title: Logs and Store Reports
 description: Use the logs and store reports to see what is happening in your Adobe Commerce or Magento Open Source store and your Amazon Marketplace listings.
 exl-id: 4654f718-d15f-4c3b-b984-ac7b9c29e6c4
 ---
-# Logs and store reports
+# Logs and Store Reports
 
 The Amazon sales channel extension includes some valuable logs and store reports that allow you to view the changes that are affecting your Amazon listings and orders. You can use these reports to see what is happening in your store and to understand various listing statuses.
 

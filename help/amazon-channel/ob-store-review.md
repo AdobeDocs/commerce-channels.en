@@ -3,7 +3,7 @@ title: Store Settings
 description: After you complete the Amazon sales channel onboarding process, review and update the [!DNL Commerce] store settings.
 exl-id: 7f1ea19b-f473-4a8e-9a91-b06d6b733664
 ---
-# Store settings
+# Store Settings
 
 After you create and integrate your Amazon sales channel store, review your store default settings to ensure that your product, listing, pricing, and other settings are correct.
 

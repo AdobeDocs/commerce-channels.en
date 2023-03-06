@@ -3,7 +3,7 @@ title: Manage Amazon Listings
 description: Amazon Sales Channel provides multiple tools to help you manage your Amazon listings from the Commerce Admin.
 exl-id: 895fd0f1-29ec-4ae5-af5b-eb5d99f5752a
 ---
-# Manage Amazon listings
+# Manage Amazon Listings
 
 Product Listing settings can be modified at any time after your [!DNL Commerce] store is integrated. You can access your listing settings on the [store dashboard](./amazon-store-dashboard.md).
 

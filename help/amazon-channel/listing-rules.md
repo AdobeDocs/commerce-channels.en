@@ -7,7 +7,7 @@ redirect_from:
   - /sales-channels/asc/listing-rule-preview.html
 exl-id: b28a625b-64cf-4119-98bb-f1ea33043c8f
 ---
-# Listing rules
+# Listing Rules
 
 You can access the listing rules for store in the [store dashboard](./amazon-store-dashboard.md).
 

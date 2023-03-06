@@ -3,7 +3,7 @@ title: Manage Orders
 description: You can enable order import in your Order Settings to more easily manage your Amazon orders from your Commerce Admin.
 exl-id: 018a8936-2f03-4a2d-b9af-6b72729ca709
 ---
-# Manage orders
+# Manage Orders
 
 You can view your Amazon order information, as received from Amazon, in the _[!UICONTROL Recent Orders]_ section of the [store dashboard](./amazon-store-dashboard.md) or on the _[!UICONTROL Amazon orders]_ page (also called the _[!UICONTROL All Orders]_ view).
 

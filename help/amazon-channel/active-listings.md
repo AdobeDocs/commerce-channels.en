@@ -3,7 +3,7 @@ title: Active Listings
 description: The Amazon sales channel provides the Active tab to monitor active Amazon listings and that are matched to a product in your Adobe Commerce catalog.
 exl-id: c9105abc-74d6-442b-8d7a-e5aaea8872e4
 ---
-# Active listings
+# Active Listings
 
 The _[!UICONTROL Active]_ tab shows your Amazon listings that are active on the [!DNL Amazon Marketplace] and that have been matched to a product in your [!DNL Commerce] catalog.
 

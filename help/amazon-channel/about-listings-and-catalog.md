@@ -3,7 +3,7 @@ title: About Amazon and the Commerce Catalog
 description: The Amazon sales channel imports your Amazon listings into your Commerce backend, and continually syncs with products and sales.
 exl-id: 659c9830-0a1d-4a0d-bb9c-afb609c0fbba
 ---
-# About Amazon and the [!DNL Commerce] catalog
+# About Amazon and the [!DNL Commerce] Catalog
 
 Your Adobe Commerce or Magento Open Source backend includes a catalog with all products and associated settings and information (images, options, prices, and more) and order and shipping configurations. Your [!DNL Amazon Seller Central] account also has a catalog and order configurations, tracking strictly your sales through the [!DNL Amazon Marketplace].
 

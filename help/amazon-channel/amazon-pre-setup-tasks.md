@@ -3,7 +3,7 @@ title: Pre-Setup Tasks
 description: Review the required tasks to be completed before integrating your Adobe Commerce or Magento Open Source store in Amazon Sales Channel.
 exl-id: eb9d9136-925f-4b20-9d65-b166173f434b
 ---
-# Pre-setup tasks
+# Pre-Setup Tasks
 
 Before [Store Integration](./store-integration.md), you must ensure that your [!DNL Amazon Seller Central] account and your [!DNL Commerce] account are ready for the integration. To successfully integrate, there are some required pre-setup tasks.
 
@@ -53,7 +53,7 @@ To have the highest number of [!DNL Commerce] products automatically match with 
 
 If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html){target="_blank"} and set the [currency conversion rate](https://docs.magento.com/user-guide/stores/currency-update.html){target="_blank"}.
 
-## 7. Create a Product Condition attribute (as needed)
+## 7. Create a product condition attribute (as needed)
 
 If your Amazon listings contain more than one product condition (such as _new_, _used_, or _like new_), create a [!DNL Commerce] attribute and assign condition values. You must map this attribute during onboarding to the Amazon Condition product attribute. See [Creating Attributes for Amazon](./ob-creating-magento-attributes.md).
 

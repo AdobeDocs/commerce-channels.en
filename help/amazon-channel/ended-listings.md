@@ -3,7 +3,7 @@ title: Ended Listings
 description: Amazon Sales Channel provides the Ended tab to review ended Amazon Marketplace listings, which can be republished when you choose.
 exl-id: 15107f08-4231-44b5-9390-44b5b709e3a5
 ---
-# Ended listings
+# Ended Listings
 
 The _[!UICONTROL Ended]_ tab shows all the Amazon products that have been manually ended (removed) from your [!DNL Amazon Seller Central] account. These products meet all listing requirements and can be republished at any time and do not require additional information. If a product is in the _[!UICONTROL Ineligible]_ tab, you could choose to modify your [listing settings](./listing-settings.md) so that your product meets listing eligibility.
 

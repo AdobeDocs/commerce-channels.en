@@ -3,11 +3,11 @@ title: Update Required Info (Incomplete Listing)
 description: Amazon sales channel provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
 exl-id: f278cd50-8f04-452e-b9c2-c87820f9faf2
 ---
-# Update Required Info (incomplete listing)
+# Update Required Info (Incomplete Listing)
 
 Listings displayed on the _[!UICONTROL Incomplete]_ tab include your [!DNL Commerce] catalog products that meet your Amazon eligibility requirements as defined in your listing rules but are missing information required by Amazon before listing.
 
-## Update required info (Unable to assign to Amazon listing) {#update-required-info-unable-to-assign-to-amazon-listing}
+## Update required info (unable to assign to Amazon listing) {#update-required-info-unable-to-assign-to-amazon-listing}
 
 1. View the listings on the _[!UICONTROL Incomplete]_ tab in [Manage Listings](./managing-product-listings.md).
 
@@ -23,7 +23,7 @@ The listing is now matched to your catalog, and the listing is then updated and 
 
 ![Manually assign ASIN for no listing match](assets/amazon-listing-update-assign-asin.png)
 
-## Update required info (Multiple matches found) {#update-required-info-multiple-matches-found}
+## Update required info (multiple matches found) {#update-required-info-multiple-matches-found}
 
 1. View the listings on the _[!UICONTROL Incomplete]_ tab in [[!UICONTROL Manage Listings]](./managing-product-listings.md).
 

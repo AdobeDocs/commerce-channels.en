@@ -3,7 +3,7 @@ title: Price Scope
 description: Use the Commerce pricing scope to manage pricing according to multiple websites or globally.
 exl-id: 24a1eac1-d579-4063-a33c-71969bc2b4b9
 ---
-# Price scope
+# Price Scope
 
 [!DNL Commerce] provides configuration for your [pricing scope](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#price){target="_blank"} to be set to `Global` or `Website`. If pricing is set to `Global`, there is a single price source for all websites. If pricing is set to `Website`, your websites can vary their pricing across and also have a fallback default pricing value. See [Catalog Price](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#price){target="_blank"} in the core Commerce user guide.
 
