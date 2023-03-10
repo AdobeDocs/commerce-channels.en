@@ -20,6 +20,20 @@ These release notes describe the initial release of [!DNL Amazon sales channel] 
 
 See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} for versioning, support, and compatibility.
 
+## v4.4.4
+
+[!DNL Amazon sales channel]  4.4.4 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure.
+
+![Fixed issue](../assets/fix.svg) Added support for Adobe Commerce 2.4.6 and PHP 8.2.
+![Fixed issue](../assets/fix.svg) Reduced noise in logs for entries.
+![Fixed issue](../assets/fix.svg) Improved stability of pulling updates.
+![Fixed issue](../assets/fix.svg) Made it easier to run single action-like pull or apply from CLI.
+![Fixed issue](../assets/fix.svg) Upgraded dependency on magento/services-connector.
+![Fixed issue](../assets/fix.svg) Fixed sync issues in UK accounts with invalid country code.
+![Fixed issue](../assets/fix.svg) Hardcoded the entity_type_id for catalog product entity causes issues with Magento Price Source.
+![Fixed issue](../assets/fix.svg) For accounts deleted on a backend from another instance, corrected an issue preventing them from deleting from the UI as well.
+![Fixed issue](../assets/fix.svg) Fixed an issue with some cart rules breaking order import.
+
 ## v4.4.3
 
 [!DNL Amazon sales channel]  4.4.3 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure.
@@ -95,7 +109,7 @@ This version of [!DNL Amazon sales channel] includes a new feature along with im
 
 ![Fix](../assets/fix.svg) <!--CHAN-4431-->Corrected an issue that caused an _Access Denied_ error for UK customers.
 
-![Fix](../assets/fix.svg) <!--CHAN-4394-->Corrected an issue that prevented the Amazon shipping status from syncing to the corresponding Commerce order, thus “locking” the order’s shipping status as `Pending` in Commerce and `Unshipped` in Amazon. With the new standardized address feature, these shipping status errors have been resolved.
+![Fix](../assets/fix.svg) <!--CHAN-4394-->Corrected an issue that prevented the Amazon shipping status from syncing to the corresponding Commerce order, thus "locking" the order's shipping status as `Pending` in Commerce and `Unshipped` in Amazon. With the new standardized address feature, these shipping status errors have been resolved.
 
 ![Fix](../assets/fix.svg) <!--ticket#-->Updated order synchronization (sync) to ignore failed order imports, thus reducing multiple sync attempts and allowing subsequent imports to process, with order sync requests submitted every five minutes. Sync errors are still recorded in the error log, but marked as "processed" to allow further logging functions. Also, [!DNL Amazon sales channel] now automatically removes excess data collected for orders that fail to create in Commerce.
 
