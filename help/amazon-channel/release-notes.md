@@ -25,13 +25,21 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 [!DNL Amazon sales channel]  4.4.4 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure.
 
 ![Fixed issue](../assets/fix.svg) Added support for Adobe Commerce 2.4.6 and PHP 8.2.
+
 ![Fixed issue](../assets/fix.svg) Reduced noise in logs for entries.
+
 ![Fixed issue](../assets/fix.svg) Improved stability of pulling updates.
+
 ![Fixed issue](../assets/fix.svg) Made it easier to run single action-like pull or apply from CLI.
+
 ![Fixed issue](../assets/fix.svg) Upgraded dependency on magento/services-connector.
+
 ![Fixed issue](../assets/fix.svg) Fixed sync issues in UK accounts with invalid country code.
+
 ![Fixed issue](../assets/fix.svg) Hardcoded the entity_type_id for catalog product entity causes issues with Magento Price Source.
+
 ![Fixed issue](../assets/fix.svg) For accounts deleted on a backend from another instance, corrected an issue preventing them from deleting from the UI as well.
+
 ![Fixed issue](../assets/fix.svg) Fixed an issue with some cart rules breaking order import.
 
 ## v4.4.3
