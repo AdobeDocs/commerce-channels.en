@@ -26,7 +26,7 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ![Fixed issue](../assets/fix.svg) Added support for Adobe Commerce 2.4.6 and PHP 8.2.
 
-![Fixed issue](../assets/fix.svg) Reduced noise in logs for entries.
+![Fixed issue](../assets/fix.svg) Reduced noise in logs.
 
 ![Fixed issue](../assets/fix.svg) Improved stability of pulling updates.
 
