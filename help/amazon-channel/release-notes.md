@@ -30,7 +30,7 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ![Fixed issue](../assets/fix.svg) Improved stability of pulling updates.
 
-![Fixed issue](../assets/fix.svg) Made it easier to run single action-like pull or apply from CLI.
+![Fixed issue](../assets/fix.svg) Simplified the process for running single action-like pull or for applying from CLI.
 
 ![Fixed issue](../assets/fix.svg) Upgraded dependency on magento/services-connector.
 
@@ -38,7 +38,7 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ![Fixed issue](../assets/fix.svg) Hardcoded the entity_type_id for catalog product entity causes issues with Magento Price Source.
 
-![Fixed issue](../assets/fix.svg) For accounts deleted on a backend from another instance, corrected an issue preventing them from deleting from the UI as well.
+![Fixed issue](../assets/fix.svg) Corrected an issue preventing accounts that are deleted on a backend from another instance from deleting from the UI as well.
 
 ![Fixed issue](../assets/fix.svg) Fixed an issue with some cart rules breaking order import.
 
