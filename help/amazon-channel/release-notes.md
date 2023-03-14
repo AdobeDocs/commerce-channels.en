@@ -32,7 +32,7 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ![Fixed issue](../assets/fix.svg) Simplified the process for running single action-like pull or for applying from CLI.
 
-![Fixed issue](../assets/fix.svg) Upgraded dependency on magento/services-connector.
+![Fixed issue](../assets/fix.svg) Upgraded the dependency for `magento/services-connector`.
 
 ![Fixed issue](../assets/fix.svg) Fixed sync issues in UK accounts with invalid country code.
 
