@@ -17,7 +17,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 <table>
 <tr style="border: 0;">
   <td>
-    <emphasis>March 14, 2023</emphasis><br></br><br></br>
+    <i>March 14, 2023</i><br></br><br></br>
       [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce (EE, ECE, and Open Source) 2.4.0 - 2.4.5
     <strong>Release date:</strong> 2023-03-14<br>
     <strong>Compatiblie with Adobe Commerce (EE):</strong> 2.4.0 — 2.4.6<br>
@@ -35,7 +35,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 <table>
 <tr style="border: 0;">
   <td>
-    <emphasis>November 23, 2022</emphasis><br></br><br></br>
+    <i>November 23, 2022</i><br></br><br></br>
     [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce (EE, ECE, and Open Source) 2.4.0 - 2.4.5
   </td>
   </tr>
@@ -50,7 +50,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 <table>
 <tr style="border: 0;">
   <td>
-    <emphasis>January 14, 2022</emphasis><br></br><br></br>
+    <i>January 14, 2022</i><br></br><br></br>
     [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce (EE, ECE, and Open Source) 2.4.0 - 2.4.5
   </td>
   </tr>
