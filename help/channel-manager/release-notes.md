@@ -14,10 +14,9 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
 ## v2.0.0
 
-<table>
 [!BEGINSHADEBOX] 
-    <i>March TBD, 2023</i><br>
-    [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.6
+ *March TBD, 2023*<br>
+ [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.6
 [!ENDSHADEBOX] 
   
 ![New](../assets/new.svg)<!--CHAN-5204--> Added PHP 8.2 support for compatibility with version 2.4.6
@@ -26,7 +25,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 ## v1.1.0
 
 [!BEGINSHADEBOX] 
- <i>November 23, 2022</i><br>
+ *November 23, 2022*<br>
  [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.5
 [!ENDSHADEBOX] 
   
@@ -37,7 +36,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 ## v1.0.0
 
 [!BEGINSHADEBOX] 
- <i>January 14, 2022</i><br>
- [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.5
+ *January 14, 2022*<br>
+[!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.5
 [!ENDSHADEBOX] 
 
