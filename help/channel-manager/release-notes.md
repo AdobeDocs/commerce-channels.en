@@ -14,22 +14,22 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
 ## v2.0.0
 
-[!BEGINSHADEBOX] 
+>[!BEGINSHADEBOX] 
  *March TBD, 2023*
  
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.6
-[!ENDSHADEBOX] 
+>[!ENDSHADEBOX] 
   
 ![New](../assets/new.svg)<!--CHAN-5204--> Added PHP 8.2 support for compatibility with version 2.4.6
   
   
 ## v1.1.0
 
-[!BEGINSHADEBOX] 
+>[!BEGINSHADEBOX] 
  *November 23, 2022*
  
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.5
-[!ENDSHADEBOX] 
+>[!ENDSHADEBOX] 
   
 ![New](../assets/new.svg)<!--CHAN-5204--> **Returns and Refunds**—You can now process Walmart Marketplace returns and refunds process for orders shipped through an Adobe Commerce and Magento Open Source Channel Manger store. Information and updates about returns and refunds are synchronized between Walmart and Adobe Commerce so that the current data is available in both the [!DNL Commerce] storefront and [!DNL Walmart Marketplace]. See [Return and refund orders](return-refund-orders.md).
 
@@ -37,9 +37,9 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
 ## v1.0.0
 
-[!BEGINSHADEBOX] 
+>[!BEGINSHADEBOX] 
  *January 14, 2022*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.5
-[!ENDSHADEBOX] 
+>[!ENDSHADEBOX] 
 
