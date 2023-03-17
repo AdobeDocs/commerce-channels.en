@@ -14,7 +14,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
 ## v2.0.0
 
- *March TBD, 2023*
+ *March 20, 2023*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"}<br>Adobe Commerce versions 2.4.0 - 2.4.6
 
