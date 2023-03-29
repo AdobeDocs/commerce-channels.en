@@ -1,12 +1,12 @@
 ---
 title: "[!DNL Amazon Sales Channel] User Guide"
-description: "[!DNL Channel manager] for Adobe Commerce provides the Amazon sales channel extension to enable merchants to seamlessly sell products in the [!DNL Amazon Marketplace]."
+description: "[!DNL Amazon Sales Channel] enables merchants to seamlessly sell products in the [!DNL Amazon Marketplace]."
 redirect_from: /sales-channels/amazon/amazon-sales-channel.html
 exl-id: a4a6f446-7029-4c92-bce3-5b857cc33056
 ---
 # [!DNL Amazon Sales Channel] User Guide
 
-[!DNL Channel manager] for Adobe Commerce provides the Amazon sales channel extension to enable merchants to seamlessly sell products in the Amazon Marketplace.
+[!DNL Amazon Sales Channel] enables merchants to seamlessly sell products in the [!DNL Amazon Marketplace].
 
 As an Adobe Commerce or Magento Open Source merchant, you can use the [!DNL Amazon Sales Channel] extension to integrate your stores with the world's largest global internet shopping destination. This extension enables Amazon sales by connecting [!DNL Commerce] with your [!DNL Amazon Seller Central] account and providing both automation and synchronization of catalog and order data. Completely manage all Amazon listings, implement simple or intelligent pricing rules, and maintain your orders and inventory through a single [!DNL Commerce] dashboard.
 

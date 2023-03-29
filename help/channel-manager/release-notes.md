@@ -1,5 +1,5 @@
 ---
-title: '[!DNLChannel Manager] Release Notes'
+title: '[!DNL Channel Manager] Release Notes'
 description: The latest release information for [!DNL Channel Manager] from Adobe Commerce.
 exl-id: 8f40ace1-6587-4185-955a-91bc16dee8ce
 ---
