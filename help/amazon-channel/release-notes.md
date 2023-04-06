@@ -22,6 +22,8 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ## v4.4.4
 
+*March 7, 2023*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
 ![Fixed issue](../assets/fix.svg) Added support for Adobe Commerce 2.4.6 and PHP 8.2.
@@ -44,11 +46,15 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ## v4.4.3
 
+*March 7, 2023*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
 ![Fix](../assets/fix.svg) Added support for Adobe Commerce 2.4.4.
 
 ## v4.4.2
+
+*November 11, 2021*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
@@ -57,11 +63,15 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ## v4.4.1
 
+*November 11, 2021*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
 ![Fix](../assets/fix.svg) Changed the way Adobe Commerce receives the _User Name_ field from Amazon. Previously, there was an error during order creation when the _User Name_ field contained special characters. Adobe Commerce now receives the _User Name_ data and filters out the special characters so the order can be created successfully.
 
 ## v4.4.0
+
+*April 9, 2021*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
@@ -79,6 +89,8 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 ## v4.3.0
 
+*March 3, 2021*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
 
 ![Fix](../assets/fix.svg) <!--CHAN-xxxx-->The _Order Details_ feature has been redesigned and no longer relies on the _Import Orders_ setting. Order details now appear in the Amazon Sales Channel interface for all orders.
@@ -92,6 +104,8 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 - Creating product fails when MSI is installed
 
 ## v4.2.0
+
+*March 3, 2021*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x (supported for 2.4.x)
 
@@ -121,6 +135,8 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 ## v4.1.0
 
+*May 7, 2020*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x
 
 ![New](../assets/new.svg) <!--4247, 4230-->Changed the order import process to align with Commerce order requirements. These changes correct issues that prevented Commerce from creating the corresponding order for an imported order. See [Manage Orders](managing-orders.md) for information on order blockers and solutions.
@@ -149,6 +165,8 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 ## v4.0.0
 
+*March 25, 2020*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.0-2.3.4
 
 >[!IMPORTANT]
@@ -165,6 +183,8 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 ## v3.0.1
 
+*November 11, 2019*
+
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.2.4 and newer
 
 ![Fix](../assets/fix.svg) **Numerical Field Settings**: <!--CHAN-3779-->Fields that require a numeric-based value have been updated to only accept numeric characters. Example: Pricing Rule Settings > Adjustment Amount field
@@ -174,6 +194,8 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 ![Fix](../assets/fix.svg) **Duplicate Amazon Listings**: <!--CHAN-3593-->A previously reported issue that cause duplicate Amazon listings is now corrected. Prior to this release, the extension added the Country Code for the Amazon region to SKU values when importing listings. The listing matched with the catalog item, but the extension created a new, duplicate listing with the appended SKU. With this release, the extension does not modify the SKU for imported listings, and no changes are made to existing listings. You can use the [!UICONTROL End Listing(s)] on Amazon option to remove duplicate listings.
 
 ## v3.0.0
+
+*October 7, 2019*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.2.4 and newer
 
