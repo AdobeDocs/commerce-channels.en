@@ -3,9 +3,9 @@ title: About Amazon Sales Channel
 description: Use the Amazon sales channel extension to seamlessly integrate Adobe Commerce or Magento Open Source with your Amazon Seller Central account.
 exl-id: 11752491-d0da-4ff7-a0a7-d17d4fa1bfc9
 ---
-# About the Amazon Sales Channel
+# About the [!DNL Amazon Sales Channel]
 
-Channel manager for Adobe Commerce provides the Amazon sales channel extension, which seamlessly integrates your [!DNL Commerce] Admin with your [!DNL Amazon Seller Central] account. After [onboarding](./amazon-onboarding-home.md), [!DNL Commerce] becomes a "central command center" for managing and controlling your Amazon listings, orders and inventory, and pricing for your Amazon store.
+[!DNL Amazon Sales Channel] provides the Amazon sales channel extension, which seamlessly integrates your [!DNL Commerce] Admin with your [!DNL Amazon Seller Central] account. After [onboarding](./amazon-onboarding-home.md), [!DNL Commerce] becomes a "central command center" for managing and controlling your Amazon listings, orders and inventory, and pricing for your Amazon store.
 
 [Store integration](./store-integration.md) connects your [!DNL Commerce] instance and Amazon to sync data between both platforms. Amazon sales channel enables you to:
 
