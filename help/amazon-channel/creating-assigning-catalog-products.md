@@ -1,5 +1,5 @@
 ---
-title: Create and assign products for Amazon slaes channel
+title: Create and assign products for Amazon sales channel
 description: Amazon Sales Channel provides the [!UICONTROL New Third Party] tab to help create and assign matching Commerce catalog products with Amazon listings.
 exl-id: de000e80-7546-44d2-905e-28664b24f028
 ---
@@ -15,7 +15,7 @@ When you create a catalog product from an Amazon listing:
 - The **Product Listing Name** becomes the Catalog Listing Name
 - The **Price** and **Quantity** are imported from the Amazon Listing
 
-The rest of the necessary settings are determined by the [!DNL Commerce] product settings you select during creation.
+The rest of the necessary settings are determined by the [!DNL Commerce] product settings that you select during creation.
 
 When created and matched, the listings remove from the _[!UICONTROL New Third Party]_ tab and appear on the _[!UICONTROL Active]_ tab.
 
@@ -23,7 +23,7 @@ When created and matched, the listings remove from the _[!UICONTROL New Third Pa
 
 1. View your product listings on the [_[!UICONTROL New Third Party]_](./new-third-party-listings.md) tab.
 
-1. Find the listing you wish to assign in the list, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column, and click **[!UICONTROL Assign Catalog Product]**.
+1. Find the listing that you wish to assign in the list, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column, and click **[!UICONTROL Assign Catalog Product]**.
 
    This action opens the _[!UICONTROL Assign Magento Catalog Product]_ page.
 
@@ -37,7 +37,7 @@ Your product and listing are now matched. Amazon sales channel can now share pro
 
 1. View your product listings on the [_[!UICONTROL New Third Party]_](./new-third-party-listings.md) tab.
 
-1. Find the listing you wish to create in your [!DNL Commerce] catalog, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column, and click **[!UICONTROL Create New Catalog Product]**.
+1. Find the listing that you wish to create in your [!DNL Commerce] catalog, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column, and click **[!UICONTROL Create New Catalog Product]**.
 
    This action opens the _[!UICONTROL Create Magento Catalog Product]_ page.
 

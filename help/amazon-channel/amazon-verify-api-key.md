@@ -13,7 +13,7 @@ If the Amazon API key is missing, invalid, or expired, you must update your key.
 
 The API key is validated each time you access your Amazon sales channel.
 
-1. Log into the [!DNL Commerce] Admin.
+1. Log in to the [!DNL Commerce] Admin.
 
 1. On the _[!UICONTROL Admin]_ sidebar, go to **[!UICONTROL Marketing]** > _[!UICONTROL Channels]_ > **[!UICONTROL Amazon Sales Channel]**.
 
@@ -33,7 +33,7 @@ The API key is validated each time you access your Amazon sales channel.
 
 1. If needed, you can view and generate API keys on the _[!UICONTROL API Portal]_ tab in your [!DNL Commerce] account.
 
-   To create an API key, enter a description like `Amazon Sales Channel` and click **[!UICONTROL Add New]**. The new key is generated and shown with the name you entered. Click **[!UICONTROL Copy]** to copy the new key.
+   To create an API key, enter a description like `Amazon Sales Channel` and click **[!UICONTROL Add New]**. The new key is generated and shown with the name that you entered. Click **[!UICONTROL Copy]** to copy the new key.
 
     ![Generate or copy an API key](assets/amazon-add-api-key.png){width="500" zoomable="yes"}
 
@@ -51,7 +51,7 @@ The API key is validated each time you access your Amazon sales channel.
 
 1. On the _[!UICONTROL Admin]_ sidebar, go to **[!UICONTROL Marketing]** > _[!UICONTROL Channels]_ > **[!UICONTROL Amazon Sales Channel]**.
 
-   Re-accessing Amazon sales channel triggers [!DNL Commerce] verify and validate your API key and allows you to continue.
+   Reaccessing Amazon sales channel triggers [!DNL Commerce] verify and validate your API key and allows you to continue.
 
    If you are prompted to verify the key again, repeat this _Add and Verify_ process.
 

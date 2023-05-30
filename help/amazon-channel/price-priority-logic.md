@@ -50,7 +50,7 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 This example adds the non-price value, which is used if you select another value for the _[!UICONTROL Magento Price Source_] (defined in your [Listing Price](./listing-price.md) settings). The non-price value always uses price as the fallback price.
 
-- The **[!UICONTROL Magento Price Source]** (defined in your [[!UICONTROL Listing Price]](./listing-price.md) settings) is set to `Non-Price`.
+- The **[!UICONTROL Magento Price Source]** (defined in [[!UICONTROL Listing Price]](./listing-price.md) settings) is set to `Non-Price`.
 - Look at the website with the highest website priority, which is `Store 1`(defined by the [Sort Order](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-views.html) value).
 - Since Store 1 **is not** set to use the `Non-Price` attribute, look at the next website in the sort order.
 - Since Store 2 **is** set to use the `Non-Price` attribute (Non-Price [Website] = $20.00), the published price is $20.00.
