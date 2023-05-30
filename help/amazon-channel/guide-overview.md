@@ -22,7 +22,7 @@ This guide reviews some basic [!DNL Amazon Seller Central] information, the requ
 
 |Area|Description|
 |----|----|
-|[About Amazon sales channel](./about-amazon-sales-channel.md)|Learn more about Amazon sales channel basics, key features, best practices, and more.|
+|[Introduction to Amazon sales channel](./overview.md)|Learn more about Amazon sales channel basics, key features, best practices, and more.|
 |[Onboard Amazon sales channel](./amazon-onboarding-home.md)|Quickly create Amazon stores and integrate with [!DNL Amazon Seller Central]. Get your Amazon sales channel up and running to start selling.|
 |[Amazon sales channel home](./amazon-sales-channel-home.md)|Learn more about your Amazon sales channel home page and the options and tasks available. View summary information about your Amazon stores and access store details and settings.|
 |[Manage attributes](./attributes-view.md)|Amazon sales channel maps products between your [!DNL Commerce] catalog and Amazon using product attributes. Learn more about creating, mapping, and managing those attributes.|
