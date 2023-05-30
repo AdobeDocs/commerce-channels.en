@@ -16,7 +16,7 @@ Before mapping shipping carriers, complete the following tasks:
 
 1. Review the [Carrier Methods and Shipping Best Practices for On-Time Delivery](https://sellerhelp.walmart.com/s/guide?article=000009473) for [!DNL Walmart Marketplace].
 
-1. Verify the [[!UICONTROL Shipping Carrier]](https://docs.magento.com/user-guide/shipping/carriers.html) and [[!UICONTROL Shipping Settings]](https://docs.magento.com/user-guide/configuration/sales/shipping-settings.html) configuration in your [!DNL Commerce] store to ensure that you have optimized the configuration for [!DNL Walmart Marketplace sales].
+1. Verify the [[!UICONTROL Shipping Carrier]](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html) and [[!UICONTROL Shipping Settings]](https://experienceleague.adobe.com/docs/commerce-admin/config/sales/shipping-settings.html) configuration in your [!DNL Commerce] store to ensure that you have optimized the configuration for [!DNL Walmart Marketplace sales].
 
 ## Map shipping carriers
 
@@ -24,7 +24,7 @@ Before mapping shipping carriers, complete the following tasks:
 
 1. On **[!UICONTROL Channel Settings]**, select **[!UICONTROL Shipping Carriers]**.
 
-   ![Map shipping carriers](assets/map-shipping-carriers.png)
+   ![Map shipping carriers](assets/map-shipping-carriers.png){width="600" zoomable="yes"}
 
 1. For each [!DNL Walmart] preferred carrier listed, select the [!DNL Commerce] carrier name from the dropdown if the carrier is available.
 

@@ -35,7 +35,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 >
 >If you have listings in process, the number of listings appears in a message above the tabs.
 
-![Incomplete Amazon listings](assets/amazon-incomplete-listings.png)
+![Incomplete Amazon listings](assets/amazon-incomplete-listings.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

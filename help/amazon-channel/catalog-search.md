@@ -54,7 +54,7 @@ If you want to add attributes, see [Create Product Attributes for Amazon Matchin
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Catalog Search](assets/amazon-catalog-search.png)
+![Catalog Search](assets/amazon-catalog-search.png){width="500" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

@@ -30,7 +30,7 @@ See [Create and Edit Overrides](./creating-editing-overrides.md).
 >
 >If you have listings in process, the number of listings is displayed in a message above the tabs.
 
-![Overrides tab](assets/amazon-overrides.png)
+![Overrides tab](assets/amazon-overrides.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

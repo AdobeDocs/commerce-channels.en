@@ -14,7 +14,7 @@ When an assigned ASIN is changed:
 - Creates a listing for the updated ASIN
 - Updates listing information in Amazon sales channel
 
-To edit an assigned ASIN:
+**_To edit an assigned ASIN:_**
 
 1. View the listing on the _[!UICONTROL Product Listings]_ page (_[!UICONTROL Inactive]_, _[!UICONTROL Active]_, or _[!UICONTROL Ineligible]_ tab).
 
@@ -26,4 +26,4 @@ To edit an assigned ASIN:
 
 1. To save your changes, click **[!UICONTROL Save Listing Update]**.
 
-![Edit an assigned ASIN](assets/amazon-assigned-asin-edit.png)
+![Edit an assigned ASIN](assets/amazon-assigned-asin-edit.png){width="600" zoomable="yes"}

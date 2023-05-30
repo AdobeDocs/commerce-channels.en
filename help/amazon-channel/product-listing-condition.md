@@ -51,7 +51,7 @@ During [Pre-setup tasks](./amazon-pre-setup-tasks.md), you are encouraged to cre
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Product listing condition](assets/amazon-product-listing-condition.png)
+![Product listing condition](assets/amazon-product-listing-condition.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |---|---|

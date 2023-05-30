@@ -11,7 +11,7 @@ The store dashboard is the primary location for you to view the activity for eac
 
 You can also access your [store settings](./ob-store-review.md), [manage your listings](./managing-product-listings.md), and view sales data and recent order information.
 
-![Amazon Store dashboard](assets/amazon-store-dashboard.png)
+![Amazon Store dashboard](assets/amazon-store-dashboard.png){width="600" zoomable="yes"}
 
 The header of the store dashboard displays the same basic store information that is shown on the store card:
 

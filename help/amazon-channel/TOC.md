@@ -6,9 +6,8 @@ breadcrumb-title: Amazon sales channel
 
 # Amazon sales channel - [!DNL channel manager] for Adobe Commerce {#amazon}
 
-- [Guide overview](guide-overview.md)
+- [Amazon Sales Channel User Guide](guide-overview.md)
 - [Introduction to Amazon sales channel](overview.md)
-- [Release notes](release-notes.md)
 - Getting started {#getting-started}
   - [About Amazon sales channel](about-amazon-sales-channel.md)
   - [About Amazon Marketplace](about-amazon-marketplace.md)
@@ -107,3 +106,4 @@ breadcrumb-title: Amazon sales channel
   - [Common order processing tasks](common-order-processing.md)
   - [Fulfillment workflows](fulfillment-workflows.md)
   - [Cancel unshipped orders](cancel-unshipped-order.md)
+- [Release notes](release-notes.md)

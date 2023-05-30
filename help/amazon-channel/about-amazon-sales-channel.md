@@ -115,7 +115,7 @@ With the [!DNL Amazon Sales Channel] extension, you can:
 
 - Manage multiple [!DNL Amazon Marketplace] regions (countries).
 
-- Support multiple currencies using the [[!DNL Commerce] currency conversion tool](https://docs.magento.com/user-guide/stores/currency-configuration.html){target="_blank"}.
+- Support multiple currencies using the [[!DNL Commerce] currency conversion tool](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency-configuration.html).
 
 - Manage shipments from your product locations and Amazon fulfillment centers.
 

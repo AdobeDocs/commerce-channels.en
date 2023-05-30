@@ -9,7 +9,7 @@ The _[!UICONTROL Lowest Competitor Pricing]_ tab on the _[!UICONTROL Product Lis
 
 [Intelligent repricing rules](./intelligent-repricing-rules.md) can be configured to adjust your pricing based on the competitor prices.
 
-![Lowest competitor pricing](assets/amazon-listing-details-lowest-comp.png)
+![Lowest competitor pricing](assets/amazon-listing-details-lowest-comp.png){width="600" zoomable="yes"}
 
 ## Access lowest competitor pricing details
 

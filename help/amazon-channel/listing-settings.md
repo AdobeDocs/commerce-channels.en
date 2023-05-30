@@ -35,4 +35,4 @@ Expand each of the sections and configure as needed.
 
 1. Click **[!UICONTROL Save]**.
 
-![Listing settings](assets/amazon-listing-settings.png)
+![Listing settings](assets/amazon-listing-settings.png){width="600" zoomable="yes"}

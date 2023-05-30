@@ -7,7 +7,7 @@ exl-id: fc08cd6e-eef9-4e71-82b1-5443e14800ce
 
 The _[!UICONTROL Attributes]_ view shows your list of Amazon and [!DNL Commerce] attributes. The list also indicates attributes that have been mapped for product matching. For more information, see [Manage Attributes](./managing-attributes.md).
 
-![Attributes view](assets/amazon-attributes-view.png)
+![Attributes view](assets/amazon-attributes-view.png){width="600" zoomable="yes"}
 
 From the _[!UICONTROL Attributes]_ view, you and review your attribute settings in the table and [create or edit](./creating-attributes.md) an attribute.
 

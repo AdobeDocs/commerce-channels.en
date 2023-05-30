@@ -13,7 +13,7 @@ Options under **[!UICONTROL Actions]** can apply the action to multiple listings
 
 See also [Manage Listings by Action](./managing-listings-by-action.md).
 
-![Product Listings tabs](assets/amazon-product-listings-tabs.png)
+![Product Listings tabs](assets/amazon-product-listings-tabs.png){width="600" zoomable="yes"}
 
 |Tab|Description|Actions|
 |--- |--- |--- |

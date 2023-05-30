@@ -27,7 +27,7 @@ For ending listings, see [End an Amazon Listing](./end-listings-manually.md).
 
 For publishing listings, see [Manually Publish an Amazon Listing](./publish-listings-manually.md).
 
-![Ended Amazon listings](assets/amazon-ended-listings.png)
+![Ended Amazon listings](assets/amazon-ended-listings.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

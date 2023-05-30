@@ -36,7 +36,7 @@ These settings define how your catalog interacts with Amazon. These settings:
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Product listing actions](assets/amazon-product-listing-actions.png)
+![Product listing actions](assets/amazon-product-listing-actions.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

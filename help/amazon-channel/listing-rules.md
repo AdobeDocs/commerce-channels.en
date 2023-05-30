@@ -17,7 +17,7 @@ Your listing rules are continually synchronized with your [!DNL Commerce] catalo
 
 - If you want all of your products to be published to an Amazon listing, do not define any conditions for your listing rules.
 
-- If you want to limit which of your catalog products that are published to Amazon, you define your listing rule conditions. Defining the conditions for your Amazon listing rules follow the same logic and process as defining the conditions for [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}.
+- If you want to limit which of your catalog products that are published to Amazon, you define your listing rule conditions. Defining the conditions for your Amazon listing rules follow the same logic and process as defining the conditions for [Cart Price Rules](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html).
 
 - If your listing rules exclude a product, the eligibility status for that product changes to `Ineligible`. Ineligible products are not published to Amazon.
 
@@ -25,7 +25,7 @@ Your listing rules are continually synchronized with your [!DNL Commerce] catalo
 
 Changes to quantity and eligibility status impact all listings that share the Amazon Seller SKU in marketplaces that exist for stores selling in the same region (as defined in _[!UICONTROL Amazon Marketplace Country]_ during [store integration](./store-integration.md)). However, a change to a shared [!DNL Amazon Seller SKU] in one region does not affect the product's Amazon listings in a different country.
 
-![Listing rules](assets/ob-listing-rules.png)
+![Listing rules](assets/ob-listing-rules.png){width="600" zoomable="yes"}
 
 ## Configure Listing Rules settings
 
@@ -37,7 +37,7 @@ See [Example: Define a Condition](./ob-define-condition-example.md).
 
 |Field|Description|
 |---|---|
-|[!UICONTROL Websites]|The available options depend on the [websites](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in Amazon sales channel. |
+|[!UICONTROL Websites]|The available options depend on the [websites](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in Amazon sales channel. |
 |[!UICONTROL Conditions]|Used to define the [!DNL Commerce] attributes for product eligibility within your Amazon region. See [Example: Define a Condition](./ob-define-condition-example.md). |
 
 ## Conditions workspace
@@ -47,7 +47,7 @@ Any areas in the conditions that are bold can be clicked to see the various opti
 - Do not add conditions if all products within the selected websites are eligible.
 - There is a complex set of back-end processes to communicate with Amazon's systems directly. Based on the number of items you are attempting to list, and how busy Amazon's systems might be (such as Black Friday), it could take time for your items to be listed on Amazon.
 
-For more information about conditions, see [Describe the Conditions](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}.
+For more information about conditions, see [Describe the Conditions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html).
 
 ## Listing rule preview
 
@@ -87,7 +87,7 @@ Your potential Amazon listings populate on the _[!UICONTROL Listing Preview]_ pa
 
     If your listings do no not appear as expected, click **[!UICONTROL Back]** and modify your rules and conditions until your listings match your expectations.
 
-![Listing rule preview](assets/amazon-listing-rule-preview.png)
+![Listing rule preview](assets/amazon-listing-rule-preview.png){width="600" zoomable="yes"}
 
 ### Listing preview records
 
@@ -95,11 +95,11 @@ Your potential Amazon listings populate on the _[!UICONTROL Listing Preview]_ pa
 |--- |--- |
 |[!UICONTROL Product ID] |The unique, sequential number that is assigned to a [!DNL Commerce] catalog product when it is added. |
 |[!UICONTROL Thumbnail] |Shows a thumbnail of the main product image. |
-|[!UICONTROL Name] |The name of the product, managed in the [!DNL Commerce] [products grid](https://docs.magento.com/user-guide/catalog/products.html){target="_blank"}. |
+|[!UICONTROL Name] |The name of the product, managed in the [!DNL Commerce] [products grid](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/products-list.html). |
 |[!UICONTROL Type] |The type of product, managed in the [!DNL Commerce] products grid. |
 |[!UICONTROL Attribute Set] |The name of the attribute set used as a template for the product, managed in the [!DNL Commerce] products grid. |
 |[!UICONTROL SKU] |The unique Stock Keeping Unit that is assigned to the product, managed in the [!DNL Commerce] products grid. |
 |[!UICONTROL Visibility] |Indicates where the product is visible, managed in the [!DNL Commerce] products grid. Options:<ul><li>`Not visible individually`</li><li>`Catalog`</li><li>`Search`</li><li>`Catalog, Search`</li></ul>|
 |Status |Indicates the status of the product, managed in the [!DNL Commerce] products grid. Options: `Enabled` / `Disabled` |
 
-![Listing preview workflow](assets/listing-preview-flowchart.png)
+![Listing preview workflow](assets/listing-preview-flowchart.png){width="500" zoomable="yes"}

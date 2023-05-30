@@ -12,9 +12,9 @@ These settings define which [!DNL Commerce] pricing attribute to use as your pri
 
 You can configure your [pricing scope](./price-scope.md) as global or website. If your pricing scope is set to `Global`, there is a single price source for all your stores/websites. If your pricing scope is set to `Website`, the price source uses fallback logic of website price (if available) followed by the default (global) price.
 
-If a listing rule is set to apply to more than one website, the order in which website price is used is determined by the website priority setting defined in the [listing rule](./listing-rules.md). These rules allow you to define product pricing across your catalog. To see if you are using website price scope, see [Catalog Price Scope](https://docs.magento.com/user-guide/catalog/catalog-price-scope.html){target="_blank"}.
+If a listing rule is set to apply to more than one website, the order in which website price is used is determined by the website priority setting defined in the [listing rule](./listing-rules.md). These rules allow you to define product pricing across your catalog. To see if you are using website price scope, see [Catalog Price Scope](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/catalog-price-scope.html).
 
-The options listed in _[!UICONTROL Magento Price Source]_, _[!UICONTROL Minimum Advertised Price (Map)]_, and _[!UICONTROL Strike Through Price (MSRP)]_ include your configured Pricing attributes. Pricing attributes are [!DNL Commerce] product attributes with the Catalog Input Type for Store Owner value set to `Price`. See [Attribute Input Types](https://docs.magento.com/user-guide/stores/attributes-input-types.html){target="_blank"}.
+The options listed in _[!UICONTROL Magento Price Source]_, _[!UICONTROL Minimum Advertised Price (Map)]_, and _[!UICONTROL Strike Through Price (MSRP)]_ include your configured Pricing attributes. Pricing attributes are [!DNL Commerce] product attributes with the Catalog Input Type for Store Owner value set to `Price`. See [Attribute Input Types](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/attributes-input-types.html).
 
 ## Configure Listing Price settings {#configure-listing-price-settings}
 
@@ -46,7 +46,7 @@ The options listed in _[!UICONTROL Magento Price Source]_, _[!UICONTROL Minimum 
 
    >[!NOTE]
    >
-   >Businesses in the European Union (EU) are required to send invoices to business buyers, so that the customer can remit tax. You can either generate these invoices and calculate the taxes yourself or use a tax calculation service such as Amazon's VAT Calculation Service. Amazon recommends signing up for the [Amazon VAT Calculation Service](https://sell.amazon.co.uk/learn/vat-resources?ref_=asuk_soa_rd&){target="_blank"}. If you choose a different method, you are responsible for VAT compliance.>
+   >Businesses in the European Union (EU) are required to send invoices to business buyers, so that the customer can remit tax. You can either generate these invoices and calculate the taxes yourself or use a tax calculation service such as Amazon's VAT Calculation Service. Amazon recommends signing up for the [Amazon VAT Calculation Service](https://sell.amazon.co.uk/learn/vat-resources?ref_=asuk_soa_rd&). If you choose a different method, you are responsible for VAT compliance.>
    >
    >It may take 10-14 days for Amazon to verify and activate your VAT Calculation Service account.
 
@@ -68,11 +68,11 @@ The options listed in _[!UICONTROL Magento Price Source]_, _[!UICONTROL Minimum 
 
 1. For **[!UICONTROL Currency Conversion]**, choose an option.
 
-   The default is `Disabled`. These options depend on your [!DNL Commerce] [currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html){target="_blank"} settings. If no options are available, set up your currency settings.
+   The default is `Disabled`. These options depend on your [!DNL Commerce] [currency](https://experienceleague.adobe.com/docs/commerce-admin/config/general/currency-setup.html) settings. If no options are available, set up your currency settings.
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Listing Price](assets/amazon-listing-price.png)
+![Listing Price](assets/amazon-listing-price.png){width="500" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |
@@ -83,7 +83,7 @@ The options listed in _[!UICONTROL Magento Price Source]_, _[!UICONTROL Minimum 
 |[!UICONTROL VAT Percentage]|Define the percentage to be used to calculate the VAT amount to be added to the listing price for your Amazon listings. <br><br>If you enter `5`, then a 5% VAT will be applied to the final listing price after all pricing rules have been applied. VAT tax does not apply to the final price for listings that are used within an intelligent pricing rule, unless the [floor](./floor-price.md) or [ceiling](./optional-ceiling-price.md) is hit. |
 |[!UICONTROL Amazon Product Tax Code (PTC)]|(Appears for UK Stores Only) Determines if Amazon sales channel sends product tax code information to your [!DNL Amazon Seller Central] account. <br><br>Select **Do Not Manage PTC** if you are using a third-party tax calculation service or already have all your tax calculations set up in your [!DNL Amazon Seller Central] account. When set to this option, Amazon sales channel sends no product tax code information to your [!DNL Amazon Seller Central] account.<br><br>Select **Set Default PTC** if you have a universal product tax code you want to use for all your products.<br><br>See [Amazon's Product Tax Codes](https://sellercentral.amazon.com/gp/help/help.html?itemID=G200794510&language=en_US){target="_blank"}.|
 |[!UICONTROL Default PTC]|Only appears when **Amazon Product Tax Code (PTC)** is set to `Set Default PTC`. Enter the default PTC to be used for all eligible Amazon listings. If your default PTC is set in your [!DNL Amazon Seller Central] account, leave this field blank. <br><br>Changes made to this field do not affect existing listings. The listing must be [ended](./end-listings-manually.md) and a new listing created for the change to take effect.|
-|[!UICONTROL Currency Conversion] |Allows your [!DNL Commerce] storefront default currency to accurately convert to your default Amazon currency to publish your listing prices in the proper currency. The currency conversion is always based on your [!DNL Commerce] default currency.<br><br>You can still view your default [!DNL Commerce] and Amazon currencies when other currencies are available. If your default [!DNL Commerce] currency matches your default Amazon currency, leave Currency Conversion disabled.<br><br>For example, if your [!DNL Commerce] default currency is CAD (Canadian Dollars) and your Amazon default currency is USD, you must enable Currency Conversion and choose the Conversion Rate CAD to USD. The options presented are based on the built-in [!DNL Commerce] currency conversions. If you do not see the option that you are looking for, [set up the currency in [!DNL Commerce]](https://docs.magento.com/user-guide/stores/currency-configuration.html){target="_blank"}. |
+|[!UICONTROL Currency Conversion] |Allows your [!DNL Commerce] storefront default currency to accurately convert to your default Amazon currency to publish your listing prices in the proper currency. The currency conversion is always based on your [!DNL Commerce] default currency.<br><br>You can still view your default [!DNL Commerce] and Amazon currencies when other currencies are available. If your default [!DNL Commerce] currency matches your default Amazon currency, leave Currency Conversion disabled.<br><br>For example, if your [!DNL Commerce] default currency is CAD (Canadian Dollars) and your Amazon default currency is USD, you must enable Currency Conversion and choose the Conversion Rate CAD to USD. The options presented are based on the built-in [!DNL Commerce] currency conversions. If you do not see the option that you are looking for, [set up the currency in [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency-configuration.html). |
 
 **Quick Access** - [!UICONTROL Listing Settings] sections
 

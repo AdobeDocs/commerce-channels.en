@@ -20,15 +20,15 @@ Both methods require you to use the Command Line Interface (CLI).
 
 >[!NOTE]
 >
->For help with installing [!DNL Commerce] software using the CLI, see [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"}. 
+>For help with installing [!DNL Commerce] software using the CLI, see [Install an extension](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html). 
 
 ### Install on an on-premises instance
 
 Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and Magento Open Source to an on-premises instance.
 
-1. Log in to the [!DNL Commerce] server as a [user with permissions](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/file-system-perms.html){target="_blank"} to write to the [!DNL Commerce] file system.
+1. Log in to the [!DNL Commerce] server as a [user with permissions](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/file-system/configure-permissions.html) to write to the [!DNL Commerce] file system.
 
-1. Put your website into [maintenance mode](https://devdocs.magento.com/guides/v2.4/install-gde/install/cli/install-cli-subcommands-maint.html){target="_blank"}.
+1. Put your website into [maintenance mode](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/maintenance-mode.html).
 
    ```bash
    $ bin/magento maintenance:enable
@@ -102,13 +102,13 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
 
 Work in a development branch when adding an extension to your cloud instance.
 
-For help with using branches, see [Get started creating branches](https://devdocs.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"} in the Adobe Commerce developer documentation.
+For help with using branches, see [Get started creating branches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html) in the _Commerce on Cloud Infrastructure Guide_.
 
-During installation, the extension name (`magento\channel-manager`) is automatically inserted in the [app/etc/config.php](https://devdocs.magento.com/cloud/live/sens-data-over.html#configuration-data){target="_blank"} file. You do not need to edit the file directly.
+During installation, the extension name (`magento\channel-manager`) is automatically inserted in the [app/etc/config.php](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/store-settings.html) file. You do not need to edit the file directly.
 
 1. On your local workstation, change to the Cloud project root directory.
 
-1. Create or check out a development [branch](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
+1. Create or check out a development [branch](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html).
 
 1. Using the Composer name, add the extension to the `require` section of the `composer.json` file.  
 
@@ -150,14 +150,14 @@ During installation, the extension name (`magento\channel-manager`) is automatic
    Module is enabled
    ```
 
-   If the module is disabled, [enable it in your local environment](https://devdocs.magento.com/cloud/howtos/install-components.html#manage-extensions) and deploy your changes.
+   If the module is disabled, [enable it in your local environment](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html) and deploy your changes.
    
 
 1. After you install the extension successfully, log in to the [!UICONTROL Admin] to [configure the Commerce Services Connector](connect.md).
 
    >[!NOTE]
    >
-   >For instructions to update Channel Manager to a new release, see [Upgrade modules and extensions](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/modules/upgrade.html){target="_blank"}.
+   >For instructions to update Channel Manager to a new release, see [Upgrade modules and extensions](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/modules/upgrade.html).
 
 
 ## Troubleshooting
@@ -166,7 +166,7 @@ Use the following information to resolve errors that occur during the Channel Ma
 
 ### Incorrect Composer keys
 
-If the [access keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
+If the [access keys](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/authentication-keys.html) used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
 ```terminal
 Could not find a matching version of package magento/channel-manager. Check the package spelling, your version constraint and that the package is available in a stability which matches your minimum-stability (stable).
@@ -186,7 +186,7 @@ Check the key configuration:
    $ cat /path/to/auth.json
    ```
 
-1. Verify that the credentials in the auth.json match [the keys associated with the MAGE ID](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to register for the Channel Manager service.
+1. Verify that the credentials in the auth.json match [the keys associated with the MAGE ID](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/authentication-keys.html) used to register for the Channel Manager service.
 
 ### Insufficient memory for PHP
 
@@ -198,7 +198,7 @@ Fatal error: Allowed memory size of 2146435072 bytes exhausted (tried to allocat
 
 Use either of the following methods to resolve the memory issue:
 
-- [Increase the memory limit for PHP](https://devdocs.magento.com/cloud/project/magento-app-php-ini.html#increase-php-memory-limit){target="_blank"} in the environment `php.ini` file. Also, verify that the Commerce instance has the [recommended values](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/php-settings.html){target="_blank"} for other PHP settings.
+- [Increase the memory limit for PHP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/php-settings.html) in the environment `php.ini` file. Also, verify that the Commerce instance has the [recommended values](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/php-settings.html) for other PHP settings.
 
 - Specify the memory limit from the command line.
 
@@ -214,7 +214,7 @@ Use either of the following methods to resolve the memory issue:
 
 ### Missing view
 
-If you get an error about a missing `process_catalog_exporter_view` during the Channel Manager installation, try [refreshing the indexers](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html#config-cli-subcommands-index-reindex){target="_blank"}.
+If you get an error about a missing `process_catalog_exporter_view` during the Channel Manager installation, try [refreshing the indexers](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/manage-indexers.html).
 
 ```bash
 php bin/magento indexer:refresh
@@ -222,4 +222,4 @@ php bin/magento indexer:refresh
 
 ### Cloud deployment errors
 
-For problems deploying the extension to the cloud, see [extension deployment failure](https://devdocs.magento.com/cloud/trouble/trouble_comp-deploy-fail.html){target="_blank"}.
+For problems deploying the extension to the cloud, see [extension deployment failure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/recover-failed-deployment.html).

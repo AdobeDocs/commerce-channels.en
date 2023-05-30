@@ -25,7 +25,7 @@ Under _[!UICONTROL Select]_:
 >
 >If you have listings in process, a message is displayed above the tabs indicating the number of listings.
 
-![New third party listings](assets/amazon-listings-new-third-party.png)
+![New third party listings](assets/amazon-listings-new-third-party.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

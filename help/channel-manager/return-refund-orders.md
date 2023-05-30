@@ -11,13 +11,13 @@ On the Commerce side, the return request initiates the following workflow:
 
 1. Channel Manager creates a corresponding return request with a received status and adds the return ID number ([!UICONTROL RMA #]) to the [!UICONTROL Returns] dashboard. On the [!DNL Orders] dashboard, the status detail for the order associated with the return updates to include a [!UICONTROL Return requested] link to view and process the return.
 
-1. Merchants process the refund associated with the return by creating a Credit Memo following the [Adobe Commerce refund workflow](https://docs.magento.com/user-guide/sales/credit-memos.html#refund-workflow). All refunds are processed using the offline method. 
+1. Merchants process the refund associated with the return by creating a Credit Memo following the [Adobe Commerce refund workflow](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/credit-memos/credit-memos.html). All refunds are processed using the offline method. 
 
 1. [!DNL Channel Manager] sends a refund update to Walmart marketplace so the return status can be updated to reflect the completed refund from Adobe Commerce.
 
 In the storefront Admin, you can view and process returns from Channel Manager by opening the sales channel store and selecting **[!UICONTROL Returns]**.
 
-![Channel Manager Returns dashboard to process refunds for return requests received from [!DNL Walmart Marketplace]](assets/returns-dashboard-view.png)
+![Channel Manager Returns dashboard to process refunds for return requests received from [!DNL Walmart Marketplace]](assets/returns-dashboard-view.png){width="600" zoomable="yes"}
 
 >[!NOTE]
 >
@@ -142,7 +142,7 @@ The following scenarios describe how to issue refunds for different types of ret
 
    * From the [!UICONTROL Status Details] column, select **[!UICONTROL Create credit memo]** to open the Order detail page in [!DNL Commerce].
 
-     If the order has not been invoiced, the Order detail page displays an error message prompting you to create one. Select **[!UICONTROL Create invoice]**. Then, [create and save the invoice](https://docs.magento.com/user-guide/sales/invoices.html).
+     If the order has not been invoiced, the Order detail page displays an error message prompting you to create one. Select **[!UICONTROL Create invoice]**. Then, [create and save the invoice](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/invoices.html).
 
    * On the Order detail page, select **[!UICONTROL Credit Memo]**.
 
@@ -173,7 +173,7 @@ You can view information about return requests and refund processing from the [!
 
 1. View refund details for a return by selecting **[!UICONTROL View credit memo]**.
 
-   ![Credit memo to refund returned items for a [!DNL Walmart Marketplace] order](assets/refund-credit-memo-for-marketplace-order.png)
+   ![Credit memo to refund returned items for a [!DNL Walmart Marketplace] order](assets/refund-credit-memo-for-marketplace-order.png){width="600" zoomable="yes"}
 
 >[!NOTE]
 >

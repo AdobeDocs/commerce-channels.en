@@ -23,7 +23,7 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
     The _[!UICONTROL Add Amazon sales channel]_ page opens.
 
-    ![Add the Amazon sales channel store](assets/amazon-store-integration.png)
+    ![Add the Amazon sales channel store](assets/amazon-store-integration.png){width="500" zoomable="yes"}
 
 1. For **[!UICONTROL Magento Website to use for Amazon Listing]**, choose which of your [!DNL Commerce] websites to connect for this Amazon sales channel store.
 
@@ -78,7 +78,7 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
    To view the store dashboard, click **[!UICONTROL View Store]** on the store card.
 
-![Amazon sales channel home with new store card](assets/asc-dashboard-after-2fa.png)
+![Amazon sales channel home with new store card](assets/asc-dashboard-after-2fa.png){width="600" zoomable="yes"}
 
 Your new Amazon sales channel store is now connected to your [!DNL Amazon Seller Central] account.
 

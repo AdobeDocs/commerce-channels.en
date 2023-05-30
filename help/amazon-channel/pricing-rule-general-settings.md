@@ -42,7 +42,7 @@ Define the name, description, active dates, and priority for the rule.
 >
 >To discard subsequent rules, a pricing rule must have a define **Priority** value.
 
-![Pricing rule general settings](assets/amazon-pricing-rule-general.png)
+![Pricing rule general settings](assets/amazon-pricing-rule-general.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |---|---|

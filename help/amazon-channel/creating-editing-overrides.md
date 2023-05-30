@@ -15,7 +15,7 @@ The _[!UICONTROL Create Override]_ action is available when viewing listings on 
 
 1. In the _[!UICONTROL Action]_ column, click **[!UICONTROL Select]** > **[!UICONTROL Create Override]** to open the Product Listing Overrides page.
 
-   ![create Amazon listing override](assets/amazon-select-create-override.png)
+   ![create Amazon listing override](assets/amazon-select-create-override.png){width="220"}
 
 1. To ensure you are viewing the correct listing, verify the _[!UICONTROL Listing Details]_.
 
@@ -34,7 +34,7 @@ The _[!UICONTROL Create Override]_ action is available when viewing listings on 
 
 The following example shows an override that defines a new price of `$55`, a new handling time of `1 day`, a new condition of `Used; Like New`, and new Seller Note text.
 
-![Example Amazon listing override](assets/amazon-overrides-edit.png)
+![Example Amazon listing override](assets/amazon-overrides-edit.png){width="600" zoomable="yes"}
 
 ## Edit or remove an override for a single listing {#edit-override-single-listing}
 
@@ -46,7 +46,7 @@ The _[!UICONTROL Edit Overrides]_ action is available when viewing listings on t
 
    The _[!UICONTROL Product Listing Overrides]_ page opens.
 
-    ![Select an Amazon listing override](assets/amazon-select-edit-overrides.png)
+    ![Select an Amazon listing override](assets/amazon-select-edit-overrides.png){width="125"}
 
 1. To ensure you are overriding the correct listing, verify the _[!UICONTROL Listing Details]_.
 
@@ -67,7 +67,7 @@ The _[!UICONTROL Edit Overrides]_ action is available when viewing listings on t
 
 Piggybacking on the _Create an Override_ example. The following example shows an edit to the previously created override that defines a new price of `$50`, removes the Handling Time override, and keeps the previous Condition and Seller Notes overrides.
 
-![Editing or removing an override](assets/amazon-overrides-edit-2.png)
+![Editing or removing an override](assets/amazon-overrides-edit-2.png){width="600" zoomable="yes"}
 __
 
 ## Edit or remove an override for multiple listings {#edit-override-multiple-listings}
@@ -86,7 +86,7 @@ The _[!UICONTROL Edit Listing Overrides]_ action is available on the _[!UICONTRO
 
    The _[!UICONTROL Product Listing Overrides]_ page opens.
 
-    ![Select an Amazon listing override](assets/amazon-actions-edit-listing-overrides.png)
+    ![Select an Amazon listing override](assets/amazon-actions-edit-listing-overrides.png){width="200"}
 
 1. To edit your _[!UICONTROL Override]_ settings, define the sections for the type you want to change (Price, Handling Time, Condition, Seller Notes).
 

@@ -7,7 +7,7 @@ exl-id: 1376cd84-da81-4d3b-a5be-218aa802eed6
 
 When viewing the Amazon sales channel home page, the _Amazon Stores_ view opens by default.
 
-![Amazon Stores view](assets/amazon-sales-channel-home-tabs.png)
+![Amazon Stores view](assets/amazon-sales-channel-home-tabs.png){width="600" zoomable="yes"}
 
 The _[!UICONTROL Amazon Stores]_ view shows a "store card" for each of your Amazon stores along with some basic statistics and management options. Summary information shown in each card includes each store status, date created, last updated date, listings that need attention (example: Incomplete Listings) and the assigned [!DNL Commerce] website.
 
@@ -17,13 +17,13 @@ When viewing the _[!UICONTROL Amazon Store]_ view, each store card allows you to
 
 - To change a store status or delete a store, click **[!UICONTROL Action]** and choose:
 
-  - **[!UICONTROL Activate]** / **[!UICONTROL Deactivate]** - Choose to change the status of the store to `Active` or `Inactive`, respectively.
+   - **[!UICONTROL Activate]** / **[!UICONTROL Deactivate]** - Choose to change the status of the store to `Active` or `Inactive`, respectively.
 
       Changing an `Inactive` store to `Active` status activates listings and order activity for the store, using the stores current store settings (such as listing settings, price rules, and overrides).
 
       Changing a store status from `Active` to `Inactive` status suspends listings and order activity for the store. An Inactive store retains all store settings and listings, but temporarily stops the synchronization of pricing, quantity, and order management until the store is changed back to `Active` status. This feature allows you to control your store activity at the Regional level without the need to recreate or reintegrate your Amazon store or the loss of historical order and sales data.
 
-  - **[!UICONTROL Delete]** - Choose to delete a store that is no longer needed.
+   - **[!UICONTROL Delete]** - Choose to delete a store that is no longer needed.
 
       Choose when you wish to delete an existing Amazon store and its integration settings with your [!DNL Amazon Seller Central] account. Deleting the account removes the store from Amazon sales channel, along with all account settings, listings, logs, and other information related to this store. The store cannot be retrieved after deletion, a new store must be created.
 

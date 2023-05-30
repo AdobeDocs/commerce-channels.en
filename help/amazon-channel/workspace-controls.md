@@ -7,7 +7,7 @@ exl-id: 4f76b1d0-ae58-435b-bd6d-50155a023421
 
 The Amazon sales channel [home page](./amazon-sales-channel-home.md) has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages have the same control options.
 
-![Amazon Sales Channel workspace control examples](assets/amazon-workspace-controls.png)
+![Amazon Sales Channel workspace control examples](assets/amazon-workspace-controls.png){width="600" zoomable="yes"}
 
 ## Actions
 
@@ -15,7 +15,7 @@ The _[!UICONTROL Actions]_ selector provides a list of actions that are availabl
 
 For example, when the selector is displayed on the _[!UICONTROL Attributes]_ page, it includes the _[!UICONTROL Re-import Product Attribute Values]_ action. Choosing this action pings the corresponding [!DNL Amazon Seller Central] account and refreshes the [!DNL Commerce] data for each of the Amazon store items checked in the left-side column.
 
-![Actions menu example](assets/amazon-sales-channel-home-actions-option.png)
+![Actions menu example](assets/amazon-sales-channel-home-actions-option.png){width="500"}
 
 ## Filters
 
@@ -31,11 +31,11 @@ The following example shows the settings for filtering the list of orders to sho
 
 When you have your filtering options set, click **[!UICONTROL Apply Filters]** to filter the data listed. Click Cancel to exit the Filters control without applying.
 
-![Filters control example](assets/workspace-controls-filters.png)
+![Filters control example](assets/workspace-controls-filters.png){width="600" zoomable="yes"}
 
 After you apply filters to your data, **[!UICONTROL Active Filters]** information will appear. You can click the ![Clear filters icon](assets/x-icon-clear-filters.png) icon to clear a specific filter option or click **[!UICONTROL Clear All]** to clear all applied filters.
 
-![Active filters example](assets/applied-filters-line.png)
+![Active filters example](assets/applied-filters-line.png){width="700"}
 
 ## View
 
@@ -66,7 +66,7 @@ The following example shows a Columns control. The checked options correspond to
 - To add a data column to your page, select the checkbox.
 - To remove a data column from your page, do not select the checkbox.
 
-![Columns control example](assets/workspace-controls-columns.png)
+![Columns control example](assets/workspace-controls-columns.png){width="400"}
 
 Checkbox changes display immediately. If you make changes and exit the page, the page returns to the default column display. For changes that you make regularly, you can save the columns changes as a custom view in the View control. Then you can toggle in the View control without having to add or remove columns manually.
 
@@ -83,4 +83,4 @@ When ready to export your data, choose an export format option and click **[!UIC
 
 The generated data file saves automatically to your designated folder for downloads.
 
-![Export control](assets/workspace-controls-export.png)
+![Export control](assets/workspace-controls-export.png){width="250"}

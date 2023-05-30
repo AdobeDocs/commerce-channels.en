@@ -35,13 +35,13 @@ The import process can take up to 30 minutes or more depending on how many produ
 
 1. From a connected sales channel store, select **Add products** to open the product catalog.
 
-   ![Add products to sales channel store](assets/add-initial-products-to-connected-channel.png)
+   ![Add products to sales channel store](assets/add-initial-products-to-connected-channel.png){width="600" zoomable="yes"}
 
    The catalog opens in a new tab.
 
 1. From the catalog product grid, select products to sell on [!DNL Walmart Marketplace].
 
-   ![Send products to the sales channel store](assets/select-products-from-catalog.png)
+   ![Send products to the sales channel store](assets/select-products-from-catalog.png){width="600" zoomable="yes"}
 
 1. Enable the **[!UICONTROL Connect to Channel Manager]** attribute for the selected items.
 
@@ -55,9 +55,9 @@ The import process can take up to 30 minutes or more depending on how many produ
 
      A confirmation message displays.
 
-     ![Product import from catalog to sales channel confirmation message](assets/product-import-from-catalog-confirmation.png)
+     ![Product import from catalog to sales channel confirmation message](assets/product-import-from-catalog-confirmation.png){width="400"}
 
-     If the message indicates that the update is scheduled, use the [queue:consumers:start](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-queue.html) [!DNL CLI] command to process the update immediately.
+     If the message indicates that the update is scheduled, use the [queue:consumers:start](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/start-message-queues.html) [!DNL CLI] command to process the update immediately.
 
      ```bash
      $ bin/magento queue:consumers:start product_action_attribute.update
@@ -69,6 +69,6 @@ The import process can take up to 30 minutes or more depending on how many produ
 
 1. Update the view to show the new products added to Channel Manager by selecting the **[!UICONTROL Draft]** status card.
 
-   ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
+   ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png){width="400" zoomable="yes"}
 
 

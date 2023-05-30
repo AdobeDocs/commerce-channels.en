@@ -10,7 +10,7 @@ exl-id: 97da2142-ecef-44dc-91d8-5dc55c713d31
 
 The [!DNL Commerce Services Connector] integrates the Channel Manager service with Adobe Commerce and Magento Open Source instances. The connector enables data synchronization and communication between the [!DNL Commerce] instance, [!DNL Channel Manager], and other supporting services.
 
- [!DNL Commerce Services Connector] setup is a one-time process required to use [Adobe Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){target="_blank"} such as [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, skip this step.
+ [!DNL Commerce Services Connector] setup is a one-time process required to use [Adobe Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) such as [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, skip this step.
 
 ## Requirements
 
@@ -18,11 +18,11 @@ The [!DNL Commerce Services Connector] integrates the Channel Manager service wi
 
   Account owners and Super users can create Admin accounts from the [!DNL Commerce] instance or from the command line using the [!DNL Commerce] CLI command `admin:user:create`.
 
-- **Adobe Commerce Production API Key**–This [key](https://docs.magento.com/user-guide/system/saas.html#apikey){target="_blank"} enables API access to services required by Channel Manager. You need the public and private credentials for this key.
+- **Adobe Commerce Production API Key**–This [key](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html#genapikey) enables API access to services required by Channel Manager. You need the public and private credentials for this key.
 
 >[!TIP]
 >
->To provide the credentials, a [!DNL Commerce] license holder or account owner has options to [share access](https://docs.magento.com/user-guide/magento/magento-account-share.html){target="_blank"}, or give the [API Key](https://docs.magento.com/user-guide/system/saas.html#apikey){target="_blank"} credentials to a trusted developer.
+>To provide the credentials, a [!DNL Commerce] license holder or account owner has options to [share access](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-share.html), or give the [API Key](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html) credentials to a trusted developer.
 
 ## Configure the [!DNL Commerce Services Connector]
 
@@ -36,7 +36,7 @@ The [!DNL Commerce Services Connector] integrates the Channel Manager service wi
 
 1. Add Production API key credentials from your Adobe Commerce account.
 
-   ![[!DNL Commerce Services Connector] service in the [!DNL Admin] view](assets/commerce-services-connector-admin-service-view.png)
+   ![[!DNL Commerce Services Connector] service in the [!DNL Admin] view](assets/commerce-services-connector-admin-service-view.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
@@ -45,5 +45,5 @@ The [!DNL Commerce Services Connector] integrates the Channel Manager service wi
 
 1. Configure the SaaS project and data space so that Commerce Services can send data to the Channel Manager service.
 
-   ![[!DNL Commerce Services Connector] SaaS Identifier configuration in the [!DNL Admin] view](assets/commerce-services-connector-saas-config.png)
+   ![[!DNL Commerce Services Connector] SaaS Identifier configuration in the [!DNL Admin] view](assets/commerce-services-connector-saas-config.png){width="600" zoomable="yes"}
 

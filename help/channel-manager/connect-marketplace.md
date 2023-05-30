@@ -23,7 +23,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
 1. In the **[!UICONTROL Marketplaces available to connect]** section, select **[!UICONTROL Get Started]**.
 
-   ![Connect new [!DNL Walmart] store to [!DNL Channel Manager]](assets/channel-manager-home.png)
+   ![Connect new [!DNL Walmart] store to [!DNL Channel Manager]](assets/channel-manager-home.png){width="700" zoomable="yes"}
 
 1. If needed, set up your [!DNL Walmart Marketplace Seller] account.
 
@@ -33,7 +33,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    - Select the [!DNL Commerce] store view that offers the products you want to sell on the marketplace.
 
-     ![Configure connection between [!DNL Commerce] and [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/configure-commerce-to-marketplace-connection.png) 
+     ![Configure connection between [!DNL Commerce] and [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/configure-commerce-to-marketplace-connection.png){width="500" zoomable="yes"}
 
    - Enter a unique **[!UICONTROL store name]**.
 
@@ -49,11 +49,11 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
      On the Developer Portal, select your region (US and Canada) and then log in.
 
-     ![[!DNL Walmart Marketplace] account login](assets/walmart-marketplace-login-page.png)
+     ![[!DNL Walmart Marketplace] account login](assets/walmart-marketplace-login-page.png){width="600"}
 
    - On the API key form, copy and save the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** values for the [!UICONTROL Adobe Inc Production API key] to a secure location.
 
-     ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png)
+     ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png){width="600" zoomable="yes"}
 
      >[!NOTE]
      >
@@ -67,7 +67,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
 1. After connecting successfully, [complete store setup](complete-sales-channel-store-setup.md) from the **[!UICONTROL Channel Manager]** store page.
 
-![Setup first store](assets/channel-manager-setup-first-store.png)
+![Setup first store](assets/channel-manager-setup-first-store.png){width="500" zoomable="yes"}
 
 ### Troubleshoot connection issues
 

@@ -31,7 +31,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 >
 >If you have listings in process, a message appears above the tabs indicating the number of listings.
 
-![Inactive Amazon listings](assets/amazon-inactive-listings.png)
+![Inactive Amazon listings](assets/amazon-inactive-listings.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

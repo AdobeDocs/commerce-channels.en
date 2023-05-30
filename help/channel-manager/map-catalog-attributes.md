@@ -18,7 +18,7 @@ This step is required to match [!DNL Commerce] products to existing [!DNL Walmar
 | ISSN              | International Standard Serial Number | 8-digit serial number used to identify magazines, journals, newspapers, and periodicals of all kinds delivered on all media–print and electronic | 8 digits              |
 | UPC               | Universal Product Code               | Standard retail tracking code                                                                                                                    | 12 digits             |
 
-If your catalog does not have a matching attribute, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html).
+If your catalog does not have a matching attribute, [add or convert an existing catalog attribute](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html).
 
 ## Map unique identifiers
 
@@ -32,6 +32,6 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
      The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.
 
-     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
+     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png){width="600" zoomable="yes"}
 
    - Select **[!UICONTROL Save]**.

@@ -22,7 +22,7 @@ The _Amazon Value_ differs depending on the attribute type and the Amazon attrib
 >[!TIP]
 >To edit or assign the mapping for a listing to a catalog product, see [Update Required Info](./amazon-manually-update-incomplete-listing.md).
 
-![View attribute values](assets/amazon-managing-attribute-values.png)
+![View attribute values](assets/amazon-managing-attribute-values.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

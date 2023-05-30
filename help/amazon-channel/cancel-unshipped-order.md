@@ -11,7 +11,7 @@ Amazon orders can only be canceled if they are in an `Unshipped` status. If the 
 >
 >For tasks other than cancelling an order:
 >
->- If you have [order import](./order-settings.md) enabled, orders are managed in the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"}.
+>- If you have [order import](./order-settings.md) enabled, orders are managed in the [[!DNL Commerce] orders workflow](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/orders.html).
 >- If [order import](./order-settings.md) is disabled, you must manage your orders in [!DNL Amazon Seller Central].
 
 ## Cancel an order in `Unshipped` status

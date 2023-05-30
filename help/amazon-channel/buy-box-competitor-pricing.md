@@ -11,7 +11,7 @@ The _[!UICONTROL Buy Box Competitor Pricing]_ tab  on the _[!UICONTROL Product L
 
 [Intelligent repricing rules](./intelligent-repricing-rules.md) can be configured to adjust your pricing based on the [!DNL Amazon Buy Box] price.
 
-![Buy Box Competitor Pricing details](assets/amazon-listing-details-buy-box.png)
+![Buy Box Competitor Pricing details](assets/amazon-listing-details-buy-box.png){width="600" zoomable="yes"}
 
 ## Access [!DNL Buy Box] Competitor Pricing details
 

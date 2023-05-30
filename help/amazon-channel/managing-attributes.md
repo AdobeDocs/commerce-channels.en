@@ -17,7 +17,7 @@ Amazon sales channel allows you to access, review, create, and manage attributes
 
 For more information about [!DNL Commerce] and Amazon attribute sets and values, see:
 
-- [Manage attributes basics](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"}
+- [Manage attributes basics](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 - [Create an attribute](./creating-attributes.md#create-an-attribute)
 - [Edit an existing attribute](./creating-attributes.md#edit-an-attribute)
 - [View Attribute Mapping](./amazon-matching-attributes-values.md)

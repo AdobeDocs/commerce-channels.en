@@ -27,11 +27,11 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. For **[!UICONTROL Background Tasks (CRON) Source]**, choose `Magento CRON`.
 
-   This option allows Amazon sales channel to use your [!DNL Commerce] [Cron](https://docs.magento.com/user-guide/system/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
+   This option allows Amazon sales channel to use your [!DNL Commerce] [Cron](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
 
 1. For **[!UICONTROL Enable Debug Logging]**, choose `Enabled` to collect additional synchronization data when troubleshooting is needed.
 
-   Amazon sales channel logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){target="_blank"}. Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
+   Amazon sales channel logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/developer-tools.html#operation-modes). Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
 
 1. For **[!UICONTROL Read-Only Mode]**, select `Enabled` to block all outgoing state-changing API requests.
    
@@ -45,4 +45,4 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. Click **[!UICONTROL Save Config]**.
 
-![Sales Channel configuration settings](assets/config-sales-channel-global-settings.png)
+![Sales Channel configuration settings](assets/config-sales-channel-global-settings.png){width="600" zoomable="yes"}

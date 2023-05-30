@@ -67,7 +67,7 @@ View the listing on the _[!UICONTROL Product Listings]_ page (_[!UICONTROL Inact
 
 1. Click **[!UICONTROL Save Listing Update]**.
 
-![create an Alias Amazon Seller SKU](assets/amazon-alias-sku-create.png)
+![create an Alias Amazon Seller SKU](assets/amazon-alias-sku-create.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

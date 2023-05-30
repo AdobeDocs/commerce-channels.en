@@ -9,7 +9,7 @@ Manage product listings for the [!DNL Walmart Marketplace] sales channel from th
 
 The Status for an individual listing indicates where the product is in the [!DNL Channel Manager] workflow so you can determine next steps and resolve any errors.
 
-![Listings page for a connected sales channel](assets/listings-dashboard-view.png)
+![Listings page for a connected sales channel](assets/listings-dashboard-view.png){width="500" zoomable="yes"}
 
 You can complete the following tasks from the Listing view.
 

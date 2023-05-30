@@ -10,4 +10,4 @@ The _[!UICONTROL Learning and Preparation]_ view shows the list of pre-setup tas
 - This [user guide](./overview.md)
 - Video tutorials
 
-![Learning and Preparation view](assets/learning-preparation.png)
+![Learning and Preparation view](assets/learning-preparation.png){width="600" zoomable="yes"}

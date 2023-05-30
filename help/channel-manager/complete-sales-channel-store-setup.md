@@ -9,7 +9,7 @@ After you connect a [!DNL Commerce] store to [!DNL Walmart Marketplace], complet
 
 1. From the Admin, select **[!UICONTROL Marketing** > **Channel Manager**].
 
-   ![Manage Channel Manager Stores](assets/channel-manager-setup-first-store.png)
+   ![Manage Channel Manager Stores](assets/channel-manager-setup-first-store.png){width="500" zoomable="yes"}
 
 1. Open the sales channel store by selecting the eye icon for the store.
 

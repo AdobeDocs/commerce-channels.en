@@ -5,7 +5,7 @@ exl-id: a85bb6b3-817d-4859-a815-41777f4b8667
 ---
 # Amazon Order Details
 
-![Amazon order details](assets/amazon-order-details-header.png)
+![Amazon order details](assets/amazon-order-details-header.png){width="600" zoomable="yes"}
 
 ## View Amazon order details
 
@@ -48,16 +48,16 @@ The _[!UICONTROL Order and Shipping Details]_ tab shows detailed order informati
 >
 >Do not forget to click **Save Order** after making edits.
 
-![Order and Shipping Details](assets/amazon-order-details.png)
+![Order and Shipping Details](assets/amazon-order-details.png){width="600" zoomable="yes"}
 
 ### Order Items tab
 
 The _[!UICONTROL Order Items]_ tab shows all items associated with the Amazon order, as received from Amazon.
 
-![Order Item Details](assets/amazon-order-item-details.png)
+![Order Item Details](assets/amazon-order-item-details.png){width="600" zoomable="yes"}
 
 ### Tracking tab
 
 The _[!UICONTROL Tracking]_ tab shows tracking information associated with the Amazon order.
 
-![Tracking details](assets/amazon-order-tracking-details.png)
+![Tracking details](assets/amazon-order-tracking-details.png){width="600" zoomable="yes"}

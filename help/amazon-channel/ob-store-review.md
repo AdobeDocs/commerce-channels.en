@@ -21,4 +21,4 @@ After you create and integrate your Amazon sales channel store, review your stor
    - **[!UICONTROL Logs]** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
    - [**[!UICONTROL Store integration setting]s**](./store-integration-settings.md) - Review email and Amazon sales channel store name settings in the [!DNL Commerce] Admin.
 
-![Store dashboard](assets/ob-store-review.png)
+![Store dashboard](assets/ob-store-review.png){width="600" zoomable="yes"}

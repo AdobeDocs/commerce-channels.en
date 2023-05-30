@@ -40,7 +40,7 @@ The fulfillment method is a regional attribute, and based on the **[!UICONTROL A
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Fulfilled By settings](assets/amazon-fulfilled-by.png)
+![Fulfilled By settings](assets/amazon-fulfilled-by.png){width="500" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

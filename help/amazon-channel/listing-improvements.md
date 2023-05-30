@@ -9,7 +9,7 @@ The [!UICONTROL Listing Improvements] report shows products with suggestions fro
 
 A listing improvement received from Amazon does not prevent your product from being listed with Amazon.
 
-![Listing Improvements](assets/amazon-listing-improvements.png)
+![Listing Improvements](assets/amazon-listing-improvements.png){width="600" zoomable="yes"}
 
 ## Default columns
 

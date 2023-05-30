@@ -40,7 +40,7 @@ Sections of a standard price rule action include:
 
 1. When complete, click **[!UICONTROL Save pricing rule]**.
 
-![Standard price rule](assets/ob-price-rule-action-standard-example.png)
+![Standard price rule](assets/ob-price-rule-action-standard-example.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |---|---|
