@@ -1,10 +1,10 @@
 ---
-title: Listing Price
+title: Amazon sales channel - [!UICONTROL Listing Price]
 description: Use the Listing Price settings to determine price source and the base (default) price value for your Amazon listings.
 redirect_from: sales-channels/asc/ob-listing-price.html
 exl-id: d97d81fa-c298-423f-9072-050ee72e707e
 ---
-# Listing Price
+# [!UICONTROL Listing Price]
 
 [!UICONTROL Listing Price] settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 

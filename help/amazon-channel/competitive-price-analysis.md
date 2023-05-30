@@ -1,9 +1,9 @@
 ---
-title: Competitive Price Analysis
+title: Competitive Price Analysis report
 description: The Competitive Price Analysis displays your Amazon listings per marketplace with the respective Buy Box price and lowest competitor price values.
 exl-id: 9e1e72f6-6917-4db4-bc32-09569a028b11
 ---
-# Competitive Price Analysis
+# Competitive Price Analysis report
 
 The Competitive Price Analysis report shows your Amazon listings per marketplace with the respective [Buy Box](./buy-box-competitor-pricing.md) price and [lowest competitor](./lowest-competitor-pricing.md) price values. No actions are available for the log. It is a review-only feature.
 

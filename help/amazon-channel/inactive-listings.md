@@ -1,9 +1,9 @@
 ---
-title: Inactive Listings
+title: Inactive Amazon listings
 description: Amazon sales channel provides the [!UICONTROL Inactive] tab to monitor your currently inactive [!DNL Amazon Marketplace] listings.
 exl-id: 1d20e75f-3346-48cb-83f7-a9e7acb26a96
 ---
-# Inactive Listings
+# Inactive Amazon listings
 
 The _[!UICONTROL Inactive]_ tab shows your products that have been published to Amazon but are not active on the [!DNL Amazon Marketplace]. Your listings could be inactive for a few different reasons. For example, you might not be eligible to list that particular brand. Inactive listings are dictated by Amazon's listing standards and your [!DNL Amazon Seller Central] account permissions.
 

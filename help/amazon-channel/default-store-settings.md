@@ -1,9 +1,9 @@
 ---
-title: Default Store Settings
+title: Default store settings for Amazon listings
 description: Modify the default Commerce settings to customize the Amazon Sales Channel for your store.
 exl-id: 368e5e8e-2bf9-4f9c-86c6-6d375f8a8720
 ---
-# Default Store Settings
+# Default store settings for Amazon listings
 
 After your store is connected and you've set up your first listing rule, the sync of data between Amazon and [!DNL Commerce] starts. There are several types of store settings that allow you to customize your store for your needs. Store settings are accessed on the store [dashboard](./amazon-store-dashboard.md).
 

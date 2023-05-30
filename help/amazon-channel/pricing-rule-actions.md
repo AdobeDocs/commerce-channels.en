@@ -1,10 +1,10 @@
 ---
-title: Price Rule Actions
+title: Amazon sales channel - Price rule actions
 description: Use the price rule actions to define the adjustment calculations that are applied to the price source to determine the Amazon listing price.
 redirect_from: /sales-channels/asc/ob-pricing-rules-actions.html
 exl-id: c46bd5c2-7994-45b4-ae0c-9e473372c73a
 ---
-# Price Rule Actions
+# Price rule actions
 
 Price Rule Actions define the adjustment calculations that are applied to the price source to determine the listing price.
 

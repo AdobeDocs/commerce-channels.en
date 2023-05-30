@@ -9,9 +9,8 @@ breadcrumb-title: Amazon sales channel
 - [Amazon Sales Channel User Guide](guide-overview.md)
 - [Introduction to Amazon sales channel](overview.md)
 - Getting started {#getting-started}
-  - [About Amazon sales channel](about-amazon-sales-channel.md)
   - [About Amazon Marketplace](about-amazon-marketplace.md)
-  - [About Amazon and your Commerce catalog](about-listings-and-catalog.md)
+  - [Amazon and the Commerce catalog](about-listings-and-catalog.md)
   - [Best practices and limitations](amazon-best-practices.md)
   - [Install the extension](install.md)
 - Onboarding {#onboarding}

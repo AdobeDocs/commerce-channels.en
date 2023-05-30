@@ -1,9 +1,9 @@
 ---
-title: Amazon Order Details
+title: Amazon order details
 description: View details for your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
 exl-id: a85bb6b3-817d-4859-a815-41777f4b8667
 ---
-# Amazon Order Details
+# Amazon order details
 
 ![Amazon order details](assets/amazon-order-details-header.png){width="600" zoomable="yes"}
 

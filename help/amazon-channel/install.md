@@ -1,9 +1,9 @@
 ---
-title: Install the extension
+title: "Install the [!DNL Amazon Sales Channel] extension"
 description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller Accounts] and sell through the [!DNL Amazon Marketplace], download and install the Amazon Sales Channel extension.
 exl-id: ebf22e28-b6a2-420b-80ca-2d750839286c
 ---
-# Install the extension
+# Install the [!DNL Amazon Sales Channel] extension
 
 >[!IMPORTANT]
 >

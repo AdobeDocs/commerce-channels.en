@@ -1,5 +1,5 @@
 ---
-title: End an Amazon Listing
+title: End an Amazon listing
 description: In the Commerce Admin, you can end an Amazon listing from the Amazon Sales Channel dashboard.
 exl-id: 178c878b-89fb-4239-8d57-733d0884a73a
 ---

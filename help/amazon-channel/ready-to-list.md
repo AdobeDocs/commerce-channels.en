@@ -1,5 +1,5 @@
 ---
-title: Ready to List
+title: Amazon sales channel - [!UICONTROL Ready to List]
 description: The Amazon sales channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
 exl-id: f62017fb-964f-43f0-b76b-8f39f447466a
 ---

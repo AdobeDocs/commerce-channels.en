@@ -1,9 +1,9 @@
 ---
-title: Listing Changes Log
+title: Amazon sales channel - [!UICONTROL Listing Changes Log]
 description: Amazon Sales Channel provides the Listing Changes Log to help you monitor the affected changes in your Amazon Seller account.
 exl-id: 9c4db5ac-cbfb-4584-b216-4aead2a28189
 ---
-# Listing Changes Log
+# [!UICONTROL Listing Changes Log]
 
 The Listing Changes Log shows the changes that have occurred in your [!DNL Amazon Seller Account] as a reflection of your Amazon sales channel settings. This log indicates the global changes that have been synced between Amazon and Amazon sales channel. This log includes listing changes for a product SKU such as the type of action (change), brief description of the change, and the date of the change.
 

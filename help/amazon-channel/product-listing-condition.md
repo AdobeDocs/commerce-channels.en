@@ -1,10 +1,10 @@
 ---
-title: Product Listing Condition
+title: Amazon sales channel - Product listing condition
 description: Use the Product Listing Condition settings to map your Commerce products to an Amazon product condition, such as "New" or "Refurbished".
 redirect_from: /sales-channels/asc/ob-product-listing-condition.html
 exl-id: f37ce3cf-7bfc-4dee-931e-a603008a71b8
 ---
-# Product Listing Condition
+# Product listing condition
 
 Product listing condition settings are part of your store listing settings. You can access the listing settings on the [store dashboard](./amazon-store-dashboard.md).
 

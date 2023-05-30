@@ -1,5 +1,5 @@
 ---
-title: Update Required Info (Incomplete Listing)
+title: Update Amazon required information
 description: Amazon sales channel provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
 exl-id: f278cd50-8f04-452e-b9c2-c87820f9faf2
 ---

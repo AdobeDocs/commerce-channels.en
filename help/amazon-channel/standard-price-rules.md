@@ -1,9 +1,9 @@
 ---
-title: Standard Price Rule Actions
+title: Amazon sales channel - Standard price rule actions
 description: Use standard price rule actions to increase or decrease an Amazon listing price relative to the Commerce catalog price (or price source).
 exl-id: 91df6ef3-852b-478b-8b01-51dd437dd4f9
 ---
-# Standard Price Rule Actions
+# Standard price rule actions
 
 A standard price rule action allows you to increase or decrease an Amazon listing price by a specific percentage or fixed dollar amount relative to the [!DNL Commerce] catalog price (or price source).
 

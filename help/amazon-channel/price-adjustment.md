@@ -1,9 +1,9 @@
 ---
-title: Price Adjustment
+title: Amazon sales channel - [!UICONTROL Price Adjustment]
 description: Configure price adjustments to define the price calculation when you have identified the Amazon competitor price source.
 exl-id: 60569b37-2a6d-40ef-bcec-2c3a132a07e0
 ---
-# Price Adjustment
+# [!UICONTROL Price Adjustment]
 
 >[!NOTE]
 >

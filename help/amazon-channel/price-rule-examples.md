@@ -1,9 +1,9 @@
 ---
-title: Price Rule Examples
+title: Amazon sales channel - Price rule examples
 description: To help you design your pricing rules for Amazon listings, review these examples based on common scenarios.
 exl-id: 4d9717ba-4ad6-468d-b4ca-99f8620b60b4
 ---
-# Price Rule Examples
+# Price rule examples
 
 ## Standard price rule examples
 

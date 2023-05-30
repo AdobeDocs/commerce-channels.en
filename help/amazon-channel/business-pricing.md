@@ -1,12 +1,12 @@
 ---
-title: (B2B) Business Price
+title: "[!DNL (B2B) Business Price] for Amazon listings"
 description: You can list your [!DNL Commerce] store products on the Amazon Business (B2B) site by enabling business in your Amazon [!DNL Seller Central] account.
 redirect_from: /sales-channels/asc/ob-business-pricing.html
 exl-id: 12a6cb2d-7a22-4b6d-9e94-ce91d564f42f
 ---
-# (B2B) Business Price
+# [!DNL (B2B) Business Price] for Amazon listings
 
-(B2B) Business Price settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
+(B2B) Business Price settings are part of your store listing settings. Listing settings are accessed from the [Amazon store dashboard](./amazon-store-dashboard.md).
 
 [!DNL Amazon Business] is a marketplace that is exclusive to Amazon registered business accounts and is only available in the United States, France, Germany, and United Kingdom. If the marketplace allows B2B business pricing, it is editable within your listing settings.
 
@@ -14,7 +14,7 @@ exl-id: 12a6cb2d-7a22-4b6d-9e94-ce91d564f42f
 
 For your products to be listed on the [!DNL Amazon Business (B2B)] site, you must first enable business in your [!DNL Amazon Seller Central] account. For more information on the B2B feature, see [Amazon: B2B Central](https://sellercentral.amazon.com/gp/help/G202161480/){target="_blank"} (requires Seller Central login).
 
-## Configure (B2B) Business Price settings
+## Configure [!DNL (B2B) Business Price] settings
 
 1. Click **[!UICONTROL Listing Settings]** on the store dashboard.
 

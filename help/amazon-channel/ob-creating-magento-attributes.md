@@ -1,9 +1,9 @@
 ---
-title: Create [!DNL Commerce] Attributes for Amazon
+title: Create Commerce attributes for Amazon
 description: Before completing the Amazon sales channel onboarding process, make sure you have the needed [!UICONTROL Commerce] product attributes.
 exl-id: eebad794-c171-40a3-aa24-d5509e2b5797
 ---
-# Create [!DNL Commerce] Attributes for Amazon
+# Create Commerce attributes for Amazon
 
 Before onboarding your [!DNL Amazon Seller Central] accounts, it is a best practice to add [!DNL Commerce] [product attributes](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html) to map your product listings. After you complete onboarding, you can manage your product attributes through the [Attributes](./managing-attributes.md) tab of the [Amazon sales channel home](./amazon-sales-channel-home.md) page.
 

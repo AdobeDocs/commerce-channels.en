@@ -1,9 +1,9 @@
 ---
-title: Best Practices and Limitations for Amazon sales channel
+title: Best practices and limitations for [!DNL Amazon sales channel]
 description: Review the best practices and limitations when using the Amazon sales channel for Adobe Commerce and Magento Open Source.
 exl-id: 7f7faae1-7aa7-413c-b534-1039e6a35173
 ---
-# Best Practices and Limitations for Amazon Sales Channel
+# Best practices and limitations for [!DNL Amazon sales channel]
 
 Best practices include:
 

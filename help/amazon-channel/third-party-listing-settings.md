@@ -1,10 +1,10 @@
 ---
-title: Third-party Listings
+title: Amazon sales channel - [!UICONTROL Third-party Listings]
 description: Update the third-party listing settings determine if your Commerce catalog imports products from your existing Amazon Seller Central listings.
 redirect_from: /sales-channels/asc/ob-third-party-listings.html
 exl-id: bc82775a-6f29-49b5-a80b-20e171eaf8f4
 ---
-# Third-party Listings
+# [!UICONTROL Third-party Listings]
 
 The third-party listing settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 

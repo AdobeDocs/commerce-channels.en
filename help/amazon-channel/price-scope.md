@@ -1,9 +1,9 @@
 ---
-title: Price Scope
+title: Amazon sales channel - Price scope
 description: Use the Commerce pricing scope to manage pricing according to multiple websites or globally.
 exl-id: 24a1eac1-d579-4063-a33c-71969bc2b4b9
 ---
-# Price Scope
+# Price scope
 
 [!DNL Commerce] provides configuration for your [pricing scope](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/catalog.html#price) to be set to `Global` or `Website`. If pricing is set to `Global`, there is a single price source for all websites. If pricing is set to `Website`, your websites can vary their pricing across and also have a fallback default pricing value (see [Price scope](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/catalog-price-scope.html)).
 

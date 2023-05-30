@@ -1,9 +1,9 @@
 ---
-title: Listing Improvements
+title: Amazon sales channel - [!UICONTROL Listing Improvements]
 description: Amazon Sales Channel provides the Listing Improvements report to give you suggestions for Amazon listing quality improvements.
 exl-id: 880f4ede-6e2b-4727-a8cb-3798568980dd
 ---
-# Listing Improvements
+# [!UICONTROL Listing Improvements]
 
 The [!UICONTROL Listing Improvements] report shows products with suggestions from Amazon to improve the listing quality. You can review these suggestions, which could help the performance of products within the Amazon listing. No actions are available for the log. It is a review-only feature.
 

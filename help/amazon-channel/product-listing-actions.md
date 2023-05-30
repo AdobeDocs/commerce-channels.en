@@ -1,10 +1,10 @@
 ---
-title: Product Listing Actions
+title: Amazon sales channel - Product listing actions
 description: Use the Product Listing Actions settings to define how your Commerce catalog interacts with Amazon.
 redirect_from: /sales-channels/asc/ob-product-listing-actions.html
 exl-id: c7d3f22c-05c6-4826-99eb-543bac462cf8
 ---
-# Product Listing Actions
+# Product listing actions
 
 The Product listing actions settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 

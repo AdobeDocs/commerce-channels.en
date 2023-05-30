@@ -1,9 +1,9 @@
 ---
-title: View Listing Details
+title: View Amazon listing details
 description: To understand competitive metrics on your Amazon listings and on individual SKU/product changes, review the Product Listing Details page .
 exl-id: faece1b1-b4fb-4506-bf77-576ae445ed28
 ---
-# View Listing Details
+# View Amazon listing details
 
 The _[!UICONTROL Product Listing Details]_ page shows additional information on your active product listings, including the Listing Activity Log which shows the changes on an individual SKU / Product. This information can help you understand competitive metrics on your products and on individual SKU/product changes. Additional information on this page includes:
 

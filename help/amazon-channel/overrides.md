@@ -1,9 +1,9 @@
 ---
-title: Overrides
+title: Amazon sales channel - [!UICONTROL Overrides]
 description: Amazon Sales Channel provides the Overrides tab to help you identify and manage how you are applying overrides in your Amazon listings.
 exl-id: e31bbbf9-b20d-42fd-a419-93d596e40be2
 ---
-# Overrides
+# [!UICONTROL Overrides]
 
 The _[!UICONTROL Overrides]_ tab shows your Amazon listings to which you have applied an override. An override is a listing-specific setting that can be used set a defined value to a listing. An override applied to a listing defines the setting for the listing, regardless of other defined listing settings or rules for which the listing is eligible. When an override is applied to a listing, the listing appears on the _[!UICONTROL Overrides]_ tab. The value defined in the override appears in the appropriate column for the listing. There are four types of overrides that can be applied: Price, Handling Time, Condition, and Seller Notes.
 

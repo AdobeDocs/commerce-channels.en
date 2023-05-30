@@ -1,9 +1,9 @@
 ---
-title: Amazon Stores View
+title: "[!UICONTROL Amazon Stores] view"
 description: Go to the Amazon Stores view to quickly review basic statistics for each of your Amazon stores, and access management options.
 exl-id: 1376cd84-da81-4d3b-a5be-218aa802eed6
 ---
-# Amazon Stores View
+# [!UICONTROL Amazon Stores] view
 
 When viewing the Amazon sales channel home page, the _Amazon Stores_ view opens by default.
 

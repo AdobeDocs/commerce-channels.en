@@ -1,10 +1,10 @@
 ---
-title: Fulfilled By
+title: Fulfilled By settings for Amazon listings
 description: Use the Fulfilled By settings to determine how the orders from Amazon listings are fulfilled (shipped).
 redirect_from: /sales-channels/asc/ob-fulfilled-by.html
 exl-id: 240c2198-e23d-40e7-be39-b9a4f78565d2
 ---
-# Fulfilled By
+# Fulfilled By settings for Amazon listings
 
 _[!UICONTROL Fulfilled By]_ settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 

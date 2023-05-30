@@ -1,9 +1,9 @@
 ---
-title: Attributes
+title: Attributes for Amazon listings
 description: Amazon Sales Channel provides the [!UICONTROL Attributes] tab to monitor the list of Amazon and Commerce attributes and how they are mapped for product matching.
 exl-id: fc08cd6e-eef9-4e71-82b1-5443e14800ce
 ---
-# Attributes
+# Attributes for Amazon listings
 
 The _[!UICONTROL Attributes]_ view shows your list of Amazon and [!DNL Commerce] attributes. The list also indicates attributes that have been mapped for product matching. For more information, see [Manage Attributes](./managing-attributes.md).
 

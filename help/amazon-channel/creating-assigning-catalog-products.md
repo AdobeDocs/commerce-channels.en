@@ -1,9 +1,9 @@
 ---
-title: Create and Assign Products
+title: Create and assign products for Amazon slaes channel
 description: Amazon Sales Channel provides the [!UICONTROL New Third Party] tab to help create and assign matching Commerce catalog products with Amazon listings.
 exl-id: de000e80-7546-44d2-905e-28664b24f028
 ---
-# Create and Assign Products
+# Create and assign products
 
 When viewing _[!UICONTROL New Third Party]_ tab, you can match your [!DNL Commerce] catalog products to an existing Amazon listing. There are two options for this matching. You can assign a listing to an existing catalog product, or you can use the information from the listing to create catalog products. These options are helpful when your Amazon listings do not automatically match to your [!DNL Commerce] catalog.
 

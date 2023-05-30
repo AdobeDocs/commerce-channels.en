@@ -1,9 +1,9 @@
 ---
-title: Lowest Competitor Pricing
+title: Amazon sales channel - [!UICONTROL Lowest Competitor Pricing]
 description: The [!UICONTROL Amazon Sales Channel] provides the [!UICONTROL Lowest Competitor Pricing] tab to help you to understand the price positioning of your competitors on Amazon.
 exl-id: 7784d36a-1286-4f92-9f67-b0fef04ad112
 ---
-# Lowest Competitor Pricing
+# [!UICONTROL Lowest Competitor Pricing]
 
 The _[!UICONTROL Lowest Competitor Pricing]_ tab on the _[!UICONTROL Product Listing Details]_ page shows the lowest final landed price, but is broken down into shipping price and listing price. This information can be used to understand the price positioning of your competitors on Amazon.
 

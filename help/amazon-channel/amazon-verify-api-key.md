@@ -1,9 +1,9 @@
 ---
-title: Add or Verify the Amazon API Key
+title: Add or verify the Amazon API key
 description: In your Commerce configuration, the validated Amazon API key allows you to integrate your stores with your Amazon Seller account.
 exl-id: 2257b64d-309d-4efd-ba79-6e0cdeed63cb
 ---
-# Add or Verify the Amazon API Key
+# Add or verify the Amazon API key
 
 When accessing Amazon sales channel, [!DNL Commerce] automatically checks and validates the Amazon API key you have added in your store configuration. If validated, then you can move on to the next step, [Store Integration](./store-integration.md).
 

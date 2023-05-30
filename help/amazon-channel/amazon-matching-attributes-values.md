@@ -1,9 +1,9 @@
 ---
-title: View Amazon Attribute Mapping
+title: View Amazon attribute mapping
 description: Verify values for your linked Commerce attributes to correctly sync between Commerce and Amazon.
 exl-id: 11a1fb25-6aa8-43d3-b5d8-772bbe1a5d53
 ---
-# View Amazon Attribute Mapping
+# View Amazon attribute mapping
 
 As you map Amazon attributes to [!DNL Commerce] attributes, Amazon sales channel tracks and provides a filterable list of all Amazon values. Use this page to verify values for your linked [!DNL Commerce] attributes correctly sync between [!DNL Commerce] and Amazon. You can review synced values for Amazon attribute linked or not linked to a [!DNL Commerce] attribute. To create or edit your Amazon attributes, see [Creating and Editing Attributes](./creating-attributes.md).
 

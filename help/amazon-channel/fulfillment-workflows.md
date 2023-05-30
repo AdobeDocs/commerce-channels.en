@@ -1,9 +1,9 @@
 ---
-title: Amazon Fulfillment Workflows
+title: Amazon fulfillment workflows
 description: Fulfillment for an order from an Amazon listing follows a specific sequence from order submission to shipping.
 exl-id: 30dd9f97-9193-4c98-bded-e5d8d35b0d05
 ---
-# Amazon Fulfillment Workflows
+# Amazon fulfillment workflows
 
 ## Example: fulfilled by merchant
 

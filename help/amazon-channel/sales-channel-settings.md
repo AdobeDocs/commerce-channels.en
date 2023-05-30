@@ -1,9 +1,9 @@
 ---
-title: Sales Channel Settings
+title: Sales channel settings
 description: To manage logging, cron source, and synchronization for Amazon sales channel functions, update the Commerce configuration.
 exl-id: 69f83774-41de-4fde-a357-f100d1bcd9f0
 ---
-# Sales Channel Settings
+# Sales channel settings
 
 When the [!DNL Amazon Sales Channel] extension is installed, default values are set in the Admin for Amazon sales channel. These settings can be modified in your configuration settings for your Amazon store. These settings include:
 

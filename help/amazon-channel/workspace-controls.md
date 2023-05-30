@@ -1,5 +1,5 @@
 ---
-title: Workspace Controls
+title: Amazon sales channel - Workspace controls
 description: Amazon Sales Channel provides workspace controls help you locate listings, view information, and easily and apply actions.
 exl-id: 4f76b1d0-ae58-435b-bd6d-50155a023421
 ---
