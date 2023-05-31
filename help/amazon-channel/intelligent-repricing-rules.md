@@ -49,7 +49,7 @@ Define the rule type in the _[!UICONTROL Select Rule Type]_ section.
 >
 >You might use these competitor pricing and feedback options to avoid basing your pricing against a competitor who has poor feedback and is selling a lower quality product.
 
-![Intelligent repricing rule - select rule type](assets/ob-intelligent-price-rule-type.png)
+![Intelligent repricing rule - select rule type](assets/ob-intelligent-price-rule-type.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

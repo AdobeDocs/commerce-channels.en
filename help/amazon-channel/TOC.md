@@ -6,13 +6,11 @@ breadcrumb-title: Amazon sales channel
 
 # Amazon sales channel - [!DNL channel manager] for Adobe Commerce {#amazon}
 
-- [Guide overview](guide-overview.md)
+- [Amazon Sales Channel User Guide](guide-overview.md)
 - [Introduction to Amazon sales channel](overview.md)
-- [Release notes](release-notes.md)
 - Getting started {#getting-started}
-  - [About Amazon sales channel](about-amazon-sales-channel.md)
   - [About Amazon Marketplace](about-amazon-marketplace.md)
-  - [About Amazon and your Commerce catalog](about-listings-and-catalog.md)
+  - [Amazon and the Commerce catalog](about-listings-and-catalog.md)
   - [Best practices and limitations](amazon-best-practices.md)
   - [Install the extension](install.md)
 - Onboarding {#onboarding}
@@ -107,3 +105,4 @@ breadcrumb-title: Amazon sales channel
   - [Common order processing tasks](common-order-processing.md)
   - [Fulfillment workflows](fulfillment-workflows.md)
   - [Cancel unshipped orders](cancel-unshipped-order.md)
+- [Release notes](release-notes.md)

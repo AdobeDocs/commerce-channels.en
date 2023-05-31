@@ -1,11 +1,11 @@
 ---
-title: Store Integration
+title: Store integration with an [!DNL Amazon Seller Account]
 description: Before you start the onboarding process, you must create (add) an Amazon Sales Channel store and connect it to your Amazon Seller Account.
 exl-id: ea79e91d-7d92-4992-a921-7ac7632a0519
 ---
-# Store Integration
+# Store integration with an [!DNL Amazon Seller Account]
 
-To get started with Amazon sales channel, you must create (add) an Amazon sales channel store and connect it to your Amazon Seller Account. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
+To get started with Amazon sales channel, you must create (add) an Amazon sales channel store and connect it to your [!DNL Amazon Seller Account]. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
 
 _You need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) to connect your store._
 
@@ -23,7 +23,7 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
     The _[!UICONTROL Add Amazon sales channel]_ page opens.
 
-    ![Add the Amazon sales channel store](assets/amazon-store-integration.png)
+    ![Add the Amazon sales channel store](assets/amazon-store-integration.png){width="500" zoomable="yes"}
 
 1. For **[!UICONTROL Magento Website to use for Amazon Listing]**, choose which of your [!DNL Commerce] websites to connect for this Amazon sales channel store.
 
@@ -78,7 +78,7 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
    To view the store dashboard, click **[!UICONTROL View Store]** on the store card.
 
-![Amazon sales channel home with new store card](assets/asc-dashboard-after-2fa.png)
+![Amazon sales channel home with new store card](assets/asc-dashboard-after-2fa.png){width="600" zoomable="yes"}
 
 Your new Amazon sales channel store is now connected to your [!DNL Amazon Seller Central] account.
 

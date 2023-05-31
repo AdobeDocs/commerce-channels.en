@@ -1,10 +1,9 @@
 ---
-title: Stock/Quantity
+title: Amazon sales channel - [!UICONTROL Stock/Quantity]
 description: To control syncing of product quantity details from your Commerce store to your [!DNL Amazon Seller Central] account, update the Stock/Quantity settings.
-redirect_from: /sales-channels/asc/ob-stock-quantity.html
 exl-id: a8b7ab6c-393c-43c6-b5ef-68845177edff
 ---
-# Stock/Quantity
+# [!UICONTROL Stock/Quantity]
 
 *[!UICONTROL Stock/Quantity]* settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
@@ -36,7 +35,7 @@ Quantity is a regional attribute and based on the **[!UICONTROL Amazon Marketpla
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Stock/quantity settings](assets/amazon-stock-quantity.png)
+![Stock/quantity settings](assets/amazon-stock-quantity.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |---|---|
@@ -61,10 +60,10 @@ When an item is sold, the Amazon listing relists it at this quantity.
 
 For example, if you set *[!UICONTROL Maximum Listed Quantity]* as `12`, the Amazon listing shows a quantity of 12 even though the product has a [!DNL Commerce] quantity of 80:
 
-![Maximum listed quantity example 1](assets/amazon-max-listed-quantity.png)
+![Maximum listed quantity example 1](assets/amazon-max-listed-quantity.png){width="300"}
 
 If you set your *[!UICONTROL Maximum Listed Quantity]* as `1`, all eligible products are listed with a quantity of `1`. When an item is sold, the system looks to your [!DNL Commerce] product and, if additional stock exists, relists the item on Amazon with a quantity of `1`.
 
 This option might be valuable for products that are typically ordered at a quantity of 1. It also increases urgency for the shopper when viewing your Amazon listing.
 
-![Maximum listed quantity example 2](assets/amazon-max-listed-quantity-1.png)
+![Maximum listed quantity example 2](assets/amazon-max-listed-quantity-1.png){width="300"}

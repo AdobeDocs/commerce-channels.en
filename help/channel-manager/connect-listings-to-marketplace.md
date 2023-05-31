@@ -29,7 +29,7 @@ Before matching products, verify that your product catalog attribute values meet
 
 1. From **[!UICONTROL Listings]**, select products for matching that are in *[!UICONTROL Draft]* status.
 
-   ![Select products from Listings and send for matching](assets/products-in-marketplace-sales-channel.png)
+   ![Select products from Listings and send for matching](assets/products-in-marketplace-sales-channel.png){width="500" zoomable="yes"}
 
 1. Select **[!UICONTROL Match Products]**.
 
@@ -109,9 +109,9 @@ For new product listings, check your product catalog to ensure that products you
 
 - Verify that the cron job is running to complete the export operation.
 
-  - For on-premises instances, see [Configure and run cron](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html).
+  - For on-premises instances, see [Configure and run cron](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs.html).
 
-  - For Adobe cloud infrastructure, see [Set up cron jobs](https://devdocs.magento.com/cloud/configure/setup-cron-jobs.html).
+  - For Adobe cloud infrastructure, see [Set up cron jobs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/crons-property.html).
 
 ### Create the product data file to upload
 
@@ -119,11 +119,11 @@ For new product listings, check your product catalog to ensure that products you
 
    - From the Product Catalog Items page, select **[!UICONTROL Add Items]**. Then, select **[!UICONTROL Add items in bulk]**. 
    
-     ![Add items in bulk option in Walmart Marketplace item configuration](assets/walmart-seller-account-add-items-bulk.png)
+     ![Add items in bulk option in Walmart Marketplace item configuration](assets/walmart-seller-account-add-items-bulk.png){width="600" zoomable="yes"}
      
    - On the download page, select **[!UICONTROL Full Setup]**. Then, select an item category and download the category template.  
 
-     ![Download category template option in Walmart Marketplace item configuration](assets/walmart-seller-account-full-setup-download.png)
+     ![Download category template option in Walmart Marketplace item configuration](assets/walmart-seller-account-full-setup-download.png){width="600" zoomable="yes"}
 
    - Verify that the template includes the required and recommended attributes for the product listing.
 
@@ -135,15 +135,13 @@ For new product listings, check your product catalog to ensure that products you
 
    - In the [!UICONTROL Entity Attributes] table, configure the selection criteria for the product data export.
 
-    ![Export product data page in the [!UICONTROL [!DNL Commerce] Admin]](assets/walmart-seller-account-full-setup-download.png)
-
-     Use filters to select and configure the attribute values that apply to the product categories that you sell in. Make sure to include Walmart's required and recommended attributes. (See [Export Data](https://docs.magento.com/user-guide/system/data-export.html) in the Adobe [!DNL Commerce] User Guide for detailed instructions.)
+     Use filters to select and configure the attribute values that apply to the product categories that you sell in. Make sure to include Walmart's required and recommended attributes. (See [Export Data](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html) in the Adobe [!DNL Commerce] User Guide for detailed instructions.)
 
      To omit an attribute from the export, select the [!UICONTROL **Exclude**] checkbox at the beginning of the row.
 
 1. Scroll to the end of the attribute table and select [!UICONTROL **Continue**] to start the data export.
 
-   The CSV export file is processed through a message queue using cron jobs and saved in the `var/export/folder`. (See [Manage message queues](https://devdocs.magento.com/guides/v2.4/config-guide/mq/manage-message-queues.html) in the *Commerce Developer Guide*.)
+   The CSV export file is processed through a message queue using cron jobs and saved in the `var/export/folder`. (See [Manage message queues](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/message-queues/manage-message-queues.html) in the *Configuration Guide*.)
 
 1. Open the Excel template for the Walmart Marketplace product category, and use Excel macro capabilities to merge the exported product data into the Excel template.
 

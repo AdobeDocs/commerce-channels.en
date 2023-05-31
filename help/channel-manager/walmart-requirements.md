@@ -51,7 +51,7 @@ When you connect products to the marketplace, listing availability depends on th
 
 * For stores that are not live, your product offers are staged and not visible to customers. When the [!DNL Walmart Marketplace] store goes live, staged listings are pushed to the live store automatically. 
 
-![[!DNL Walmart Seller Central] staged products](assets/walmart-seller-central-staged.png)
+![[!DNL Walmart Seller Central] staged products](assets/walmart-seller-central-staged.png){width="600" zoomable="yes"}
 
 >[!IMPORTANT]
 >

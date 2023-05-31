@@ -21,7 +21,7 @@ Define your optional highest price settings in the _[!UICONTROL Optional Ceiling
 
 1. For **[!UICONTROL Ceiling Price Source]**, choose an attribute.
 
-   Select your [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} that indicates your relative ceiling limit. For example, if you do not want your Amazon listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute.
+   Select your [!DNL Commerce] [product attribute](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html) that indicates your relative ceiling limit. For example, if you do not want your Amazon listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute.
 
 1. For **[!UICONTROL Ceiling Price Action]**, choose an option.
 
@@ -37,11 +37,11 @@ Define your optional highest price settings in the _[!UICONTROL Optional Ceiling
 
 In this example, the ceiling price is set to be 2% below the MSRP of the item.
 
-![Intelligent repricing rule - optional ceiling price](assets/ob-intelligent-price-rule-ceiling.png)
+![Intelligent repricing rule - optional ceiling price](assets/ob-intelligent-price-rule-ceiling.png){width="600" zoomable="yes"}
 
 |Field |Description|
 |---|---|
-|[!UICONTROL Ceiling Price Source]|Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} that indicates your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute. |
+|[!UICONTROL Ceiling Price Source]|Choose the [!DNL Commerce] [product attribute](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html) that indicates your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute. |
 |[!UICONTROL Ceiling Price Action] |Choose a pricing adjustment action. Options:<ul><li>**[!UICONTROL Decrease By]** - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted down, creating a lower ceiling price for the rule, before listing to Amazon.</li><li>**[!UICONTROL Increase By]** - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted up, creating a higher ceiling price for the rule, before listing to Amazon.</li><li>**[!UICONTROL Match]** - Choose when you do not want the listing price to fluctuate above the defined _[!UICONTROL Ceiling Price Source]_ value. When set to `Match`, the _[!UICONTROL Apply]_ and _[!UICONTROL Ceiling Adjustment Amount]_ fields are disabled.</li></ul> |
 |[!UICONTROL Apply]|**[!UICONTROL Apply as percentage]** - A percentage adjustment relative to the _[!UICONTROL Ceiling Price Source]_ value. |
 |[!UICONTROL Ceiling Price Adjustment]|Enter the numerical value for the percent to adjust your _[!UICONTROL Ceiling Price Source]_ value. |

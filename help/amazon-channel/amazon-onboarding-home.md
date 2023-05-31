@@ -1,10 +1,10 @@
 ---
-title: Onboard Amazon Sales Channel
+title: "Onboard [!DNL Amazon Sales Channel]"
 description: Learn about the pre-setup tasks, onboarding steps, and how Amazon works with Amazon Sales Channel in Adobe Commerce and Magento Open Source.
 redirect_from: /sales-channels/amazon/amazon-onboarding-home.html
 exl-id: 99b64083-36e6-442e-9d20-4676e78ec3ae
 ---
-# Onboard Amazon Sales Channel
+# Onboard [!DNL Amazon Sales Channel]
 
 This section describes the pre-setup tasks, steps for onboarding, and some key concepts of how Amazon works with the Amazon sales channel in Adobe Commerce and Magento Open Source.
 

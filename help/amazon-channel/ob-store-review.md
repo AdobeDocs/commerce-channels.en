@@ -1,9 +1,9 @@
 ---
-title: Store Settings
+title: Review store settings for Amazon sales channel
 description: After you complete the Amazon sales channel onboarding process, review and update the [!DNL Commerce] store settings.
 exl-id: 7f1ea19b-f473-4a8e-9a91-b06d6b733664
 ---
-# Store Settings
+# Review store settings for Amazon sales channel
 
 After you create and integrate your Amazon sales channel store, review your store default settings to ensure that your product, listing, pricing, and other settings are correct.
 
@@ -21,4 +21,4 @@ After you create and integrate your Amazon sales channel store, review your stor
    - **[!UICONTROL Logs]** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
    - [**[!UICONTROL Store integration setting]s**](./store-integration-settings.md) - Review email and Amazon sales channel store name settings in the [!DNL Commerce] Admin.
 
-![Store dashboard](assets/ob-store-review.png)
+![Store dashboard](assets/ob-store-review.png){width="600" zoomable="yes"}

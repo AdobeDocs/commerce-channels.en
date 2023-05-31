@@ -1,5 +1,5 @@
 ---
-title: Ready to List
+title: Amazon sales channel - [!UICONTROL Ready to List]
 description: The Amazon sales channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
 exl-id: f62017fb-964f-43f0-b76b-8f39f447466a
 ---
@@ -26,7 +26,7 @@ You have a few options to manually [publish a new listing to Amazon](./publish-l
 >[!NOTE]
 >If you have listings in process, the number of listings are displayed in a message above the tabs.
 
-![Ready to list](assets/amazon-ready-to-list.png)
+![Ready to list](assets/amazon-ready-to-list.png){width="600" zoomable="yes"}
 
 ## Default columns
 

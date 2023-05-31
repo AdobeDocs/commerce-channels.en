@@ -1,9 +1,9 @@
 ---
-title: View Amazon Orders
+title: View Amazon orders
 description: View your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
 exl-id: d7811604-8e15-4d1a-a0e7-9fa61c61ef5d
 ---
-# View Amazon Orders
+# View Amazon orders
 
 There are two ways to view your Amazon orders: _[!UICONTROL Recent Orders]_ and _[!UICONTROL All Orders]_.
 
@@ -26,7 +26,7 @@ _[!UICONTROL All Orders]_ view adds filtering options for order searches.
 
 You can view your most recent orders in the _[!UICONTROL Recent Orders]_ section of the [store dashboard](./amazon-store-dashboard.md).
 
-![Recent Orders](assets/amazon-recent-orders-imported.png)
+![Recent Orders](assets/amazon-recent-orders-imported.png){width="600" zoomable="yes"}
 
 ### View recent Amazon orders
 
@@ -48,7 +48,7 @@ You can view all of your Amazon orders on the _[!UICONTROL Amazon orders]_ page 
 - [!UICONTROL Total (range)]
 - [!UICONTROL Status]
 
-![Amazon orders](assets/amazon-orders-list-all.png)
+![Amazon orders](assets/amazon-orders-list-all.png){width="600" zoomable="yes"}
 
 ### View all Amazon orders
 
@@ -66,7 +66,7 @@ You can view all of your Amazon orders on the _[!UICONTROL Amazon orders]_ page 
 
 You can apply filters to your order list in the _[!UICONTROL Filter by]_ section. Make your selections and click **[!UICONTROL Apply filters]**. Your applied filters appear above the orders grid.
 
-![Filters for viewing Amazon orders](assets/amazon-orders-filter-view.png)
+![Filters for viewing Amazon orders](assets/amazon-orders-filter-view.png){width="600" zoomable="yes"}
 
 ### Changing applied filters
 

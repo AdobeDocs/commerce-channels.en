@@ -1,10 +1,10 @@
 ---
-title: Fulfilled By
+title: Fulfilled By settings for Amazon listings
 description: Use the Fulfilled By settings to determine how the orders from Amazon listings are fulfilled (shipped).
 redirect_from: /sales-channels/asc/ob-fulfilled-by.html
 exl-id: 240c2198-e23d-40e7-be39-b9a4f78565d2
 ---
-# Fulfilled By
+# Fulfilled By settings for Amazon listings
 
 _[!UICONTROL Fulfilled By]_ settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
@@ -40,12 +40,12 @@ The fulfillment method is a regional attribute, and based on the **[!UICONTROL A
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Fulfilled By settings](assets/amazon-fulfilled-by.png)
+![Fulfilled By settings](assets/amazon-fulfilled-by.png){width="500" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |
 |[!UICONTROL Product Fulfilled By]|Options:<ul><li>**[!UICONTROL Fulfilled by Merchant]** - (FBM) Choose if you fulfill the orders. When an order is placed, inventory is deducted from your [!DNL Commerce] catalog. When a new product is created, the fulfillment method of Merchant Fulfilled is assigned.</li><li>**[!UICONTROL Fulfilled by Amazon]** - (FBA) Choose if Amazon fulfills the orders. With this fulfillment method, product inventory is not deducted from your [!DNL Commerce] catalog when an order is placed. When a product is created, it is created with _[!UICONTROL Fulfilled by Amazon (FBA)]_ as the fulfillment type. Ensure that your products are eligible for FBA fulfillment within your [!DNL Amazon Seller Central] account. FBA inventory is also directly managed through your [!DNL Amazon Seller Central] account. With this fulfillment method, quantity updates are not pushed out relative to your [!DNL Commerce] catalog, so you cannot use some of the marketing tools described in [Stock / Quantity Settings](./stock-quantity.md).</li><li>**[!UICONTROL Assign Fulfilled By Using Magento Product Attribute]** - Choose if you have an existing [!DNL Commerce] attribute that determines if it is fulfilled by the merchant or fulfilled by Amazon. When chosen, **[!UICONTROL Fulfilled by Attribute]** enables.</li></ul> |
-|[!UICONTROL Fulfilled By Attribute]|Choose the [!DNL Commerce] attribute used to determine the fulfillment method.<br><br>For example, if the attribute is _Fulfilled By_ and you choose the attribute value as _[!UICONTROL Fulfilled By Merchant]_ or _[!UICONTROL Fulfilled By Amazon (FBA)]_, the system uses that value as the fulfillment type for a new product. As a merchant, you should ensure that your products are eligible for FBA fulfillment within your [!DNL Amazon Seller Central] account. FBA inventory is also directly managed through your Amazon Seller Account.<br><br>Options depend on the attributes you set up for your Amazon products. |
+|[!UICONTROL Fulfilled By Attribute]|Choose the [!DNL Commerce] attribute used to determine the fulfillment method.<br><br>For example, if the attribute is _Fulfilled By_ and you choose the attribute value as `Fulfilled By Merchant` or `Fulfilled By Amazon (FBA)`, the system uses that value as the fulfillment type for a new product. As a merchant, you should ensure that your products are eligible for FBA fulfillment within your [!DNL Amazon Seller Central] account. FBA inventory is also directly managed through your Amazon Seller Account.<br><br>Options depend on the attributes that you set up for your Amazon products. |
 
 **Quick Access** - [!UICONTROL Listing Settings] sections
 

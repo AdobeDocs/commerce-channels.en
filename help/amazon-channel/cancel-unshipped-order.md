@@ -1,9 +1,9 @@
 ---
-title: Cancel an Unshipped Order
+title: Cancel an unshipped Amazon order
 description: Cancel a pending or partially shipped (unshipped) order through your Amazon [!DNL Seller Central] account.
 exl-id: a6df09b7-7f62-47e5-a2d3-1761802255d0
 ---
-# Cancel an Unshipped Order
+# Cancel an unshipped Amazon order
 
 Amazon orders can only be canceled if they are in an `Unshipped` status. If the order is pending or partially shipped (unshipped), the order can only be canceled through your [!DNL Amazon Seller Central] account. If the item has been shipped, returns and exchanges must also be handled in your [!DNL Amazon Seller Central] Account.
 
@@ -11,7 +11,7 @@ Amazon orders can only be canceled if they are in an `Unshipped` status. If the 
 >
 >For tasks other than cancelling an order:
 >
->- If you have [order import](./order-settings.md) enabled, orders are managed in the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"}.
+>- If you have [order import](./order-settings.md) enabled, orders are managed in the [[!DNL Commerce] orders workflow](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/orders.html).
 >- If [order import](./order-settings.md) is disabled, you must manage your orders in [!DNL Amazon Seller Central].
 
 ## Cancel an order in `Unshipped` status

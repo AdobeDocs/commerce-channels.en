@@ -1,9 +1,9 @@
 ---
-title: Pre-Setup Tasks
+title: Pre-setup tasks for [!DNL Amazon sales channel]
 description: Review the required tasks to be completed before integrating your Adobe Commerce or Magento Open Source store in Amazon Sales Channel.
 exl-id: eb9d9136-925f-4b20-9d65-b166173f434b
 ---
-# Pre-Setup Tasks
+# Pre-setup tasks for [!DNL Amazon sales channel]
 
 Before [Store Integration](./store-integration.md), you must ensure that your [!DNL Amazon Seller Central] account and your [!DNL Commerce] account are ready for the integration. To successfully integrate, there are some required pre-setup tasks.
 
@@ -11,11 +11,11 @@ When you set up your first Amazon store in Amazon sales channel, a list of setup
 
 ## 1. Enable background tasks in [!DNL Commerce]
 
-All products and data synced between [!DNL Commerce] and Amazon is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}. When you complete tasks such as add or update listings and receive orders, a cron job sends and receives data between your [!DNL Commerce] backend and your [!DNL Amazon Seller Central] account.
+All products and data synced between [!DNL Commerce] and Amazon is managed by a [cron job](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cron.html). When you complete tasks such as add or update listings and receive orders, a cron job sends and receives data between your [!DNL Commerce] backend and your [!DNL Amazon Seller Central] account.
 
-- [Enable [!DNL Commerce] cron](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}.
+- [Enable [!DNL Commerce] cron](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cron.html).
 
-- For maximum performance, [set [!DNL Commerce] cron](https://docs.magento.com/user-guide/configuration/advanced/system.html){target="_blank"} to run once every five minutes.
+- For maximum performance, [set [!DNL Commerce] cron](https://experienceleague.adobe.com/docs/commerce-admin/config/advanced/system.html) to run once every five minutes.
 
 ## 2. Create your [!DNL Amazon Seller Central] account
 
@@ -51,7 +51,7 @@ To have the highest number of [!DNL Commerce] products automatically match with 
 
 ## 6. Configure your currency and conversion (as needed)
 
-If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html){target="_blank"} and set the [currency conversion rate](https://docs.magento.com/user-guide/stores/currency-update.html){target="_blank"}.
+If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://experienceleague.adobe.com/docs/commerce-admin/config/general/currency-setup.html) and set the [currency conversion rate](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency-update.html).
 
 ## 7. Create a product condition attribute (as needed)
 
@@ -59,7 +59,7 @@ If your Amazon listings contain more than one product condition (such as _new_, 
 
 ## 8. Configure your [!DNL Amazon Seller Central] shipping method
 
-To set up shipping methods that you want to offer for fulfilling your Amazon orders, refer to [Settings & Shipping Settings][10] in your [!DNL Amazon Seller Central] account.
+To set up shipping methods that you want to offer for fulfilling your Amazon orders, refer to _Settings & Shipping Settings_ in your [!DNL Amazon Seller Central] account.
 
 ## Additional configurations
 
@@ -67,10 +67,10 @@ When your Amazon account is set up and active, there are several [!DNL Commerce]
 
 ### Review and note any products that you want to exclude
 
-You may not want some products to be listed on Amazon. Amazon sales channel has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility must have **[!UICONTROL Use for Promo Rule Conditions]** set to `Yes`. See the **[!UICONTROL Use for Promo Rule Conditions]** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
+You may not want some products to be listed on Amazon. Amazon sales channel has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html) or [shopping cart](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html) price rules, product attributes used for Amazon listing eligibility must have **[!UICONTROL Use for Promo Rule Conditions]** set to `Yes`. See the **[!UICONTROL Use for Promo Rule Conditions]** in [Product Attributes](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html).
 
 ### Set your [!DNL Amazon Seller Central] region to inactive
 
-To help facilitate error-free data transition during integration, it is recommended that you set your Amazon region to `Inactive` status in Settings > Account Info > Vacation Settings. Refer to [Amazon: Listing Status for Vacations][11]. When your setup is complete, change the status back to `Active` in Amazon.
+To help facilitate error-free data transition during integration, it is recommended that you set your Amazon region to `Inactive` status in Settings > Account Info > Vacation Settings. When your setup is complete, change the status back to `Active` in Amazon.
 
 ![Next icon](assets/btn-next.png) [**Continue to Creating [!DNL Commerce] Attributes**](./ob-creating-magento-attributes.md)

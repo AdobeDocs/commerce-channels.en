@@ -1,9 +1,9 @@
 ---
-title: Price Adjustment
+title: Amazon sales channel - [!UICONTROL Price Adjustment]
 description: Configure price adjustments to define the price calculation when you have identified the Amazon competitor price source.
 exl-id: 60569b37-2a6d-40ef-bcec-2c3a132a07e0
 ---
-# Price Adjustment
+# [!UICONTROL Price Adjustment]
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Define your pricing adjustment in the _[!UICONTROL Price Adjustment]_ section.
 
    - When **[!UICONTROL Apply]** is set to `Apply as fixed amount`, enter the numerical value for the fixed amount (example: enter `25` for a $25 fixed adjustment).
 
-![Intelligent repricing rule - price adjustment](assets/amazon-price-adjustment.png)
+![Intelligent repricing rule - price adjustment](assets/amazon-price-adjustment.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |---|---|

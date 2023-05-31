@@ -1,9 +1,9 @@
 ---
-title: Amazon Store Dashboard
+title: Amazon store dashboard
 description: View the activity for your Amazon stores from the Commerce Admin using the Amazon store dashboard.
 exl-id: b86220c6-8350-474e-8faa-988a9a575ac4
 ---
-# Amazon Store Dashboard
+# Amazon store dashboard
 
 In the _[!UICONTROL Amazon Stores]_ view on Amazon sales channel home page, you can click **[!UICONTROL View Store]** on a store card to open the store dashboard.
 
@@ -11,7 +11,7 @@ The store dashboard is the primary location for you to view the activity for eac
 
 You can also access your [store settings](./ob-store-review.md), [manage your listings](./managing-product-listings.md), and view sales data and recent order information.
 
-![Amazon Store dashboard](assets/amazon-store-dashboard.png)
+![Amazon Store dashboard](assets/amazon-store-dashboard.png){width="600" zoomable="yes"}
 
 The header of the store dashboard displays the same basic store information that is shown on the store card:
 

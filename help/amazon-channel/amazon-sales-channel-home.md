@@ -1,9 +1,9 @@
 ---
-title: Home Page
+title: Amazon sales channel home page
 description: Use the Amazon sales channel home page in your [!DNL Commerce] Admin to access your [!DNL Amazon Marketplace] listings and activity.
 exl-id: 00ce8253-aa91-4824-847d-24b74ed6a8bf
 ---
-# Home Page
+# Amazon sales channel home page
 
 The Amazon sales channel home page is your landing page when accessing your Amazon sales channel.
 

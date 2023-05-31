@@ -10,7 +10,7 @@ exl-id: 91265973-d2ad-4925-aa10-260d7e186f20
 
 [!DNL Channel Manager] helps merchants increase sales, reach new customers, streamline sales operations, and save time by integrating an Adobe Commerce or Magento Open Source product catalog with the [!DNL Walmart Marketplace].
 
-![[!DNL Channel Manager] extension Admin view](assets/channel-manager-home.png)
+![[!DNL Channel Manager] extension Admin view](assets/channel-manager-home.png){width="700" zoomable="yes"}
 
 [!DNL Channel Manager] supports Adobe Commerce or Magento Open Source merchants who want to sell on [!DNL Walmart Marketplace] by extending the [!DNL Commerce] Admin. With [!DNL Channel Manager] installed, store administrators and operations staff can manage [!DNL Walmart Marketplace] sales, inventory, and product pricing seamlessly from the Commerce environment.
 
@@ -30,7 +30,7 @@ After you install and configure [!DNL Channel Manager], you can use the followin
 
 * **Cancellations**—When orders are canceled in Adobe Commerce, [!DNL Channel Manager] sends updated order information to the marketplace to replicate the action for the corresponding marketplace order. After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items and inventory updates are synchronized automatically to [!DNL Walmart Marketplace].
 
-* **Returns and Refunds**—When Walmart Marketplace requests a return for items ordered through the Adobe Commerce or Magento Open Source sales channel, [!DNL Channel Manager] sends the return request information to the Commerce sales channel store to replicate the return request. Then, the refund can be processed using the [!DNL Commerce] [refund workflow](https://docs.magento.com/user-guide/sales/credit-memos.html#refund-workflow), offline method. After the refund completes, [!DNL Channel Manager] synchronizes the update to Walmart so that the return status in the marketplace seller account can be updated to reflect the refund.
+* **Returns and Refunds**—When Walmart Marketplace requests a return for items ordered through the Adobe Commerce or Magento Open Source sales channel, [!DNL Channel Manager] sends the return request information to the Commerce sales channel store to replicate the return request. Then, the refund can be processed using the [!DNL Commerce] [refund workflow](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/credit-memos/credit-memos.html#refund-workflow), offline method. After the refund completes, [!DNL Channel Manager] synchronizes the update to Walmart so that the return status in the marketplace seller account can be updated to reflect the refund.
 
 ## Expected latency for [!DNL Channel Manager] operations
 

@@ -17,7 +17,7 @@ On the [!DNL Commerce] side, a successful synchronization triggers the following
 
 In the storefront Admin, you can view order data from [!DNL Channel Manager] by opening the sales channel store and selecting **[!UICONTROL Orders]**.
 
-![Channel Manager Orders view to manage [!DNL Walmart Marketplace] orders](assets/orders-dashboard-view.png)
+![Channel Manager Orders view to manage [!DNL Walmart Marketplace] orders](assets/orders-dashboard-view.png){width="600" zoomable="yes"}
 
 >[!NOTE]
 >
@@ -145,7 +145,7 @@ After an order is received from the marketplace and imported into your sales cha
 
 From **[!UICONTROL Orders]**, select the **[!UICONTROL Commerce Order Number]** to open the [!DNL Commerce] order detail.
 
-![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-detail-with-external-order-id.png)
+![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-detail-with-external-order-id.png){width="600" zoomable="yes"}
 
 In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have the following additional information included in the order data:
 
@@ -166,6 +166,6 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
 
 - **Items Ordered**—This section lists the order items on all Commerce orders. The [!UICONTROL Qty] column provides the status history for order items. For example if an order has been invoiced, shipped, and refunded, you can see the status transitions.
 
-  ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png)
+  ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png){width="600" zoomable="yes"}
 
  View item invoice and refund details by selecting the [!UICONTROL Invoice] and [!UICONTROL Credit Memo] options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.

@@ -1,9 +1,9 @@
 ---
-title: Incomplete Listings
+title: Incomplete Amazon listings
 description: Amazon sales channel provides the [!UICONTROL Incomplete] tab to help you identify and meet eligibility requirements for your incomplete Amazon listings.
 exl-id: f943c9cc-fa1d-4f3e-a3de-3a8d00f87890
 ---
-# Incomplete Listings
+# Incomplete Amazon listings
 
 The _[!UICONTROL Incomplete]_ tab lists the [!DNL Commerce] catalog products that meet your Amazon eligibility requirements (defined in your [listing rules](./listing-rules.md)), but are missing information required by Amazon (such as the Amazon ASIN or a defined product condition).
 
@@ -35,7 +35,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 >
 >If you have listings in process, the number of listings appears in a message above the tabs.
 
-![Incomplete Amazon listings](assets/amazon-incomplete-listings.png)
+![Incomplete Amazon listings](assets/amazon-incomplete-listings.png){width="600" zoomable="yes"}
 
 Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

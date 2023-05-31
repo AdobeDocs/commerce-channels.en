@@ -1,9 +1,9 @@
 ---
-title: Default Store Settings
+title: Default store settings for Amazon listings
 description: Modify the default Commerce settings to customize the Amazon Sales Channel for your store.
 exl-id: 368e5e8e-2bf9-4f9c-86c6-6d375f8a8720
 ---
-# Default Store Settings
+# Default store settings for Amazon listings
 
 After your store is connected and you've set up your first listing rule, the sync of data between Amazon and [!DNL Commerce] starts. There are several types of store settings that allow you to customize your store for your needs. Store settings are accessed on the store [dashboard](./amazon-store-dashboard.md).
 
@@ -27,7 +27,7 @@ Store settings include:
 
 |Setting|Default|Description|Location|
 |--- |--- |--- |--- |
-|[!UICONTROL Import Amazon Orders]|`Enabled`|Creates corresponding [!DNL Commerce] orders when new orders are received from Amazon, allowing orders to be managed in the [[!DNL Commerce] Orders](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"} workflow. When `Disabled`, Amazon orders import order information for review, but orders must be managed in your [!DNL Amazon Seller Central] account.|[Order Settings](./order-settings.md)|
+|[!UICONTROL Import Amazon Orders]|`Enabled`|Creates corresponding [!DNL Commerce] orders when new orders are received from Amazon, allowing orders to be managed in the [[!DNL Commerce] Orders](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/orders.html) workflow. When `Disabled`, Amazon orders import order information for review, but orders must be managed in your [!DNL Amazon Seller Central] account.|[Order Settings](./order-settings.md)|
 |[!UICONTROL Customer Creation]|`No Customer Creation (guest)`|Customer data from Amazon orders is not imported into your [!DNL Commerce] database. Imported Amazon orders are processed as a guest checkout. If you want to build your [!DNL Commerce] customer database, you should change this setting to `Build New Customer Account`.|[Order Settings](./order-settings.md)|
 |[!UICONTROL Automatic List Action]|`Automatically List Eligible Products`|[!DNL Commerce] catalog products (that meet Amazon's eligibility requirements) to automatically publish to Amazon and create Amazon Listings. If you want to manually review and publish your products, you should change this setting to `Do Not Automatically List Eligible Products`. Products waiting for manual publish appear on the [_Ready to List_](./ready-to-list.md) tab.|[Product Listing Actions](./product-listing-actions.md)|
 |[!UICONTROL Magento Price Source]|`Price`|Defines the price source attribute used as the base for your Amazon listings. If you do not want to use the [!DNL Commerce] `Price` attribute as your base price to which your pricing rules are based, you should change this setting to a different attribute.|[Listing Price](./listing-price.md)|

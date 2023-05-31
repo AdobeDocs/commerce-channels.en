@@ -1,10 +1,10 @@
 ---
-title: Catalog Search
+title: Catalog search for Amazon listings
 description: To set the attribute matching that helps to map eligible Commerce catalog products with Amazon listings, update the Catalog Search settings.
 redirect_from: /sales-channels/asc/ob-catalog-search.html
 exl-id: 9fcaa924-cba3-498f-8e21-1a1f91b1ad04
 ---
-# Catalog Search
+# Catalog search for Amazon listings
 
 _Catalog Search_ settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
@@ -54,7 +54,7 @@ If you want to add attributes, see [Create Product Attributes for Amazon Matchin
 
 1. When complete, click **[!UICONTROL Save listing settings]**.
 
-![Catalog Search](assets/amazon-catalog-search.png)
+![Catalog Search](assets/amazon-catalog-search.png){width="500" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

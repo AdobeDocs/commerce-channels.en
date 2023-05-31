@@ -21,7 +21,7 @@ Review [Walmart Requirements](walmart-requirements.md) for the [!DNL Marketplace
 
 1. To modify the credentials, select **[!UICONTROL Change Credentials]**
 
-   ![Update Walmart API credentials to authorize connection](assets/update-connection-credentials.png)
+   ![Update Walmart API credentials to authorize connection](assets/update-connection-credentials.png){width="700" zoomable="yes"}
 
 1. Enter the **[!UICONTROL Walmart Client ID]** and **[!UICONTROL Walmart Client Secret]**.
 

@@ -25,7 +25,7 @@ Define your lowest price setting in the _[!UICONTROL Floor Price]_ section.
 
 1. For **[!UICONTROL Floor Price Source]**, choose a price source attribute.
 
-   Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} that indicates your relative floor limit. For example, if you do not want your Amazon listing price to go below the cost of your item, you would choose the *Cost* attribute.
+   Choose the [!DNL Commerce] [product attribute](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html) that indicates your relative floor limit. For example, if you do not want your Amazon listing price to go below the cost of your item, you would choose the *Cost* attribute.
 
 1. For **[!UICONTROL Floor Price Action]**, choose an option.
 
@@ -41,7 +41,7 @@ Define your lowest price setting in the _[!UICONTROL Floor Price]_ section.
 
 In this example, the floor price is set to be 3% above the cost of the item.
 
-![Intelligent repricing rule example - floor price](assets/ob-intelligent-pricde-rule-floor-price.png)
+![Intelligent repricing rule example - floor price](assets/ob-intelligent-pricde-rule-floor-price.png){width="600" zoomable="yes"}
 
 |Field|Description|
 |--- |--- |

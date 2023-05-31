@@ -1,9 +1,9 @@
 ---
-title: 'Onboarding: Create listing Rule'
+title: Create an Amazon listing rule
 description: While completing the Amazon sales channel onboarding process, create the initial listing rules for generating Amazon listings for your [!DNL Commerce] products.
 exl-id: b318823e-a726-4a59-b117-9838562c7d8b
 ---
-# Onboarding: Create listing Rule
+# Create an Amazon listing rule
 
 Listing rules can be defined during onboarding, but can also be modified at any time. After onboarding, you can access the [listing rules](./listing-rules.md) on the store [dashboard](./amazon-store-dashboard.md).
 
@@ -23,7 +23,7 @@ Listing rules can be defined during onboarding, but can also be modified at any 
 
 1. Review your listings in the Listing Preview:
 
-   ![Listing preview](assets/amazon-ob-listing-preview.png)
+   ![Listing preview](assets/amazon-ob-listing-preview.png){width="600" zoomable="yes"}
 
    - **[!UICONTROL Ineligible Listings]** - Products listed on this tab are not eligible for Amazon listing based on your current listing rule settings.
 

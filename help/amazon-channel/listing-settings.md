@@ -1,10 +1,10 @@
 ---
-title: View Listing Settings
+title: View Amazon listing settings
 description: Use the listing settings to define how your [!DNL Commerce] catalog products are listed on [!DNL Amazon Marketplace].
 redirect_from: /sales-channels/asc/ob-listing-settings.html
 exl-id: 939babd0-8e6d-40b8-a42a-fc5c7dc3f98b
 ---
-# View listing Settings
+# View listing settings
 
 Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
@@ -35,4 +35,4 @@ Expand each of the sections and configure as needed.
 
 1. Click **[!UICONTROL Save]**.
 
-![Listing settings](assets/amazon-listing-settings.png)
+![Listing settings](assets/amazon-listing-settings.png){width="600" zoomable="yes"}

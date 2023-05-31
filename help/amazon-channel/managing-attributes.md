@@ -1,9 +1,9 @@
 ---
-title: Manage Attributes
+title: Manage attributes for Amazon listings
 description: You can manage the mapping of Commerce product attributes to the Amazon attributes to ensure accurate product information between the systems.
 exl-id: 6f9ded2d-292e-4b7e-8c10-48f478a4383e
 ---
-# Manage Attributes
+# Manage attributes for Amazon listings
 
 Amazon and [!DNL Commerce] both use a system of product properties, known as attributes, used to define a product. Attributes define the description, content, images, prices, and various data for your products.
 
@@ -17,7 +17,7 @@ Amazon sales channel allows you to access, review, create, and manage attributes
 
 For more information about [!DNL Commerce] and Amazon attribute sets and values, see:
 
-- [Manage attributes basics](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"}
+- [Manage attributes basics](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 - [Create an attribute](./creating-attributes.md#create-an-attribute)
 - [Edit an existing attribute](./creating-attributes.md#edit-an-attribute)
 - [View Attribute Mapping](./amazon-matching-attributes-values.md)

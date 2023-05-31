@@ -1,9 +1,9 @@
 ---
-title: '[!DNL Amazon Sales Channel] Release Notes'
+title: '[!DNL Amazon Sales Channel] release notes'
 description: Review the release notes for information about all [!DNL Amazon Sales Channel] releases.
 exl-id: 792782e0-9097-42f7-9fc0-509ece02e407
 ---
-# Release Notes
+# [!DNL Amazon Sales Channel] release notes
 
 >[!IMPORTANT]
 >
@@ -18,7 +18,7 @@ These release notes describe the initial release of [!DNL Amazon sales channel] 
 ![Fixed issue](../assets/fix.svg) Fixes and improvements
 ![Known issue](../assets/bug.svg) Known issues
 
-See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} for versioning, support, and compatibility.
+See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html) for versioning, support, and compatibility.
 
 ## v4.4.4
 
@@ -111,13 +111,13 @@ See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} f
 
 If you have a previous [!DNL Amazon sales channel] version installed and attempt to update your Adobe Commerce to version 2.4.0, you are prompted to update the extension before you can complete the Adobe Commerce update.
 
-![Known issue](../assets/bug.svg) When [!DNL Amazon sales channel] 4.2.0 is integrated with version 2.4.0 and [Inventory Management](https://docs.magento.com/user-guide/catalog/inventory.html) is enabled, there is a known issue that prevents the addition of products in your Commerce catalog. This issue will be addressed in a future Commerce release.
+![Known issue](../assets/bug.svg) When [!DNL Amazon sales channel] 4.2.0 is integrated with version 2.4.0 and [Inventory Management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=en) is enabled, there is a known issue that prevents the addition of products in your Commerce catalog. This issue will be addressed in a future Commerce release.
 
 ![New](../assets/new.svg) [!DNL Amazon sales channel] has been enhanced to accept text-based address data and match it to standardized address formats, including city, state, and zip code. This update enables order and shipping data to synchronize (sync) with Amazon without address errors.<br/>For example, a shopper inputs the city, state, zip code as `Escondido, californiA 92025-1501`. Amazon Sales Channel imports and matches the data to the standard format as `Escondido, CA 92025`, and then syncs it back to Amazon in this standardized format.
 
 ![New](../assets/new.svg) Added support for PHP 7.4.
 
-![New](../assets/new.svg) <!--CHAN-4334-->Added support for Adobe Commerce 2.4.x. Previous versions may be compatible with Commerce 2.4.x, but are not supported. See [Upcoming releases](https://devdocs.magento.com/release/){:target="_blank"} for version compatibility. Amazon Sales Channel must be updated to 4.2.0 before the Adobe Commerce 2.4.0 update can be completed.
+![New](../assets/new.svg) <!--CHAN-4334-->Added support for Adobe Commerce 2.4.x. Previous versions may be compatible with Commerce 2.4.x, but are not supported. See [Upcoming releases](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html) for version compatibility. Amazon Sales Channel must be updated to 4.2.0 before the Adobe Commerce 2.4.0 update can be completed.
 
 ![Fix](../assets/fix.svg) <!--CHAN-4431-->Corrected an issue that caused an _Access Denied_ error for UK customers.
 
@@ -205,7 +205,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 - [Product Tax Code](https://sellercentral.amazon.com/gp/help/help.html?itemID=G200794510&language=en_US){target="_blank"} information.
 
-![New](../assets/new.svg) **Improved Logging**: <!--CHAN-3642, 3672-->Implemented the **Enable Debug Logging** feature to collect additional synchronization data when troubleshooting is needed. See the [Sales Channels Settings](https://docs.magento.com/user-guide/configuration/sales-channels/global-settings.html) topic in the Configuration Reference.
+![New](../assets/new.svg) **Improved Logging**: <!--CHAN-3642, 3672-->Implemented the **Enable Debug Logging** feature to collect additional synchronization data when troubleshooting is needed. See the [Sales Channels Settings](https://experienceleague.adobe.com/docs/commerce-admin/config/sales-channels.html) topic in the Configuration Reference.
 
 ![Fix](../assets/fix.svg) **Product Catalog**: <!--CHAN-3687-->Corrected an issue that prevented images imported with an Amazon listing from being applied to the corresponding Commerce catalog product.
 
