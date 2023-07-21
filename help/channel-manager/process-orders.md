@@ -1,7 +1,7 @@
 ---
 title: Process Orders
 description: 'Instructions for shipping and cancelling [!DNL Walmart Marketplace] orders from Adobe Commerce and Magento Open Source.'
-feature: Sales Channels, Orders, Shipment/Delivery, Customer Service
+feature: Sales Channelss, Orders, Shipping/Delivery, Customer Service
 exl-id: 2fdcb348-5c02-464f-a114-16ec657bed6b
 ---
 # Process Orders

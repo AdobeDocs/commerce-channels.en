@@ -3,7 +3,7 @@ title: Onboard [!DNL Channel Manager]
 description: 'Connect your instance to the [!DNL Channel Manager] service by completing a few onboarding steps.'
 level: Intermediate
 role: Leader, Admin, Developer
-feature: Sales Channel, Install
+feature: Sales Channels, Install
 exl-id: 7c4ccd9e-ae32-4511-8d1e-baa690604612
 ---
 

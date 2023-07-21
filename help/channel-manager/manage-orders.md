@@ -1,7 +1,7 @@
 ---
 title: 'View and Manage Orders from [!DNL Channel Manager]'
 description: 'View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.'
-feature: Sales Channels, Orders
+feature: Sales Channelss, Orders
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
 # View and Track Orders from [!DNL Channel Manager]

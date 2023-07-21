@@ -1,7 +1,7 @@
 ---
 title: Connect Listings to Walmart
 description: 'Connect listings for [!DNL Commerce] products to [!DNL Walmart Marketplace]to begin selling.'
-feature: Sales Channels, Integration, Products, External Tools and Services
+feature: Sales Channelss, Integration, Products, Tools and External Services
 exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 ---
 # Connect Listings to Walmart
