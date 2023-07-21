@@ -1,6 +1,8 @@
 ---
 title: '[!DNL Walmart] Requirements'
 description: 'Verify that you have the required [!DNL Walmart Marketplace]information and resources to integrate with Channel Manager.'
+role: Leader, Admin, Developer
+feature: Sales Channel, Install, User Account, External Tools and Services
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
 # [!DNL Walmart] Requirements

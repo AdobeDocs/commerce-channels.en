@@ -1,6 +1,8 @@
 ---
 title: 'Install [!DNL Channel Manager]'
 description: 'Install the[!DNL Channel Manager] extension.'
+role: Admin, Developer
+feature: Sales Channel, Install
 exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to [!DNL Channel Manager]'
 description: 'Learn how to install and use [!DNL Channel Manager] to integrate Adobe Commerce and Magento Open Source stores with the Walmart Marketplace and create a sales channel to manage marketplace listings, pricing, inventory, and sales seamlessly from your Commerce Admin.'
-role: User
+role: Leader, Admin, User
 level: Intermediate
 exl-id: 91265973-d2ad-4925-aa10-260d7e186f20
 ---

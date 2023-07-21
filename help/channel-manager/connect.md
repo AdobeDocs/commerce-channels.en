@@ -1,8 +1,9 @@
 ---
 title: 'Connect to [!DNL Commerce] Services'
 description: 'Connect Channel Manager to [!DNL Commerce] services to enable data synchronization and communication between the [!DNL Commerce] instance, Channel Manager, and other supporting services.'
-role: User
+role: Admin, Developer
 level: Intermediate
+feature: Sales Channel, Install, Integration
 exl-id: 97da2142-ecef-44dc-91d8-5dc55c713d31
 ---
 
