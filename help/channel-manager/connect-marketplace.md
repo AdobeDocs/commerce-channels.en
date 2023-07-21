@@ -3,7 +3,7 @@ title: 'Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]'
 description: "Connect a Commerce store view to [!DNL Walmart Marketplace] to create the sales channel to manage Commerce product listings, inventory, price, and orders for Walmart Marketplace sales."
 exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 role: Admin, Developer
-feature: Sales Channelss, Install, Integration
+feature: Sales Channels, Install, Integration
 ---
 # Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]
 

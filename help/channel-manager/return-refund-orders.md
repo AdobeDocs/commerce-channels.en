@@ -1,7 +1,7 @@
 ---
 title: Return and Refund Orders
 description: Instructions for issuing full or partial refunds for return requests received from [!DNL Walmart Marketplace] from [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
-feature: Sales Channelss, Orders, Shipping/Delivery, Customer Service
+feature: Sales Channels, Orders, Shipping/Delivery, Customer Service
 exl-id: 45617011-4add-444c-819b-6bb4164d03e4
 ---
 # Return and Refund Orders

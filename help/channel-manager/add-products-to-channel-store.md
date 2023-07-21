@@ -1,7 +1,7 @@
 ---
 title: Add Products to Channel Manager
 description: 'Create product assortment for [!DNL Walmart Marketplace] sales by adding products from the catalog to the sales channel configured in Channel Manager.'
-feature: Sales Channelss, Merchandising, Products
+feature: Sales Channels, Merchandising, Products
 exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 ---
 
