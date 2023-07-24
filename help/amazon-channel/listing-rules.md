@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - [!UICONTROL Listing Rules]
 description: Use listing rules determine the Commerce catalog products that are published as Amazon Marketplace listings.
+feature: Sales Channels, Products
 exl-id: b28a625b-64cf-4119-98bb-f1ea33043c8f
 ---
 # [!UICONTROL Listing Rules]
@@ -31,10 +32,10 @@ Changes to quantity and eligibility status impact all listings that share the Am
 
 See [Example: Define a Condition](./ob-define-condition-example.md).
 
-|Field|Description|
-|---|---|
-|[!UICONTROL Websites]|The available options depend on the [websites](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in Amazon sales channel. |
-|[!UICONTROL Conditions]|Used to define the [!DNL Commerce] attributes for product eligibility within your Amazon region. See [Example: Define a Condition](./ob-define-condition-example.md). |
+| Field                   | Description                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Websites]   | The available options depend on the [websites](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in Amazon sales channel. |
+| [!UICONTROL Conditions] | Used to define the [!DNL Commerce] attributes for product eligibility within your Amazon region. See [Example: Define a Condition](./ob-define-condition-example.md).                                                                                                                                                                                                                 |
 
 ## Conditions workspace
 
@@ -87,15 +88,15 @@ Your potential Amazon listings populate on the _[!UICONTROL Listing Preview]_ pa
 
 ### Listing preview records
 
-|Field|Description|
-|--- |--- |
-|[!UICONTROL Product ID] |The unique, sequential number that is assigned to a [!DNL Commerce] catalog product when it is added. |
-|[!UICONTROL Thumbnail] |Shows a thumbnail of the main product image. |
-|[!UICONTROL Name] |The name of the product, managed in the [!DNL Commerce] [products grid](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/products-list.html). |
-|[!UICONTROL Type] |The type of product, managed in the [!DNL Commerce] products grid. |
-|[!UICONTROL Attribute Set] |The name of the attribute set used as a template for the product, managed in the [!DNL Commerce] products grid. |
-|[!UICONTROL SKU] |The unique Stock Keeping Unit that is assigned to the product, managed in the [!DNL Commerce] products grid. |
-|[!UICONTROL Visibility] |Indicates where the product is visible, managed in the [!DNL Commerce] products grid. Options:<ul><li>`Not visible individually`</li><li>`Catalog`</li><li>`Search`</li><li>`Catalog, Search`</li></ul>|
-|Status |Indicates the status of the product, managed in the [!DNL Commerce] products grid. Options: `Enabled` / `Disabled` |
+| Field                      | Description                                                                                                                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Product ID]    | The unique, sequential number that is assigned to a [!DNL Commerce] catalog product when it is added.                                                                                                   |
+| [!UICONTROL Thumbnail]     | Shows a thumbnail of the main product image.                                                                                                                                                            |
+| [!UICONTROL Name]          | The name of the product, managed in the [!DNL Commerce] [products grid](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/products-list.html).                                    |
+| [!UICONTROL Type]          | The type of product, managed in the [!DNL Commerce] products grid.                                                                                                                                      |
+| [!UICONTROL Attribute Set] | The name of the attribute set used as a template for the product, managed in the [!DNL Commerce] products grid.                                                                                         |
+| [!UICONTROL SKU]           | The unique Stock Keeping Unit that is assigned to the product, managed in the [!DNL Commerce] products grid.                                                                                            |
+| [!UICONTROL Visibility]    | Indicates where the product is visible, managed in the [!DNL Commerce] products grid. Options:<ul><li>`Not visible individually`</li><li>`Catalog`</li><li>`Search`</li><li>`Catalog, Search`</li></ul> |
+| Status                     | Indicates the status of the product, managed in the [!DNL Commerce] products grid. Options: `Enabled` / `Disabled`                                                                                      |
 
 ![Listing preview workflow](assets/listing-preview-flowchart.png){width="500" zoomable="yes"}

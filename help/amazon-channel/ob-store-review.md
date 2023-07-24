@@ -1,6 +1,7 @@
 ---
 title: Review store settings for Amazon sales channel
 description: After you complete the Amazon sales channel onboarding process, review and update the [!DNL Commerce] store settings.
+feature: Sales Channels, Configuration
 exl-id: 7f1ea19b-f473-4a8e-9a91-b06d6b733664
 ---
 # Review store settings for Amazon sales channel

@@ -1,6 +1,8 @@
 ---
 title: Add or verify the Amazon API key
 description: In your Commerce configuration, the validated Amazon API key allows you to integrate your stores with your Amazon Seller account.
+role: Admin, Developer
+feature: Sales Channels, Integration, Tools and External Services
 exl-id: 2257b64d-309d-4efd-ba79-6e0cdeed63cb
 ---
 # Add or verify the Amazon API key

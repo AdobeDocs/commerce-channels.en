@@ -1,6 +1,8 @@
 ---
 title: Create Commerce attributes for Amazon
 description: Before completing the Amazon sales channel onboarding process, make sure you have the needed [!UICONTROL Commerce] product attributes.
+role: Admin
+feature: Sales Channels, Products, Configuration
 exl-id: eebad794-c171-40a3-aa24-d5509e2b5797
 ---
 # Create Commerce attributes for Amazon

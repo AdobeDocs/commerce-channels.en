@@ -1,6 +1,7 @@
 ---
 title: Manually publish Amazon listings
 description: WHen needed, you can manually publish your ended Amazon listings from your Commerce Admin.
+feature: Sales Channels, Products, Merchandising
 exl-id: ca3f674e-d93a-44a6-8c06-b417694a0f1e
 ---
 # Manually publish Amazon listings

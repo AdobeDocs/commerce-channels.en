@@ -1,6 +1,8 @@
 ---
 title: Pre-setup tasks for [!DNL Amazon sales channel]
 description: Review the required tasks to be completed before integrating your Adobe Commerce or Magento Open Source store in Amazon Sales Channel.
+role: Admin, Developer
+feature: Sales Channel, Install, Configuration
 exl-id: eb9d9136-925f-4b20-9d65-b166173f434b
 ---
 # Pre-setup tasks for [!DNL Amazon sales channel]

@@ -1,6 +1,7 @@
 ---
 title: Create an Alias Amazon Seller SKU
 description: You can use the Alias Amazon Seller SKU to create multi-regional Amazon listings from your Commerce catalog products.
+feature: Sales Channels, Products
 exl-id: df3cafbf-58df-4c93-9e63-20feb6f4e7ed
 ---
 # Create an Alias Amazon Seller SKU
@@ -69,8 +70,8 @@ View the listing on the _[!UICONTROL Product Listings]_ page (_[!UICONTROL Inact
 
 ![create an Alias Amazon Seller SKU](assets/amazon-alias-sku-create.png){width="600" zoomable="yes"}
 
-|Field|Description|
-|--- |--- |
-|[!UICONTROL Assign New Seller SKU]|Enter a new, unique alphanumeric value to be linked to the original Amazon Seller SKU. This number is only used by Amazon sales channel to match to your catalog product. You can use any SKU value, but the value can only be used once in your catalog. |
-|[!UICONTROL Assign New ASIN]|Enter the ASIN value for the listing to which you want to match your catalog product. Only modify this field when matching a single catalog product to the ASIN for another listing for the same product. This value must match the ASIN assigned by Amazon or the listing will not be rejected by Amazon. |
-|[!UICONTROL Remove Existing Seller SKU]|Options:<ul><li>**[!UICONTROL Yes]** - Choose to delete the listing and create a listing using the new information provided. The new listing appears in the _[!UICONTROL Active]_ tab, and the old listing moves to the _Ended_ tab.</li><li>**[!UICONTROL No]** - Choose to create another listing and keep the old listing unchanged. Both listings appear in the Active tab after the new listing is created.</li></ul> |
+| Field                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Assign New Seller SKU]      | Enter a new, unique alphanumeric value to be linked to the original Amazon Seller SKU. This number is only used by Amazon sales channel to match to your catalog product. You can use any SKU value, but the value can only be used once in your catalog.                                                                                                                                                                  |
+| [!UICONTROL Assign New ASIN]            | Enter the ASIN value for the listing to which you want to match your catalog product. Only modify this field when matching a single catalog product to the ASIN for another listing for the same product. This value must match the ASIN assigned by Amazon or the listing will not be rejected by Amazon.                                                                                                                 |
+| [!UICONTROL Remove Existing Seller SKU] | Options:<ul><li>**[!UICONTROL Yes]** - Choose to delete the listing and create a listing using the new information provided. The new listing appears in the _[!UICONTROL Active]_ tab, and the old listing moves to the _Ended_ tab.</li><li>**[!UICONTROL No]** - Choose to create another listing and keep the old listing unchanged. Both listings appear in the Active tab after the new listing is created.</li></ul> |

@@ -1,6 +1,8 @@
 ---
 title: Create an Amazon listing rule
 description: While completing the Amazon sales channel onboarding process, create the initial listing rules for generating Amazon listings for your [!DNL Commerce] products.
+role: Admin
+feature: Sales Channels, Products, Merchandising, Configuration
 exl-id: b318823e-a726-4a59-b117-9838562c7d8b
 ---
 # Create an Amazon listing rule

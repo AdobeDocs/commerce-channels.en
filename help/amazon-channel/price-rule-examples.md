@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - Price rule examples
 description: To help you design your pricing rules for Amazon listings, review these examples based on common scenarios.
+feature: Sales Channels, Price Rules
 exl-id: 4d9717ba-4ad6-468d-b4ca-99f8620b60b4
 ---
 # Price rule examples
@@ -15,24 +16,24 @@ If **[!UICONTROL Discard Subsequent Rules]** is set to `Yes`, the rules with low
 
 For example, let's say there are three pricing rules:
 
-| Example|Rule Name | Priority | Discard Subsequent Rule |
-|----------|----|----|----|
-| 1| 10% off sale products | 1 | No |
-| 2| $2 off sale products | 2 | Yes |
-| 3| 5% off all products | 3 | No |
+| Example | Rule Name             | Priority | Discard Subsequent Rule |
+|---------|-----------------------|----------|-------------------------|
+| 1       | 10% off sale products | 1        | No                      |
+| 2       | $2 off sale products  | 2        | Yes                     |
+| 3       | 5% off all products   | 3        | No                      |
 
 In this scenario, rule #1 and #2 apply to the eligible products. Rule #3 only applies to eligible products not contained within rule #2 because it has a lower priority than example #2 and **[!UICONTROL Discard Subsequent Rules]** is set to `Yes`. So, the eligible products in the sale category would receive a 10% discount and $2 off the Amazon listing price.
 
 ### Applying two standard price rules
 
-| Field | Setting - Rule 1 | Setting - Rule 2 |
-|----------|----|----|
-| [!UICONTROL Rule Name] | Rule-1 | Rule-2 |
-| [!UICONTROL Priority] | 1 | 2 |
-| [!UICONTROL Rule Type] | Standard price rule | Standard price rule |
-| [!UICONTROL Price action] | Decrease By | Decrease By |
-| [!UICONTROL Apply] | Apply as percentage | Apply as fixed amount |
-| [!UICONTROL Adjustment Amount] | 10 | 10 |
+| Field                          | Setting - Rule 1    | Setting - Rule 2      |
+|--------------------------------|---------------------|-----------------------|
+| [!UICONTROL Rule Name]         | Rule-1              | Rule-2                |
+| [!UICONTROL Priority]          | 1                   | 2                     |
+| [!UICONTROL Rule Type]         | Standard price rule | Standard price rule   |
+| [!UICONTROL Price action]      | Decrease By         | Decrease By           |
+| [!UICONTROL Apply]             | Apply as percentage | Apply as fixed amount |
+| [!UICONTROL Adjustment Amount] | 10                  | 10                    |
 
 #### Product 1
 
@@ -58,15 +59,15 @@ The final price after rule 1 and rule 2 are applied: $32.98
 
 ### Buy Box price with Floor Price Source = Price
 
-| Field | Setting |
-|----------|----|
-| [!UICONTROL Rule Name] | Rule-1 |
-| [!UICONTROL Priority] | 1 |
-| [!UICONTROL Rule Type] | Intelligent repricing rule |
-| [!UICONTROL Competitor Price Source] | Use "Buy Box" Price |
-| [!UICONTROL Price Action] | Match Competitor Price |
-| [!UICONTROL Floor Price Source] | Price |
-| [!UICONTROL Floor Price Action] | Match |
+| Field                                | Setting                    |
+|--------------------------------------|----------------------------|
+| [!UICONTROL Rule Name]               | Rule-1                     |
+| [!UICONTROL Priority]                | 1                          |
+| [!UICONTROL Rule Type]               | Intelligent repricing rule |
+| [!UICONTROL Competitor Price Source] | Use "Buy Box" Price        |
+| [!UICONTROL Price Action]            | Match Competitor Price     |
+| [!UICONTROL Floor Price Source]      | Price                      |
+| [!UICONTROL Floor Price Action]      | Match                      |
 
 #### Product 1
 
@@ -90,17 +91,17 @@ The final price after the rule is applied: $10
 
 ### Buy Box price with Floor Price Source = Price and a 20% price decrease
 
-| Field | Setting |
-|----------|----|
-| [!UICONTROL Rule Name] | Rule-1 |
-| [!UICONTROL Priority] | 1 |
-| [!UICONTROL Rule Type] | Intelligent repricing rule |
-| [!UICONTROL Competitor Price Source] | Use "Buy Box" Price |
-| [!UICONTROL Price Action] | Match Competitor Price |
-| [!UICONTROL Floor Price Source] | Price |
-| [!UICONTROL Floor Price Action] | Decrease By |
-| [!UICONTROL Apply] | Apply as a percentage |
-| [!UICONTROL Floor Adjustment Amount] | 20 |
+| Field                                | Setting                    |
+|--------------------------------------|----------------------------|
+| [!UICONTROL Rule Name]               | Rule-1                     |
+| [!UICONTROL Priority]                | 1                          |
+| [!UICONTROL Rule Type]               | Intelligent repricing rule |
+| [!UICONTROL Competitor Price Source] | Use "Buy Box" Price        |
+| [!UICONTROL Price Action]            | Match Competitor Price     |
+| [!UICONTROL Floor Price Source]      | Price                      |
+| [!UICONTROL Floor Price Action]      | Decrease By                |
+| [!UICONTROL Apply]                   | Apply as a percentage      |
+| [!UICONTROL Floor Adjustment Amount] | 20                         |
 
 #### Product 1
 
@@ -140,24 +141,24 @@ The final price after the rule is applied: $15
 
 ### Lowest Price with all competitor's prices and use all competitor's product conditions
 
-| Field | Setting |
-|----------|-----|
-| [!UICONTROL Rule Name] | Rule-1 |
-| [!UICONTROL Priority] | 1 |
-| [!UICONTROL Rule Type] | Intelligent repricing rule |
-| [!UICONTROL Competitor Price Source] | Use Lowest Competitor Price |
-| [!UICONTROL Minimum Positive Feedback] | All Competitor Prices |
-| [!UICONTROL Conditional Variance] | Use all competitor's product conditions |
-| [!UICONTROL Price Action] | Match Competitor Price |
-| [!UICONTROL Floor Price Source] | Price |
-| [!UICONTROL Floor Price Action] | Match |
+| Field                                  | Setting                                 |
+|----------------------------------------|-----------------------------------------|
+| [!UICONTROL Rule Name]                 | Rule-1                                  |
+| [!UICONTROL Priority]                  | 1                                       |
+| [!UICONTROL Rule Type]                 | Intelligent repricing rule              |
+| [!UICONTROL Competitor Price Source]   | Use Lowest Competitor Price             |
+| [!UICONTROL Minimum Positive Feedback] | All Competitor Prices                   |
+| [!UICONTROL Conditional Variance]      | Use all competitor's product conditions |
+| [!UICONTROL Price Action]              | Match Competitor Price                  |
+| [!UICONTROL Floor Price Source]        | Price                                   |
+| [!UICONTROL Floor Price Action]        | Match                                   |
 
-| Price | Condition |
-|----------|----|
-| $17 | New |
-| $15 | New |
-| $14 | Used; Very Good |
-| $13 | Used; Good |
+| Price | Condition       |
+|-------|-----------------|
+| $17   | New             |
+| $15   | New             |
+| $14   | Used; Very Good |
+| $13   | Used; Good      |
 
 #### Product 1
 
@@ -181,11 +182,11 @@ The final price after the rule is applied: $13
 
 ### Intelligent repricing rule combining ceiling price, currency conversion, and VAT
 
-| Field | Setting |
-|----------|-----|
-| [!UICONTROL VAT] | 10% |
-| [!UICONTROL Ceiling price source] | $10 |
-| [!UICONTROL Currency conversion] | 1.25Euro:1USD |
+| Field                             | Setting       |
+|-----------------------------------|---------------|
+| [!UICONTROL VAT]                  | 10%           |
+| [!UICONTROL Ceiling price source] | $10           |
+| [!UICONTROL Currency conversion]  | 1.25Euro:1USD |
 
 [Ceiling price](./optional-ceiling-price.md) in the European (VAT) market: $10 x 1.25 = $12.50
 
@@ -197,12 +198,12 @@ Final price after VAT: $12.50 x (1.1) = $13.75
 
 #### Intelligent pricing rule (from previous example)
 
-| Field | Setting |
-|----------|----|
-| Priority | 1 |
-| VAT | 10% |
-| Ceiling price source | $10 |
-| Currency conversion | 1.25Euro:1USD |
+| Field                | Setting       |
+|----------------------|---------------|
+| Priority             | 1             |
+| VAT                  | 10%           |
+| Ceiling price source | $10           |
+| Currency conversion  | 1.25Euro:1USD |
 
 [Ceiling price](./optional-ceiling-price.md) in the European (VAT) market: $10 x 1.25 = $12.50
 
@@ -210,12 +211,12 @@ Final price after VAT: $12.50 x (1.1) = $13.75
 
 #### Standard pricing rule
 
-| Field | Setting |
-|----------|-----|
-| [!UICONTROL Priority] | 2 |
-| [!UICONTROL Price Action] | Increase By |
-| [!UICONTROL Apply] | Apply as fixed amount |
-| [!UICONTROL Adjustment Amount] | $5.00 |
+| Field                          | Setting               |
+|--------------------------------|-----------------------|
+| [!UICONTROL Priority]          | 2                     |
+| [!UICONTROL Price Action]      | Increase By           |
+| [!UICONTROL Apply]             | Apply as fixed amount |
+| [!UICONTROL Adjustment Amount] | $5.00                 |
 
 When the [ceiling price](./optional-ceiling-price.md) is hit, the standard pricing rule is applied on top of the intelligent pricing rule.
 
@@ -231,20 +232,20 @@ After running this search based on these parameters, the competitive price comes
 
 From here, there are three different [price rule action](./pricing-rule-actions.md) choices based on this lowest price.
 
-|Field|Description|
-|--- |--- |
-|[!UICONTROL Price Action]|Options:<ul><li>**[!UICONTROL Decrease By]** – This option decreases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**[!UICONTROL Increase By]** – This option increases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**[!UICONTROL Match Competitor Price]** – This option changes your Amazon listing price to match the lowest price based on the parameters. In the example, the Amazon listing price is $25.</li></ul>|
-|[!UICONTROL Apply]|Options: Apply as percentage / Apply as fixed amount|
-|[!UICONTROL Adjustment Amount]|Numerical value to define the percentage or fixed amount for the discount to be applied. <br>These selections result in taking the lowest price and setting it at $0.01 less.|
+| Field                          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Price Action]      | Options:<ul><li>**[!UICONTROL Decrease By]** – This option decreases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**[!UICONTROL Increase By]** – This option increases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**[!UICONTROL Match Competitor Price]** – This option changes your Amazon listing price to match the lowest price based on the parameters. In the example, the Amazon listing price is $25.</li></ul> |
+| [!UICONTROL Apply]             | Options: Apply as percentage / Apply as fixed amount                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [!UICONTROL Adjustment Amount] | Numerical value to define the percentage or fixed amount for the discount to be applied. <br>These selections result in taking the lowest price and setting it at $0.01 less.                                                                                                                                                                                                                                                                                                                                                               |
 
 ### Floor price
 
-| Field | Setting |
-|----------|----|
-| [!UICONTROL Floor Price Source] | Cost = $5 |
-| [!UICONTROL Floor Price Action] | Increase By |
-| [!UICONTROL Apply] | Apply as percentage |
-| [!UICONTROL Floor Adjustment Amount] | 5 |
+| Field                                | Setting             |
+|--------------------------------------|---------------------|
+| [!UICONTROL Floor Price Source]      | Cost = $5           |
+| [!UICONTROL Floor Price Action]      | Increase By         |
+| [!UICONTROL Apply]                   | Apply as percentage |
+| [!UICONTROL Floor Adjustment Amount] | 5                   |
 
 [Floor price](./floor-price.md) calculation = Floor Price Source `$5` x Floor Adjustment Amount `5%` = $5.25
 

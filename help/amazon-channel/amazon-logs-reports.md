@@ -1,6 +1,7 @@
 ---
 title: Logs and store reports for Amazon listings
 description: Use the logs and store reports to see what is happening in your Adobe Commerce or Magento Open Source store and your Amazon Marketplace listings.
+feature: Sales Channels, Logs
 exl-id: 4654f718-d15f-4c3b-b984-ac7b9c29e6c4
 ---
 # Logs and store reports for Amazon listings

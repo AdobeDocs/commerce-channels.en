@@ -1,6 +1,7 @@
 ---
-title: Amazon sales channel - [!UICONTROL Store Integration Settings]
+title: Amazon Sales Channel - [!UICONTROL Store Integration Settings]
 description: After you complete the Amazon sales channel onboarding process, review and configure the store integration settings through the [!UICONTROL Amazon Store] dashboard
+feature: Sales Channels, Integration
 exl-id: 58fc8e62-ce66-497f-8f55-f70aafa8d791
 ---
 # [!UICONTROL Store Integration Settings]

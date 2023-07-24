@@ -1,7 +1,7 @@
 ---
 title: Amazon sales channel - Product listing condition
 description: Use the Product Listing Condition settings to map your Commerce products to an Amazon product condition, such as "New" or "Refurbished".
-redirect_from: /sales-channels/asc/ob-product-listing-condition.html
+feature: Sales Channels, Products, Merchandising
 exl-id: f37ce3cf-7bfc-4dee-931e-a603008a71b8
 ---
 # Product listing condition
@@ -53,11 +53,11 @@ During [Pre-setup tasks](./amazon-pre-setup-tasks.md), you are encouraged to cre
 
 ![Product listing condition](assets/amazon-product-listing-condition.png){width="600" zoomable="yes"}
 
-|Field|Description|
-|---|---|
-|[!UICONTROL Listing Product Condition]|The condition of your product listings. Options: `New` / `Refurbished` / `Used: Like New` / `Used: Very Good` / `Used: Good` / `Used: Acceptable` / `Collectible: Like New` / `Collectible: Very Good` / `Collectible: Good` / `Collectible: Acceptable` / `Assign Condition Using Product Attribute`<br><br>If you sell a single product condition, choose one of the standard Amazon conditions. If your [!DNL Commerce] catalog contains products in various conditions, choose `Assign Condition Using Product Attribute`.|
-|[!UICONTROL Condition Attribute]|The [!DNL Commerce] attribute that defines the condition for your products. Select the Magneto attribute you created to map to the Amazon condition attribute. In the [Pre-Setup Tasks example](./ob-creating-magento-attributes.md) recommends naming it as `Amazon Condition`. When chosen, additional fields appear for mapping the standard Amazon conditions.|
-|[!UICONTROL Additional Condition fields]|For each of the standard Amazon conditions, choose the corresponding condition. The options are the condition labels you added when you [created your Amazon condition attribute](./ob-creating-magento-attributes.md).<br><br>If you have products in the `Used` or `Collectible` condition but you do not distinguish further, you can map to a single `Used` or `Collectible` Amazon condition and leave the others blank. This method maps all `Used` or `Collectible` conditions to the single Amazon Used or Collectible condition.|
+| Field                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Listing Product Condition]   | The condition of your product listings. Options: `New` / `Refurbished` / `Used: Like New` / `Used: Very Good` / `Used: Good` / `Used: Acceptable` / `Collectible: Like New` / `Collectible: Very Good` / `Collectible: Good` / `Collectible: Acceptable` / `Assign Condition Using Product Attribute`<br><br>If you sell a single product condition, choose one of the standard Amazon conditions. If your [!DNL Commerce] catalog contains products in various conditions, choose `Assign Condition Using Product Attribute`.            |
+| [!UICONTROL Condition Attribute]         | The [!DNL Commerce] attribute that defines the condition for your products. Select the Magneto attribute you created to map to the Amazon condition attribute. In the [Pre-Setup Tasks example](./ob-creating-magento-attributes.md) recommends naming it as `Amazon Condition`. When chosen, additional fields appear for mapping the standard Amazon conditions.                                                                                                                                                                        |
+| [!UICONTROL Additional Condition fields] | For each of the standard Amazon conditions, choose the corresponding condition. The options are the condition labels you added when you [created your Amazon condition attribute](./ob-creating-magento-attributes.md).<br><br>If you have products in the `Used` or `Collectible` condition but you do not distinguish further, you can map to a single `Used` or `Collectible` Amazon condition and leave the others blank. This method maps all `Used` or `Collectible` conditions to the single Amazon Used or Collectible condition. |
 
 **Quick Access** - [!UICONTROL Listing Settings] sections
 

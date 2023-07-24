@@ -1,6 +1,9 @@
 ---
 title: "[!DNL Buy Box] competitor pricing for Amazon listings"
 description: Amazon Sales Channel provides the [!UICONTROL Buy Box Competitor Pricing] tab to help you understand the price positioning of your competitors on Amazon.
+role: Admin
+level: Intermediate
+feature: Sales Channels, B2B, Tools and External Services, Merchandising, Integration
 exl-id: 2d03565a-5246-435a-8da8-55b7e67c4ad8
 ---
 # [!DNL Buy Box] competitor pricing for Amazon listings
@@ -27,12 +30,12 @@ The _[!UICONTROL Buy Box Competitor Pricing]_ tab  on the _[!UICONTROL Product L
 
    Shows the merchant and price whose listing holds the [[!DNL Buy Box]](./buy-box-competitor-pricing.md) on Amazon.
 
-|Column|Description|
-|--- |--- |
-|[!UICONTROL ASIN]|A unique block of 10 letters and/or numbers that identify items.<br><br>For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to your catalog. You can find an item's ASIN on the product detail page along with additional details relating to the item (such as size, number of pages, or number of discs). |
-|[!UICONTROL Is Seller]|Indicates if the seller has won the Buy Box position for the listing. |
-|[!UICONTROL Condition]|The [condition](./product-listing-condition.md) of the product. |
-|[!UICONTROL Listing Price]|The price used for your Amazon listings. |
-|[!UICONTROL Shipping Price]|The cost to ship the product. |
-|[!UICONTROL Landed Price]|The listing price for the product plus its shipping price. |
-|[!UICONTROL Last Updated]|The date the Buy Box pricing was last updated. |
+| Column                      | Description                                                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL ASIN]           | A unique block of 10 letters and/or numbers that identify items.<br><br>For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to your catalog. You can find an item's ASIN on the product detail page along with additional details relating to the item (such as size, number of pages, or number of discs). |
+| [!UICONTROL Is Seller]      | Indicates if the seller has won the Buy Box position for the listing.                                                                                                                                                                                                                                                                                                                  |
+| [!UICONTROL Condition]      | The [condition](./product-listing-condition.md) of the product.                                                                                                                                                                                                                                                                                                                        |
+| [!UICONTROL Listing Price]  | The price used for your Amazon listings.                                                                                                                                                                                                                                                                                                                                               |
+| [!UICONTROL Shipping Price] | The cost to ship the product.                                                                                                                                                                                                                                                                                                                                                          |
+| [!UICONTROL Landed Price]   | The listing price for the product plus its shipping price.                                                                                                                                                                                                                                                                                                                             |
+| [!UICONTROL Last Updated]   | The date the Buy Box pricing was last updated.                                                                                                                                                                                                                                                                                                                                         |

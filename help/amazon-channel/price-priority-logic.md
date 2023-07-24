@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - Price priority logic
 description: Amazon sales channel applies prioritization in determining the published price for an Amazon listing.
+feature: Sales Channels, Price Rules
 exl-id: 3aa5ce5e-bb8b-4f9e-ae95-d961565474bd
 ---
 # Price priority logic
@@ -17,11 +18,11 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 ## Example 1
 
-||Website Priority|Price (Website)|Use Default|
-|---|---|---|---|
-|Default|0|$31.99|--|
-|Store 1|1|$24.99|No|
-|Store 2|2|$27.99|Yes|
+|         | Website Priority | Price (Website) | Use Default |
+|---------|------------------|-----------------|-------------|
+| Default | 0                | $31.99          | --          |
+| Store 1 | 1                | $24.99          | No          |
+| Store 2 | 2                | $27.99          | Yes         |
 
 - The **[!UICONTROL Magento Price Source]** (defined in your [Listing Price](./listing-price.md) is set to the `Price` attribute.
 - Look at the website with the highest website priority, which is Store 1 (defined by the [Sort Order](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-views.html) value).
@@ -29,11 +30,11 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 ## Example 2
 
-||Website Priority|Price Website|Use Default|
-|---|---|---|---|
-|Default|0|$31.99|--|
-|Store 1|1|$24.99|Yes|
-|Store 2|2|$27.99|No|
+|         | Website Priority | Price Website | Use Default |
+|---------|------------------|---------------|-------------|
+| Default | 0                | $31.99        | --          |
+| Store 1 | 1                | $24.99        | Yes         |
+| Store 2 | 2                | $27.99        | No          |
 
 - The **[!UICONTROL Magento Price Source]** (defined in your [Listing Price](./listing-price.md) is set to the `Price` attribute.
 - Look at the website with the highest website priority, which is Store 1 (defined by the [sort order](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-views.html) value).
@@ -42,11 +43,11 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 ## Example 3
 
-||Website Priority|Price Website|Use Default|
-|---|---|---|---|
-|Default|0|$31.99|$30.00|
-|Store 1|1|$24.99|--|
-|Store 2|2|$27.99|$20.00|
+|         | Website Priority | Price Website | Use Default |
+|---------|------------------|---------------|-------------|
+| Default | 0                | $31.99        | $30.00      |
+| Store 1 | 1                | $24.99        | --          |
+| Store 2 | 2                | $27.99        | $20.00      |
 
 This example adds the non-price value, which is used if you select another value for the _[!UICONTROL Magento Price Source_] (defined in your [Listing Price](./listing-price.md) settings). The non-price value always uses price as the fallback price.
 

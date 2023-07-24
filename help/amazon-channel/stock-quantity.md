@@ -1,6 +1,7 @@
 ---
-title: Amazon sales channel - [!UICONTROL Stock/Quantity]
+title: Amazon Sales Channel - [!UICONTROL Stock/Quantity]
 description: To control syncing of product quantity details from your Commerce store to your [!DNL Amazon Seller Central] account, update the Stock/Quantity settings.
+feature: Sales Channels, Inventory 
 exl-id: a8b7ab6c-393c-43c6-b5ef-68845177edff
 ---
 # [!UICONTROL Stock/Quantity]
@@ -37,11 +38,11 @@ Quantity is a regional attribute and based on the **[!UICONTROL Amazon Marketpla
 
 ![Stock/quantity settings](assets/amazon-stock-quantity.png){width="600" zoomable="yes"}
 
-|Field|Description|
-|---|---|
-|[!UICONTROL Out-of-Stock Threshold]|Enter a numerical value for the lowest quantity of a product in order to keep the product eligible for its Amazon listing (default is `0`).<br><br>If your [!DNL Commerce] product stock goes lower than this number, the respective Amazon listing is ineligible for sales through Amazon.|
-|[!UICONTROL Maximum Listed Quantity]|Enter a numerical value for the quantity you want to show in your Amazon listing.<br><br>When an item is sold, the Amazon listing republishes with the quantity entered here. This setting is typically used when you do not manage product inventory.<br><br>For example, you enter the Maximum Listed Quantity value as `10`. Your actual quantity for a product is `80`. Because you have set this value at `10`, the Amazon listing always displays a quantity available of `10`. The quantity available is always displayed with the value defined, even when your stock quantity is lower.|
-|[!UICONTROL "Do Not Manage Stock" Quantity]|Enter a value for your display quantity for your Amazon listings.<br><br>Amazon requires that you publish an available quantity. For [!DNL Commerce] products that are set to not manage stock but you want to list them on Amazon, the listing is published with available quantity of the value entered here.|
+| Field                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Out-of-Stock Threshold]         | Enter a numerical value for the lowest quantity of a product in order to keep the product eligible for its Amazon listing (default is `0`).<br><br>If your [!DNL Commerce] product stock goes lower than this number, the respective Amazon listing is ineligible for sales through Amazon.                                                                                                                                                                                                                                                                                                      |
+| [!UICONTROL Maximum Listed Quantity]        | Enter a numerical value for the quantity you want to show in your Amazon listing.<br><br>When an item is sold, the Amazon listing republishes with the quantity entered here. This setting is typically used when you do not manage product inventory.<br><br>For example, you enter the Maximum Listed Quantity value as `10`. Your actual quantity for a product is `80`. Because you have set this value at `10`, the Amazon listing always displays a quantity available of `10`. The quantity available is always displayed with the value defined, even when your stock quantity is lower. |
+| [!UICONTROL "Do Not Manage Stock" Quantity] | Enter a value for your display quantity for your Amazon listings.<br><br>Amazon requires that you publish an available quantity. For [!DNL Commerce] products that are set to not manage stock but you want to list them on Amazon, the listing is published with available quantity of the value entered here.                                                                                                                                                                                                                                                                                  |
 
 **Quick Access** - [!UICONTROL Listing Settings] sections
 
