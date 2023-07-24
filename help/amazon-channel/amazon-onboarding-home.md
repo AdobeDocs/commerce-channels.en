@@ -11,7 +11,7 @@ This section describes the pre-setup tasks, steps for onboarding, and some key c
 
 The [!DNL Amazon Sales Channel] extension supports multiple Amazon stores. For a single [!DNL Amazon Seller Central] account that operates in the Amazon U.S./Canada/Mexico region, create three Amazon stores (one each for U.S. sales, Mexico sales, and Canada sales). Each of the three stores defines the marketplace country during its creation. If you have more than one [!DNL Amazon Seller Central] account, you could potentially have up to three Amazon stores for each of your [!DNL Amazon Seller Central] accounts. If you also sell in the U.K., you would have a fourth Amazon store.
 
->[!TIP]U
+>[!TIP]
 >
 >A [Professional Seller account](https://sell.amazon.com/){target="_blank"} on [!DNL Amazon Seller Central] in the North America or European (UK) region is required. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.<br><br>
 >Onboarding is simple---create your store and then connect it to your [!DNL Amazon Seller Central] account.
