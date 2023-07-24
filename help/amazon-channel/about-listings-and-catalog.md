@@ -2,7 +2,7 @@
 title: Amazon and the Commerce catalog
 description: The Amazon sales channel imports your Amazon listings into your Commerce backend, and continually syncs with products and sales.
 role: Leader, Admin, User
-feature: Sales Channels, Integration, Tools and External Services, Merchandising, Catalog
+feature: Sales Channels, Integration, Tools and External Services, Merchandising, Catalogs
 exl-id: 659c9830-0a1d-4a0d-bb9c-afb609c0fbba
 ---
 # Amazon and the [!DNL Commerce] Catalog

@@ -1,7 +1,7 @@
 ---
 title: Catalog search for Amazon listings
 description: To set the attribute matching that helps to map eligible Commerce catalog products with Amazon listings, update the Catalog Search settings.
-feature: Sales Channels, Search, Catalog, Products, Configuration
+feature: Sales Channels, Search, Catalogs, Products, Configuration
 exl-id: 9fcaa924-cba3-498f-8e21-1a1f91b1ad04
 ---
 # Catalog search for Amazon listings

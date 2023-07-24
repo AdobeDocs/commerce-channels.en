@@ -1,7 +1,7 @@
 ---
 title: Create and edit attributes for Amazon sales channel
 description: Amazon Sales Channel provides the Attributes view to help you review the current Amazon attributes and linked Commerce attributes.
-role: Sales Channels, Products, Configuration
+feature: Sales Channels, Product, Configuration
 exl-id: 3cd5fb7e-68a3-45fd-8f50-72d3cc0244b5
 ---
 # Create and edit attributes

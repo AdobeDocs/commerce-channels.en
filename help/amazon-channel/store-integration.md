@@ -2,7 +2,7 @@
 title: Store integration with an [!DNL Amazon Seller Account]
 description: Before you start the onboarding process, you must create (add) an Amazon Sales Channel store and connect it to your Amazon Seller Account.
 role: Admin, Developer
-feature: Sales Channel, Configuration, Integration, Tools and External Services
+feature: Sales Channels, Configuration, Integration, Tools and External Services
 exl-id: ea79e91d-7d92-4992-a921-7ac7632a0519
 ---
 # Store integration with an [!DNL Amazon Seller Account]

@@ -1,7 +1,7 @@
 ---
 title: "[!UICONTROL Amazon Stores] view"
 description: Go to the Amazon Stores view to quickly review basic statistics for each of your Amazon stores, and access management options.
-feature: Sales Channel, Storefront
+feature: Sales Channels, Storefront
 exl-id: 1376cd84-da81-4d3b-a5be-218aa802eed6
 ---
 # [!UICONTROL Amazon Stores] view

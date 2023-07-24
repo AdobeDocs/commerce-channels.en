@@ -2,7 +2,7 @@
 title: Default store settings for Amazon listings
 description: Modify the default Commerce settings to customize the Amazon Sales Channel for your store.
 role: Admin
-feature: Sales Channel, Integration, Configuration
+feature: Sales Channels, Integration, Configuration
 exl-id: 368e5e8e-2bf9-4f9c-86c6-6d375f8a8720
 ---
 # Default store settings for Amazon listings
