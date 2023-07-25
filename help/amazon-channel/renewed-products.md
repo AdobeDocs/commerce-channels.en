@@ -1,6 +1,7 @@
 ---
-title: Amazon sales channel - Renewed products 
+title: Amazon sales channel - Renewed products
 description: If your Seller Central account is registered for the Renewed Program,  you can manage your renewed listings in Amazon Sales Channel.
+feature: Sales Channels, Products
 exl-id: 1f828893-ca56-4457-bf8f-8e2d056515e8
 ---
 # Renewed Products

@@ -1,6 +1,7 @@
 ---
 title: '[!DNL Amazon Sales Channel] release notes'
 description: Review the release notes for information about all [!DNL Amazon Sales Channel] releases.
+feature: Sales Channels, Release Notes
 exl-id: 792782e0-9097-42f7-9fc0-509ece02e407
 ---
 # [!DNL Amazon Sales Channel] release notes

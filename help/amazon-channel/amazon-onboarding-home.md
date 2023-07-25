@@ -1,7 +1,8 @@
 ---
 title: "Onboard [!DNL Amazon Sales Channel]"
 description: Learn about the pre-setup tasks, onboarding steps, and how Amazon works with Amazon Sales Channel in Adobe Commerce and Magento Open Source.
-redirect_from: /sales-channels/amazon/amazon-onboarding-home.html
+role: Leader, Admin, User
+feature: Sales Channels, Integration, Tools and External Services
 exl-id: 99b64083-36e6-442e-9d20-4676e78ec3ae
 ---
 # Onboard [!DNL Amazon Sales Channel]
@@ -17,9 +18,9 @@ The [!DNL Amazon Sales Channel] extension supports multiple Amazon stores. For a
 >When your store is connected, the Amazon channel attempts to import your Amazon listings and match them to your catalog, based on your [attribute mapping](./attributes-view.md).<br><br>
 >Your Amazon sales channel settings affect your Amazon listings. Your initial listing, pricing, and product settings are defaulted for you. You can modify your [store settings](./ob-store-review.md) (listing, pricing, order, and reporting) after your store is connected to your [!DNL Amazon Seller Central] account.
 
-|Steps|What Happens|
-|--- |--- |
-|[Pre-Setup Tasks](./amazon-pre-setup-tasks.md)|Before you onboard, you must ensure you have an active and approved [!DNL Amazon Seller Central] account. There are also some [!DNL Commerce] requirements and recommendations to complete before onboarding.|
-|[Verify the Amazon API Key](./amazon-verify-api-key.md)|When accessing Amazon sales channel, [!DNL Commerce] automatically checks and validates the Amazon API key you have added in your store configuration. If your API key has not been added or is invalid, you are prompted to [add or update your Amazon API Key](./amazon-verify-api-key.md).|
-|[Store Integration](./store-integration.md)|This step includes creating an Amazon sales channel store and then connecting it to your [!DNL Amazon Seller Central] account. You need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) for this step.|
-|[Create Listing Rule](./ob-create-listing-rule.md)|After you connect your Amazon sales channel store, you are prompted to create a listing rule. This step is encouraged, but you can also skip it to start the listing import process. You can also access your [store and listing settings](./ob-store-review.md) on the store [dashboard](./amazon-store-dashboard.md).|
+| Steps                                                   | What Happens                                                                                                                                                                                                                                                                                                            |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pre-Setup Tasks](./amazon-pre-setup-tasks.md)          | Before you onboard, you must ensure you have an active and approved [!DNL Amazon Seller Central] account. There are also some [!DNL Commerce] requirements and recommendations to complete before onboarding.                                                                                                           |
+| [Verify the Amazon API Key](./amazon-verify-api-key.md) | When accessing Amazon sales channel, [!DNL Commerce] automatically checks and validates the Amazon API key you have added in your store configuration. If your API key has not been added or is invalid, you are prompted to [add or update your Amazon API Key](./amazon-verify-api-key.md).                           |
+| [Store Integration](./store-integration.md)             | This step includes creating an Amazon sales channel store and then connecting it to your [!DNL Amazon Seller Central] account. You need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) for this step.                              |
+| [Create Listing Rule](./ob-create-listing-rule.md)      | After you connect your Amazon sales channel store, you are prompted to create a listing rule. This step is encouraged, but you can also skip it to start the listing import process. You can also access your [store and listing settings](./ob-store-review.md) on the store [dashboard](./amazon-store-dashboard.md). |

@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - [!UICONTROL Lowest Competitor Pricing]
 description: The [!UICONTROL Amazon Sales Channel] provides the [!UICONTROL Lowest Competitor Pricing] tab to help you to understand the price positioning of your competitors on Amazon.
+feature: Sales Channels, Price Rules
 exl-id: 7784d36a-1286-4f92-9f67-b0fef04ad112
 ---
 # [!UICONTROL Lowest Competitor Pricing]
@@ -25,14 +26,14 @@ The _[!UICONTROL Lowest Competitor Pricing]_ tab on the _[!UICONTROL Product Lis
 
    Shows a list of the competing merchants on Amazon and their respective pricing.
 
-|Column|Description|
-|---|---|
-|[!UICONTROL ASIN]|A unique block of 10 letters and/or numbers that identify items.<br><br>For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to your catalog. You can find an item's ASIN on the product detail page along with additional details relating to the item (such as size, number of pages, or number of discs). |
-|[!UICONTROL Condition]|The [condition](./product-listing-condition.md) of the product. |
-|[!UICONTROL Fulfillment Channel]|The method of fulfillment. |
-|[!UICONTROL Listing Price]|The price used for your Amazon listings. |
-|[!UICONTROL Shipping Price]|The cost to ship the product. |
-|[!UICONTROL Landed Price]|The listing price for the product plus its shipping price. |
-|[!UICONTROL Feedback Rating]|The average rating of the competitor from their customers (0 - 100). |
-|[!UICONTROL Feedback Count]|The number of ratings of the competitor from their customers. |
-|[!UICONTROL Last Updated]|The date the competitor pricing was last updated. |
+| Column                           | Description                                                                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL ASIN]                | A unique block of 10 letters and/or numbers that identify items.<br><br>For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to your catalog. You can find an item's ASIN on the product detail page along with additional details relating to the item (such as size, number of pages, or number of discs). |
+| [!UICONTROL Condition]           | The [condition](./product-listing-condition.md) of the product.                                                                                                                                                                                                                                                                                                                        |
+| [!UICONTROL Fulfillment Channel] | The method of fulfillment.                                                                                                                                                                                                                                                                                                                                                             |
+| [!UICONTROL Listing Price]       | The price used for your Amazon listings.                                                                                                                                                                                                                                                                                                                                               |
+| [!UICONTROL Shipping Price]      | The cost to ship the product.                                                                                                                                                                                                                                                                                                                                                          |
+| [!UICONTROL Landed Price]        | The listing price for the product plus its shipping price.                                                                                                                                                                                                                                                                                                                             |
+| [!UICONTROL Feedback Rating]     | The average rating of the competitor from their customers (0 - 100).                                                                                                                                                                                                                                                                                                                   |
+| [!UICONTROL Feedback Count]      | The number of ratings of the competitor from their customers.                                                                                                                                                                                                                                                                                                                          |
+| [!UICONTROL Last Updated]        | The date the competitor pricing was last updated.                                                                                                                                                                                                                                                                                                                                      |

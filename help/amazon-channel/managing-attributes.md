@@ -1,6 +1,7 @@
 ---
 title: Manage attributes for Amazon listings
 description: You can manage the mapping of Commerce product attributes to the Amazon attributes to ensure accurate product information between the systems.
+feature: Sales Channels, Products, Configuration
 exl-id: 6f9ded2d-292e-4b7e-8c10-48f478a4383e
 ---
 # Manage attributes for Amazon listings

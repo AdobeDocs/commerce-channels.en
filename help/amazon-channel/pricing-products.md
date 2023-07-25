@@ -1,7 +1,7 @@
 ---
 title: Manage Amazon pricing
 description: You can set pricing for your Amazon listings to differ from your COmmerce store by using the pricing rules.
-redirect_from: /sales-channels/asc/ob-pricing-rules.html
+feature: Sales Channels, Price Rules
 exl-id: 5c990206-ac72-4ef5-9ed0-ff8d816096eb
 ---
 # Manage Amazon pricing
@@ -51,13 +51,13 @@ Another pricing option is a [price override](./overrides.md), which is set at th
 
 ## Default columns
 
-|Column|Description|
-|---|---|
-|[!UICONTROL Name]|The name of the pricing rule, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|[!UICONTROL Rule Type]|The rule type, as set in [Pricing Rule Actions](./pricing-rule-actions.md) (either Standard price rule or Intelligent repricing rule)|
-|[!UICONTROL Is Active]|Whether the rule is active, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|[!UICONTROL Priority]|The priority over other pricing conditions, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|[!UICONTROL Stop Further Rules Processing]|Indicates if any further price rules are processed on products eligible for this rule, as set in [pricing rule general settings](./pricing-rule-general-settings.md)|
-|[!UICONTROL From Date]|The beginning of the time period in which the rule is active|
-|[!UICONTROL To Date]|The end of the time period in which the rule is active|
-|[!UICONTROL Action]|Lists all actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column. Options: `Edit Price Rule` / `Delete Price Rule`|
+| Column                                     | Description                                                                                                                                                                                          |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Name]                          | The name of the pricing rule, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)                                                                                          |
+| [!UICONTROL Rule Type]                     | The rule type, as set in [Pricing Rule Actions](./pricing-rule-actions.md) (either Standard price rule or Intelligent repricing rule)                                                                |
+| [!UICONTROL Is Active]                     | Whether the rule is active, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)                                                                                            |
+| [!UICONTROL Priority]                      | The priority over other pricing conditions, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)                                                                            |
+| [!UICONTROL Stop Further Rules Processing] | Indicates if any further price rules are processed on products eligible for this rule, as set in [pricing rule general settings](./pricing-rule-general-settings.md)                                 |
+| [!UICONTROL From Date]                     | The beginning of the time period in which the rule is active                                                                                                                                         |
+| [!UICONTROL To Date]                       | The end of the time period in which the rule is active                                                                                                                                               |
+| [!UICONTROL Action]                        | Lists all actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column. Options: `Edit Price Rule` / `Delete Price Rule` |

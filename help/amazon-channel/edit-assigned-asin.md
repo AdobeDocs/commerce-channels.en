@@ -1,6 +1,7 @@
 ---
 title: Edit an assigned ASIN
 description: Change the ASIN value for a Commerce product if it was improperly matched to one of your Amazon listings.
+feature: Sales Channels, Products, Configuration
 exl-id: 2aaeb700-96ac-4a15-9379-f74728d2dcbe
 ---
 # Edit an assigned ASIN

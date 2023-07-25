@@ -2,6 +2,8 @@
 title: Complete Channel Setup
 description: 'After creating the sales channel that connects a [!DNL Commerce] Store view to [!DNL Walmart Marketplace], open the channel and complete the channel configuration. Then, start the process to add products, manage listings, inventory, pricing, and orders from [!DNL Channel Manager].'
 exl-id: 12127e3b-55c1-4db6-98b2-6dc8bdaae139
+role: Admin, User
+feature: Sales Channels, Configuration
 ---
 # Complete Sales Channel Setup
 

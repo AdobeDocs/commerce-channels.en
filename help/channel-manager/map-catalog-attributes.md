@@ -1,6 +1,7 @@
 ---
 title: Map Catalog Attributes
 description: 'Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].'
+feature: Sales Channels, Merchandising, Products
 exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 ---
 # Map Catalog Attributes

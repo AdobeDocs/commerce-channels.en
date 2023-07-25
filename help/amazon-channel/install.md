@@ -1,7 +1,8 @@
 ---
 title: "Install the [!DNL Amazon Sales Channel] extension"
 description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller Accounts] and sell through the [!DNL Amazon Marketplace], download and install the Amazon Sales Channel extension.
-exl-id: ebf22e28-b6a2-420b-80ca-2d750839286c
+role: Admin, Developer
+feature: Sales Channels, Install, Integration, Tools and External Services
 ---
 # Install the [!DNL Amazon Sales Channel] extension
 
@@ -33,7 +34,7 @@ For more detailed information about using Composer for this process, see the [ex
 
 1. Use the name and version information to update the services connector entry in your `composer.json` file.
 
-   -  Add the extension's name and version to your `composer.json` file.
+   -  Add the extension name and version to your `composer.json` file.
 
    -  Navigate to your [!DNL Commerce] project directory and update your `composer.json` file.
 
@@ -66,8 +67,8 @@ You have the following options for configuring the Amazon sales channel. You do 
    Options include `Once Daily`, `Once Weekly`, and `Once Monthly` (default).
 
 1. (Optional) For **Background Tasks (CRON) Source**, change the setting to `Command Line (CLI) CRON`.
-   
-   This setting is recommended for **_advanced users/administrators_**. 
+
+   This setting is recommended for **_advanced users/administrators_**.
 
 1. Click **[!UICONTROL Save Config]**.
 

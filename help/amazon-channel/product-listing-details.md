@@ -1,6 +1,7 @@
 ---
 title: View Amazon listing details
-description: To understand competitive metrics on your Amazon listings and on individual SKU/product changes, review the Product Listing Details page .
+description: To understand competitive metrics on your Amazon listings and on individual SKU/product changes, review the Product Listing Details page.
+feature: Sales Channels, Products, Merchandising
 exl-id: faece1b1-b4fb-4506-bf77-576ae445ed28
 ---
 # View Amazon listing details

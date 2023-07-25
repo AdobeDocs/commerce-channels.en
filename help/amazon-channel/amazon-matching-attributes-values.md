@@ -1,6 +1,7 @@
 ---
 title: View Amazon attribute mapping
 description: Verify values for your linked Commerce attributes to correctly sync between Commerce and Amazon.
+feature: Sales Channels, Products, Configuration
 exl-id: 11a1fb25-6aa8-43d3-b5d8-772bbe1a5d53
 ---
 # View Amazon attribute mapping
@@ -24,10 +25,10 @@ The _Amazon Value_ differs depending on the attribute type and the Amazon attrib
 
 ![View attribute values](assets/amazon-managing-attribute-values.png){width="600" zoomable="yes"}
 
-|Field|Description|
-|--- |--- |
-|[!UICONTROL Region]|The region for sales activity defined in **[!DNL Amazon Marketplace] Country** during store integration.|
-|[!UICONTROL Magento Product SKU]|Indicates the [!DNL Commerce] products synced with the Amazon store. The value is a product ID assigned by [!DNL Commerce] and linked to a product in the catalog. To open the product in [!DNL Commerce], click the link.|
-|[!UICONTROL ASIN]|Indicates the Amazon Standard Identification Number (ASIN) 10-character alphanumeric unique identifier assigned to the product by Amazon for product identification.|
-|[!UICONTROL Amazon Value]|Indicates the value for the selected attribute. The Amazon Value differs depending on the attribute type and the Amazon attribute that you view. For example, a listed Amazon value for `Label` would be a text value while `AmazonListPrice` would be a numerical amount. The status indicates if the Amazon value has been imported.|
-|[!UICONTROL Status]|Indicates if the attribute values have been imported into [!DNL Commerce] and linked to a [!DNL Commerce] attribute. Options: `Not Imported` / `Imported`|
+| Field                            | Description                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Region]              | The region for sales activity defined in **[!DNL Amazon Marketplace] Country** during store integration.                                                                                                                                                                                                                               |
+| [!UICONTROL Magento Product SKU] | Indicates the [!DNL Commerce] products synced with the Amazon store. The value is a product ID assigned by [!DNL Commerce] and linked to a product in the catalog. To open the product in [!DNL Commerce], click the link.                                                                                                             |
+| [!UICONTROL ASIN]                | Indicates the Amazon Standard Identification Number (ASIN) 10-character alphanumeric unique identifier assigned to the product by Amazon for product identification.                                                                                                                                                                   |
+| [!UICONTROL Amazon Value]        | Indicates the value for the selected attribute. The Amazon Value differs depending on the attribute type and the Amazon attribute that you view. For example, a listed Amazon value for `Label` would be a text value while `AmazonListPrice` would be a numerical amount. The status indicates if the Amazon value has been imported. |
+| [!UICONTROL Status]              | Indicates if the attribute values have been imported into [!DNL Commerce] and linked to a [!DNL Commerce] attribute. Options: `Not Imported` / `Imported`                                                                                                                                                                              |

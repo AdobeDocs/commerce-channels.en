@@ -1,6 +1,7 @@
 ---
 title: Amazon communication errors log
 description: The Communication Errors Log displays any communication errors between Amazon and [!DNL Commerce].
+feature: Sales Channels, Logs
 exl-id: 0d9f54ba-0fb7-4cd8-a18e-3335f37097a4
 ---
 # Amazon communication errors log
@@ -15,9 +16,9 @@ Amazon sales channel home pages share some common [workspace controls](./workspa
 
 ## Default columns
 
-|Column|Description|
-|--- |--- |
-|[!UICONTROL Amazon Store Name]|The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
-|[!UICONTROL Error Code]|The code received from Amazon to identify the error type. |
-|[!UICONTROL Message]|The message that describes the error associated to the error code. |
-|[!UICONTROL Created On]|The date and time the error occurred. |
+| Column                         | Description                                                                                                           |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Amazon Store Name] | The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
+| [!UICONTROL Error Code]        | The code received from Amazon to identify the error type.                                                             |
+| [!UICONTROL Message]           | The message that describes the error associated to the error code.                                                    |
+| [!UICONTROL Created On]        | The date and time the error occurred.                                                                                 |

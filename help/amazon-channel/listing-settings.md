@@ -2,6 +2,7 @@
 title: View Amazon listing settings
 description: Use the listing settings to define how your [!DNL Commerce] catalog products are listed on [!DNL Amazon Marketplace].
 redirect_from: /sales-channels/asc/ob-listing-settings.html
+feature: Sales Channels, Products, Merchandising, Configuration
 exl-id: 939babd0-8e6d-40b8-a42a-fc5c7dc3f98b
 ---
 # View listing settings

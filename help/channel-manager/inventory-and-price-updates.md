@@ -1,6 +1,8 @@
 ---
 title: Inventory and Price Updates
 description: '[!DNL Channel Manager] syncs inventory and price updates between the [!DNL Commerce] store and [!DNL Walmart Marketplace] so that you can manage your sales channel operations from the [!DNL Commerce] Admin'
+feature: Sales Channels, Merchandising, Inventory, Tools and External Services
+role: Leader, Admin, User
 exl-id: 4dd9fa4a-b12f-4795-a7b2-84ea0fc26aa5
 ---
 # Update Inventory and Pricing

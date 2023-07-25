@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - Price scope
 description: Use the Commerce pricing scope to manage pricing according to multiple websites or globally.
+feature: Sales Channels, Price Rules
 exl-id: 24a1eac1-d579-4063-a33c-71969bc2b4b9
 ---
 # Price scope

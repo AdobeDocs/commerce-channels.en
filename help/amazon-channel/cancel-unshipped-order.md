@@ -1,6 +1,7 @@
 ---
 title: Cancel an unshipped Amazon order
 description: Cancel a pending or partially shipped (unshipped) order through your Amazon [!DNL Seller Central] account.
+feature: Sales Channels, Orders, Shipping/Delivery
 exl-id: a6df09b7-7f62-47e5-a2d3-1761802255d0
 ---
 # Cancel an unshipped Amazon order

@@ -1,6 +1,7 @@
 ---
 title: Amazon sales channel - [!UICONTROL Listing Changes Log]
 description: Amazon Sales Channel provides the Listing Changes Log to help you monitor the affected changes in your Amazon Seller account.
+feature: Sales Channels, Logs
 exl-id: 9c4db5ac-cbfb-4584-b216-4aead2a28189
 ---
 # [!UICONTROL Listing Changes Log]
@@ -15,10 +16,10 @@ Amazon sales channel home pages share some common [workspace controls](./workspa
 
 ## Default columns
 
-|Column|Description|
-|--- |--- |
-|[!UICONTROL Amazon Store Name] |The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
-|[!UICONTROL Seller SKU] |The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
-|[!UICONTROL Listing Action] |The type of change that was made to the listing. |
-|[!UICONTROL Comments] |Additional information about the listing change. |
-|[!UICONTROL Created On] |The date and time the change was made. |
+| Column                         | Description                                                                                                             |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Amazon Store Name] | The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md).   |
+| [!UICONTROL Seller SKU]        | The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
+| [!UICONTROL Listing Action]    | The type of change that was made to the listing.                                                                        |
+| [!UICONTROL Comments]          | Additional information about the listing change.                                                                        |
+| [!UICONTROL Created On]        | The date and time the change was made.                                                                                  |

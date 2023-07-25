@@ -1,6 +1,8 @@
 ---
 title: "About [!DNL Amazon Marketplace]"
 description: Expand the reach of your Adobe Commerce or Magento Open Source store by leveraging your product catalog as listings in the Amazon Marketplace.
+role: Leader, Admin, User
+feature: Sales Channels, Tools and External Services
 exl-id: d4943d40-773e-4635-aca4-ae40f8ada7bd
 ---
 # About [!DNL Amazon Marketplace]

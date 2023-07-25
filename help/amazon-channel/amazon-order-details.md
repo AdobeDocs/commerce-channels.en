@@ -1,6 +1,7 @@
 ---
 title: Amazon order details
 description: View details for your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
+feature: Sales Channels, Orders
 exl-id: a85bb6b3-817d-4859-a815-41777f4b8667
 ---
 # Amazon order details

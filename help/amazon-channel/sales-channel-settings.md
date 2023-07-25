@@ -2,6 +2,8 @@
 title: Sales channel settings
 description: To manage logging, cron source, and synchronization for Amazon sales channel functions, update the Commerce configuration.
 exl-id: 69f83774-41de-4fde-a357-f100d1bcd9f0
+role: Admin, Developer
+feature: Sales Channels, Configuration, Logs
 ---
 # Sales channel settings
 

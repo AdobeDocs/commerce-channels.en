@@ -2,6 +2,7 @@
 title: "Introduction to [!DNL Amazon Sales Channel]"
 description: "[!DNL Amazon Sales Channel] enables merchants to seamlessly sell products in the [!DNL Amazon Marketplace]."
 redirect_from: /sales-channels/amazon/amazon-sales-channel.html
+role: Admin, User, Leader
 exl-id: a4a6f446-7029-4c92-bce3-5b857cc33056
 ---
 # Introduction to [!DNL Amazon Sales Channel]

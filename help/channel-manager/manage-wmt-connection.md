@@ -1,6 +1,8 @@
 ---
 title: Manage Walmart Marketplace Connection
 description: 'Update the API credentials to authorize the connection between a [DNL! Commerce] store view and the [!DNL Walmart Marketplace]. The connection is required to connect [!DNL Commerce] product listings and synchronize inventory, price, order, and shipping data between [!DNL Commerce] and the Walmart.'
+role: Admin, Developer
+feature: Sales Channels, Configuration, Shipping/Delivery, Integration
 exl-id: 817b1b58-a57e-4c8d-b08f-1ce3bec15bc3
 ---
 # Map Shipping Carriers

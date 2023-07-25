@@ -1,6 +1,7 @@
 ---
 title: Common Amazon order processing tasks
 description: Use the corresponding [!DNL Commerce] orders created for Amazon orders to manage order activity and processing in the [!UICONTROL Commerce] Admin.
+feature: Sales Channels, Orders
 exl-id: a44f36f0-db18-4de5-9c5b-cc68f4793008
 ---
 # Common Amazon order processing tasks

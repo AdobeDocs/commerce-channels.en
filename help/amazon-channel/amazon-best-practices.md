@@ -1,6 +1,8 @@
 ---
 title: Best practices and limitations for [!DNL Amazon sales channel]
 description: Review the best practices and limitations when using the Amazon sales channel for Adobe Commerce and Magento Open Source.
+role: Leader, Admin, User
+feature: Sales Channels, Best Practices
 exl-id: 7f7faae1-7aa7-413c-b534-1039e6a35173
 ---
 # Best practices and limitations for [!DNL Amazon sales channel]
@@ -17,7 +19,6 @@ Best practices include:
 
 - For UK regions, it is best  practice to enroll in the [Amazon VAT Calculation Service](https://sell.amazon.co.uk/learn/vat-resources/){target="_blank"} before onboarding Amazon sales channel.
 
-   
    >[!NOTE]
    >
    >It may take 10-14 days for Amazon to verify and activate your VAT Calculation Service account.
