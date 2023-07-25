@@ -1,7 +1,7 @@
 ---
 title: Amazon order settings
 description: Use the Order settings to determine how Amazon orders are imported into and processed in your Commerce store.
-feature: Sales Channels, Orders, Configuration
+feature: Sales Channels, Orders, Inventory, Configuration
 exl-id: dc8d0ce1-86a8-4949-b49a-73c5cf62db16
 ---
 # Amazon order settings
