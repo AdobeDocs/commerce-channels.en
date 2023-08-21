@@ -1,7 +1,7 @@
 ---
 title: Active Amazon listings
 description: The Amazon sales channel provides the Active tab to monitor active Amazon listings and that are matched to a product in your Adobe Commerce catalog.
-feature: Sales Channels, Products, Merchandising, Catalogs
+feature: Sales Channels, Products, Merchandising, Catalog Management
 exl-id: c9105abc-74d6-442b-8d7a-e5aaea8872e4
 ---
 # Active Amazon listings
