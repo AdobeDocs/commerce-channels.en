@@ -23,6 +23,16 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 ## v4.4.4
 
+*August 30, 2023*
+
+[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+
+![Fixed issue](../assets/fix.svg) Added ServicesId support and migrate to Adobe.IO.
+
+![Fixed issue](../assets/fix.svg) Fixes in order creation flow.
+
+## v4.4.4
+
 *March 7, 2023*
 
 [!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
