@@ -29,6 +29,11 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 ![New](../assets/new.svg) Added the Adobe.IO API gateway, changing from MAGI, for improved authentication security. `ServicesId` provides a new UI to manage your Adobe.IO credentials, similar to other [Adobe Commerce Services](https://experienceleague.adobe.com/docs/commerce-admin/config/services/saas.html). 
 
+>[!NOTE]
+>
+>Merchants must ensure that the [private and public API keys](https://experienceleague.adobe.com/docs/commerce-admin/config/services/saas.html) are updated for production. 
+
+
 ![Fixed issue](../assets/fix.svg) Identified a configuration setting issue and fixed the order creation flow.
 
 ## v4.4.4
