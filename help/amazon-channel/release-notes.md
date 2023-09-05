@@ -21,6 +21,21 @@ These release notes describe the initial release of [!DNL Amazon sales channel] 
 
 See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html) for versioning, support, and compatibility.
 
+## v4.5.0
+
+*August 30, 2023*
+
+[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+
+![New](../assets/new.svg) Added the Adobe.IO API gateway, changing from MAGI, for improved authentication security. `ServicesId` provides a new UI to manage your Adobe.IO credentials, similar to other [Adobe Commerce Services](https://experienceleague.adobe.com/docs/commerce-admin/config/services/saas.html). 
+
+>[!NOTE]
+>
+>Merchants must ensure that the [private and public API keys](https://experienceleague.adobe.com/docs/commerce-admin/config/services/saas.html) are updated for production. 
+
+
+![Fixed issue](../assets/fix.svg) Identified a configuration setting issue and fixed the order creation flow.
+
 ## v4.4.4
 
 *March 7, 2023*
