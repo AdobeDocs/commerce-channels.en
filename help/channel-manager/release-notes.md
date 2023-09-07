@@ -12,12 +12,15 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 ![Fixed issue](../assets/fix.svg) Fixes and improvements
 ![Known issue](../assets/bug.svg) Known issues
 
+See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html) to learn about release schedules and support.
+
+See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to learn which Adobe Commerce versions support this extension.
 
 ## v2.0.0
 
  *March 20, 2023*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.4.0 - 2.4.6
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce version 2.4.6
 
 ![New](../assets/new.svg)<!--CHAN-5893--> Channel Manager is now compatible with Adobe Commerce version 2.4.6.
 
@@ -25,7 +28,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
  *November 23, 2022*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.4.0 - 2.4.5
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.0 - 2.4.5
 
 ![New](../assets/new.svg)<!--CHAN-5204--> **Returns and Refunds**—You can now process Walmart Marketplace returns and refunds process for orders shipped through an Adobe Commerce and Magento Open Source Channel Manger store. Information and updates about returns and refunds are synchronized between Walmart and Adobe Commerce so that the current data is available in both the [!DNL Commerce] storefront and [!DNL Walmart Marketplace]. See [Return and refund orders](return-refund-orders.md).
 
@@ -35,7 +38,7 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 
 *January 14, 2022*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.4.0 - 2.4.5
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.0 - 2.4.5
 
 ![New](../assets/new.svg) Initial release of Channel Manager for general availability
 
