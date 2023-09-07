@@ -21,11 +21,13 @@ These release notes describe the initial release of [!DNL Amazon sales channel] 
 
 See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html) for versioning, support, and compatibility.
 
+See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to learn which Adobe Commerce versions support this extension.
+
 ## v4.5.0
 
 *August 30, 2023*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![New](../assets/new.svg) Added the Adobe.IO API gateway, changing from MAGI, for improved authentication security. `ServicesId` provides a new UI to manage your Adobe.IO credentials, similar to other [Adobe Commerce Services](https://experienceleague.adobe.com/docs/commerce-admin/config/services/saas.html). 
 
@@ -40,7 +42,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *March 7, 2023*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![Fixed issue](../assets/fix.svg) Added support for Adobe Commerce 2.4.6 and PHP 8.2.
 
@@ -64,7 +66,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *March 7, 2023*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![Fix](../assets/fix.svg) Added support for Adobe Commerce 2.4.4.
 
@@ -72,7 +74,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *November 11, 2021*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![Fix](../assets/fix.svg) Updated dependencies to support other updated extensions.
 ![Fix](../assets/fix.svg) Added support for PHP 8.1.
@@ -81,7 +83,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *November 11, 2021*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![Fix](../assets/fix.svg) Changed the way Adobe Commerce receives the _User Name_ field from Amazon. Previously, there was an error during order creation when the _User Name_ field contained special characters. Adobe Commerce now receives the _User Name_ data and filters out the special characters so the order can be created successfully.
 
@@ -89,7 +91,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *April 9, 2021*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![New](../assets/new.svg) Added support for Read-Only Mode to the configuration. See [sales channel settings](sales-channel-settings.md).
 
@@ -107,7 +109,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *March 3, 2021*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x and 2.4.0 (supported for 2.4.1 and newer)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 ![Fix](../assets/fix.svg) <!--CHAN-xxxx-->The _Order Details_ feature has been redesigned and no longer relies on the _Import Orders_ setting. Order details now appear in the Amazon Sales Channel interface for all orders.
 
@@ -123,7 +125,7 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 *March 3, 2021*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x (supported for 2.4.x)
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.1 and newer
 
 If you have a previous [!DNL Amazon sales channel] version installed and attempt to update your Adobe Commerce to version 2.4.0, you are prompted to update the extension before you can complete the Adobe Commerce update.
 
@@ -153,7 +155,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 *May 7, 2020*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.x
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x
 
 ![New](../assets/new.svg) <!--4247, 4230-->Changed the order import process to align with Commerce order requirements. These changes correct issues that prevented Commerce from creating the corresponding order for an imported order. See [Manage Orders](managing-orders.md) for information on order blockers and solutions.
 
@@ -183,7 +185,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 *March 25, 2020*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.3.0-2.3.4
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.3.0-2.3.4
 
 >[!IMPORTANT]
 >
@@ -201,7 +203,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 *November 11, 2019*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.2.4 and newer
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.2.4 and newer
 
 ![Fix](../assets/fix.svg) **Numerical Field Settings**: <!--CHAN-3779-->Fields that require a numeric-based value have been updated to only accept numeric characters. Example: Pricing Rule Settings > Adjustment Amount field
 
@@ -213,7 +215,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 *October 7, 2019*
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.2.4 and newer
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.2.4 and newer
 
 ![New](../assets/new.svg) **Amazon UK Marketplace Now Available**: Users can choose the United Kingdom marketplace when creating and integrating a Commerce store. This UK upgrade includes additional support for:
 
@@ -231,7 +233,7 @@ If you have a previous [!DNL Amazon sales channel] version installed and attempt
 
 ## v2.0.0
 
-[!BADGE Compatibility]{type=Informative tooltip="Compatibility"} Adobe Commerce versions 2.2.4 and newer
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.2.4 and newer
 
 >[!NOTE]
 >
