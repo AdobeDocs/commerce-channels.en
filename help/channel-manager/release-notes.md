@@ -16,6 +16,14 @@ See [Upcoming Releases](https://experienceleague.adobe.com/docs/commerce-operati
 
 See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to learn which Adobe Commerce versions support this extension.
 
+## v2.1.0
+
+ *October 10, 2023*
+
+[!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce version 2.4.6 and 2.4.7-beta
+
+![New](../assets/new.svg) Channel Manager is now compatible with Adobe Commerce version 2.4.7 beta releases.
+
 ## v2.0.0
 
  *March 20, 2023*
