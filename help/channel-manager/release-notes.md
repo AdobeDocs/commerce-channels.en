@@ -22,7 +22,7 @@ See [Product Availability](https://experienceleague.adobe.com/docs/commerce-oper
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce version 2.4.7-beta and earlier 2.4.x releases
 
-![New](../assets/new.svg) Channel Manager is now compatible with [Adobe Commerce version 2.4.7 beta]( https://experienceleague.adobe.com/docs/commerce-operations/release/beta.html) releases.
+![New](../assets/new.svg) Channel Manager is now compatible with [Adobe Commerce version 2.4.7 beta](https://experienceleague.adobe.com/docs/commerce-operations/release/beta.html) releases.
 
 ## v2.0.0
 
