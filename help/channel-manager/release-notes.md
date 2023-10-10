@@ -18,7 +18,7 @@ See [Product Availability](https://experienceleague.adobe.com/docs/commerce-oper
 
 ## v2.1.0
 
- *October 10, 2023*
+ *October 3, 2023*
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce version 2.4.7-beta and earlier 2.4.x releases
 
