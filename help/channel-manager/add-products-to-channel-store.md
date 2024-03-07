@@ -58,7 +58,7 @@ The import process can take up to 30 minutes or more depending on how many produ
 
      ![Product import from catalog to sales channel confirmation message](assets/product-import-from-catalog-confirmation.png){width="400"}
 
-     If the message indicates that the update is scheduled, use the [queue:consumers:start](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/start-message-queues.html) [!DNL CLI] command to process the update immediately.
+     If the message indicates that the update is scheduled, use the [`queue:consumers:start`](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/start-message-queues.html) [!DNL CLI] command to process the update immediately.
 
      ```bash
      $ bin/magento queue:consumers:start product_action_attribute.update
