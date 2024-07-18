@@ -66,7 +66,7 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
      
      Sample response:
    
-     ```terminal
+     ```bash
      Module is enabled
      ```
 
@@ -148,7 +148,7 @@ During installation, the extension name (`magento\channel-manager`) is automatic
 
    Sample response:
 
-   ```terminal
+   ```bash
    Module is enabled
    ```
 
@@ -170,7 +170,7 @@ Use the following information to resolve errors that occur during the Channel Ma
 
 If the [access keys](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/authentication-keys.html) used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
-```terminal
+```bash
 Could not find a matching version of package magento/channel-manager. Check the package spelling, your version constraint and that the package is available in a stability which matches your minimum-stability (stable).
 ```
 
@@ -194,7 +194,7 @@ Check the key configuration:
 
 The following error displays if the system does not have enough memory allocated for PHP.
 
-```terminal
+```bash
 Fatal error: Allowed memory size of 2146435072 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer/src/Composer/DependencyResolver/RuleWatchGraph.php on line 52
 ```
 
